@@ -43,7 +43,31 @@
 
 **-John Michell (1724-1793) British astronomer and geologist.** [Learn more.](http://www.amnh.org/education/resources/rfl/web/essaybooks/cosmic/cs_michell.html)
 
-## E
+## Episode 5
+
+**-Mozi, or Mo Tzu (470-390 BCE) Chinese philosopher, creator of the camera obscura, and founder of Mohism.** [Learn more.](http://opticalcollimator.com/2013/07/09/from-mozi-to-polaroid-a-concise-history-of-photography/%20http://opticalcollimator.com/2013/07/09/from-mozi-to-polaroid-a-concise-history-of-photography/)
+
+**-Ibn Alhazen, or al-Haytham (965-1040) Iraqi mathematician, astronomer, and father of optics.** [Learn more.](http://www.ncbi.nlm.nih.gov/pubmed/18822953)
+
+-Galileo (1564-1642) Italian astronomer placed under house arrest for heresy. [Learn more.](http://galileo.rice.edu/bio/)
+
+**-Isaac Newton (1643-1727) English natural philosopher, physicist, and mathematician.** [Learn more](http://web.clas.ufl.edu/users/ufhatch/pages/01-courses/current-courses/08sr-newton.htm).
+
+**-William Herschel (1738-1822) British-German astronomer.** [Learn more.](http://www.space.com/17432-william-herschel.html)
+
+**-William Herschel (1738-1822) British-German astronomer.** [Learn more.](http://www.space.com/17432-william-herschel.html)
+
+**–****Joseph von Fraunhofer**  **(1787-1826) German optician.** [Learn more.](http://micro.magnet.fsu.edu/optics/timeline/people/fraunhofer.html)
+
+## Episode 6
+
+-Charles Darwin (1809-1882) English naturalist and geologist. [Learn more.](http://www.bbc.co.uk/history/historic_figures/darwin_charles.shtml)
+
+**-Thales** (620-546 BCE) Greek philosopher.  [Learn more.](http://www.iep.utm.edu/thales/)
+
+**-Democritus (460-370 BCE) Greek philosopher.**  [Learn more.](http://plato.stanford.edu/entries/democritus/)
+
+-Wolfgang Pauli (1900-1958) Austrian theoretical physicist and Nobel Laureate.  [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1945/pauli-facts.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzMxODc0MF19
+eyJoaXN0b3J5IjpbLTk1MTAyMjAzXX0=
 -->
