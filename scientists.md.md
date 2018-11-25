@@ -68,6 +68,42 @@
 **-Democritus (460-370 BCE) Greek philosopher.**  [Learn more.](http://plato.stanford.edu/entries/democritus/)
 
 -Wolfgang Pauli (1900-1958) Austrian theoretical physicist and Nobel Laureate.  [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1945/pauli-facts.html)
+
+## Episode 7
+
+**-Clair Patterson (1922-1995) American geochemist.** [Learn more.](http://www.iptv.org/iowapathways/mypath.cfm?ounid=ob_000330)
+
+**-Harrison Brown (1917-1986) American geochemist.** [Learn more.](http://www.britannica.com/EBchecked/topic/81528/Harrison-Brown)
+
+-Lorna (Laurie) McCleary American chemist. _This is the first mention of a female scientist on Cosmos, is mentioned as wife of Claire Patterson. The two worked on the Manhattan Project together._  [Learn more.](http://data.desmoinesregister.com/famous-iowans/claire-patterson)
+
+-Charles Lyell (1797-1875) British geologist. [Learn more.](http://evolution.berkeley.edu/evolibrary/article/history_12)
+
+-Michael Faraday (1791-1867) English physicist. [Learn more.](http://www.vigyanprasar.gov.in/scientists/MFaraday.htm)
+
+-JJ Thomson (1856-1940) British physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1906/thomson-bio.html)
+
+-Ernest Rutherford (1871-1937) New Zealand-born physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1908/rutherford-bio.html)
+
+**-Robert A. Kehoe (1893-1992) American toxicologist.** [Learn more](http://www.toxicology.org/gp/gp_kehoe.asp)  as well as  [here](http://en.wikipedia.org/wiki/Robert_A._Kehoe).
+
+## Episode 8
+
+-Edward Charles Pickering (1846-1919) American astronomer and physicist.  [Learn more.](http://www.smithsonianmag.com/history/the-women-who-mapped-the-universe-and-still-couldnt-get-any-respect-9287444/?no-ist)
+
+**-Annie Jump Cannon (1863-1941) American astronomer.** [Learn more.](http://www.sdsc.edu/ScienceWomen/cannon.html)
+
+**-Henrietta Swan Leavitt (1868-1921) American astronomer.** [Learn more.](http://cosmology.carnegiescience.edu/timeline/1912)
+
+**-Pickering’s Harem (1906-1920).** [Learn more.](https://www.cfa.harvard.edu/~jshaw/pick.html)
+
+–**Cecilia H Payne (1900-1979) British-American astronomer and astrophysicist.** [Learn more.](http://www.amnh.org/education/resources/rfl/web/essaybooks/cosmic/p_payne.html)
+
+**-Henry Norris Russell (1877-1957) American astronomer.**  [Learn more.](http://etcweb.princeton.edu/CampusWWW/Companion/russell_henry.html)
+
+-Arthur Eddington (1882-1944) British astronomer and astrophysicist.  [Learn more.](http://silas.psfc.mit.edu/eddington/)
+
+-Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate.  [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTAyMjAzXX0=
+eyJoaXN0b3J5IjpbMTk4ODExNzcyOF19
 -->
