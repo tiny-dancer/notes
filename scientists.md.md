@@ -146,6 +146,30 @@ Susan Greenfield (1950-present) English neuroscientist and broadcaster.  [Learn 
 -Carl Sagan (1934-1996) American astronomer. [Learn more.](http://www.carlsagan.com/)
 
 -Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
+
+## Episode 12
+
+Charles David Keeling (1928-2005) American oceanographer.  [Learn more.](http://scrippsco2.ucsd.edu/sub_program_history/charles_david_keeling_biography.html)
+
+Joseph Fourier (1768-1830) French mathematician and physicist.  [Learn more.](http://www-history.mcs.st-and.ac.uk/Biographies/Fourier.html)
+
+Svante Arrhenius (1859-1927) Swedish physicist, chemist, and Nobel Laureate.  [Learn more.](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1903/arrhenius-bio.html)
+
+E.O. Hulburt American physicist.  [Learn more.](http://www.treehugger.com/climate-change/scientists-1932-carbon-dioxide-heats-earth.html)
+
+Guy Callendar (1898-1964) English engineer and inventor.  [Learn more.](http://www.aip.org/history/climate/xGSCallendar.htm)
+
+Gilbert Plass (1920-2004) Canadian physicist.  [Learn more.](http://www.scientificamerican.com/author/gilbert-n-plass/)
+
+Carl Sagan (1934-1996) American astronomer. [Learn more.](http://www.carlsagan.com/)
+
+Wallace Broecker (1931-present) American geologist. [Learn more.](http://blogs.ei.columbia.edu/files/2009/10/broeckerglobalwarming75.pdf)
+
+James Hansen (1941-present) American astrophysicist and climatologist. [Learn more.](http://www.atmos.washington.edu/~davidc/ATMS211/articles_optional/Hansen81_CO2_Impact.pdf)
+
+**Augustin Mouchot (1825-1911) French math teacher and inventor.**  [Learn more.](http://www.thenational.ae/news/uae-news/environment/augustin-mouchot-the-solar-pioneer-whose-moment-in-the-sun-came-too-soon)
+
+Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTY4NTIwOF19
+eyJoaXN0b3J5IjpbMTIxNjk4MTcwMl19
 -->
