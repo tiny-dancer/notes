@@ -104,6 +104,26 @@
 -Arthur Eddington (1882-1944) British astronomer and astrophysicist.  [Learn more.](http://silas.psfc.mit.edu/eddington/)
 
 -Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate.  [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
+
+## Episode 9
+
+-Abraham Ortelius (1527-1598) Flemish cartographer and geographer.  [Learn more.](http://memory.loc.gov/ammem/gmdhtml/gnrlort.html)
+
+**-Alfred Wegener (1880-1930) German meteorologist and geophysicist.**  [Learn more.](http://www.ucmp.berkeley.edu/history/wegener.html)
+
+**-Marie Tharp (1920-2006) American geologist and oceanographic cartographer.** [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
+
+–**Bruce Heezen (1924-1977) American geologist.** [Learn more.](http://www.ovguide.com/bruce-c-heezen-9202a8c04000641f8000000000114271#)
+
+## Episode 10
+
+-**Michael Faraday (1791-1867) English inventor and electrical pioneer.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/faraday.aspx)
+
+- Isaac Newton (1643-1727) English natural philosopher, physicist, and mathematician. [Learn more](http://web.clas.ufl.edu/users/ufhatch/pages/01-courses/current-courses/08sr-newton.htm).
+
+- Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
+
+- **Humphry Davy (1778-1829) Cornish chemist and inventor.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/davy.aspx)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODExNzcyOF19
+eyJoaXN0b3J5IjpbLTY0NDM5NTMyMl19
 -->
