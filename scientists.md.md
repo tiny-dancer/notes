@@ -117,13 +117,35 @@
 
 ## Episode 10
 
--**Michael Faraday (1791-1867) English inventor and electrical pioneer.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/faraday.aspx)
+**Michael Faraday (1791-1867) English inventor and electrical pioneer.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/faraday.aspx)
 
-- Isaac Newton (1643-1727) English natural philosopher, physicist, and mathematician. [Learn more](http://web.clas.ufl.edu/users/ufhatch/pages/01-courses/current-courses/08sr-newton.htm).
+Isaac Newton (1643-1727) English natural philosopher, physicist, and mathematician. [Learn more](http://web.clas.ufl.edu/users/ufhatch/pages/01-courses/current-courses/08sr-newton.htm).
 
-- Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
+Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
 
-- **Humphry Davy (1778-1829) Cornish chemist and inventor.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/davy.aspx)
+**Humphry Davy (1778-1829) Cornish chemist and inventor.** [Learn more.](http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/electrochemistry/davy.aspx)
+
+Robert Stawell Ball (1840-1913) Irish astronomer.  [Learn more.](http://www-history.mcs.st-andrews.ac.uk/history/Biographies/Ball_Robert.html)
+
+Julian Huxley (1887-1975) English evolutionary biologist.  [Learn more.](http://www.galtoninstitute.org.uk/Newsletters/GINL9912/julian_huxley.htm)
+
+Desmond Morris (1928-present) English zoologist.  [Learn more.](http://www.independent.co.uk/news/people/profiles/how-we-met-david-attenborough--desmond-morris-8842058.html)
+
+David Attenborough (1926-present) English naturalist and broadcaster.  [Learn more.](http://www.independent.co.uk/news/people/profiles/how-we-met-david-attenborough--desmond-morris-8842058.html)
+
+Carl Sagan (1934-1996) American astronomer. [Learn more.](http://www.carlsagan.com/)
+
+Richard Dawkins (1941-present) English evolutionary biologist and ethologist.  [Learn more.](http://www.theguardian.com/science/dawkins)
+
+Susan Greenfield (1950-present) English neuroscientist and broadcaster.  [Learn more.](http://www.susangreenfield.com/)
+
+**James Clerk Maxwell (1831-1879) Scottish physicist**. [Learn more.](http://www.clerkmaxwellfoundation.org/html/who_was_maxwell_.html)
+
+## Episode 11
+
+-Carl Sagan (1934-1996) American astronomer. [Learn more.](http://www.carlsagan.com/)
+
+-Albert Einstein (1879-1955) German-born theoretical physicist and Nobel Laureate. [Learn more.](http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDM5NTMyMl19
+eyJoaXN0b3J5IjpbMTQxMTY4NTIwOF19
 -->
