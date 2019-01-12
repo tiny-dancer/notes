@@ -10,7 +10,7 @@ Born into a time where women [obtained fewer than 4 percent](https://books.googl
  
  **Major Achievement**:  Marie, along with Bruce Heezen, created the first true map of the Earth including the ocean floor based on ocean sonar data.  When the pair set a map of oceanic earthquake epicenters on a light table over her seafloor map, the earthquakes fell right along the rift valley.  This was scientific validation of [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics.
 
-**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  By understanding Earth's moving continents and the evolution from the 335 million year old supercontinent of Pangea, humans are now able to utilize this information to predict future events such as Earthquakes and tectonic shifts such as California breaking from the rest of the continental United States.
+**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  By understanding Earth's moving continents and the evolution from the 335 million year old supercontinent of Pangea, humans are now able to utilize this information to predict future events such as Earthquakes and tectonic shifts like California breaking from the rest of the continental United States.
 
 **Popular Quote**:  
 > There's truth to the old cliché that a picture is worth a thousand words and that seeing is believing
@@ -20,6 +20,8 @@ Born into a time where women [obtained fewer than 4 percent](https://books.googl
 - https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
 - https://womenyoushouldknow.net/cartography-marie-tharp/
 - Cosmos, episode 9
+	- http://investigacion.izt.uam.mx/alva/cosmos2014_01-1.pdf
+- https://en.wikipedia.org/wiki/Pangaea
 
 
 
@@ -195,7 +197,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTE4NjU4NCwtMjExMjQzNzIwNCwxND
-I3OTcyOTgyLC0xMDM1NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5
-ODE3MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjk5MzkxMzUsLTIxMTI0MzcyMDQsMT
+QyNzk3Mjk4MiwtMTAzNTQyNjk4MiwtMTg3MDk2NjU2NywxMjE2
+OTgxNzAyXX0=
 -->
