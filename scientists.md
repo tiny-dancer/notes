@@ -4,6 +4,8 @@
 
 ## Chronicle
 
+### Galileo (1564-1642)
+
 ### Marie Tharp  (1920-2006)
 
 ![enter image description here](https://womenyoushouldknow.net/wp-content/uploads/2018/02/marie_tharp_estate.jpg)
@@ -199,7 +201,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTAxNzU4OCwtMjE0MTMwNjA2NCwtMT
-A2OTkzOTEzNSwtMjExMjQzNzIwNCwxNDI3OTcyOTgyLC0xMDM1
-NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5ODE3MDJdfQ==
+eyJoaXN0b3J5IjpbNDMxNzM3MTE1LC0yMTQxMzA2MDY0LC0xMD
+Y5OTM5MTM1LC0yMTEyNDM3MjA0LDE0Mjc5NzI5ODIsLTEwMzU0
+MjY5ODIsLTE4NzA5NjY1NjcsMTIxNjk4MTcwMl19
 -->
