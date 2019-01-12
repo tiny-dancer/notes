@@ -15,6 +15,8 @@ Security
 - Peremeter Control
 - Compute baselines (VM vulerabilies)
 - TVM
+- SIR
+- Configuration Security
 - Intrusion detection
 
 Testing Pyramid
@@ -23,5 +25,14 @@ Testing Pyramid
 - Functional/Integration Tests
   - These are usually built using the same framework as the unit test framework.  Here only some or none of the depedencies are mocked and you're actually verifying against real depedencies.  These usually take longer as they entail more set up and clean up, for example after writing to a real database you'll want to clean up or teardown the database after test execution. 
 - Acceptance/E2E Tests
-  - 
+
+
+Configuration Management (VM's)
+- Chef, ansible, etc.
+- Immutable (e.g. Packer)
+
+Infrastracture as Code
+- Terraform (Cross-Provider)
+- Cloudformations (AWS)
+- ARM Templates (Azure)
 
