@@ -8,9 +8,9 @@
 
 Born into a time where women [obtained fewer than 4 percent](https://books.google.com/books?id=Ez7DCJM57esC&lpg=PA67&ots=IUyCk-aE9s&dq=women%20in%20geology%201940s&pg=PA64#v=onepage&q=women%20obtained%20less%20than%204&f=false) of all earth sciences doctorates; geologist and oceanographic cartographer Marie Tharp's dedication pushed past dismissals of "girl talk" enroute to providing the first scientific evidence of plate tectonics and moving continents, forever changing the way how humans understand Earth and its history.
  
- **Major Achievement**:  Created the first true map of the Earth including the ocean floor based on ocean sonar data, along with Bruce Heezen.  When the pair set a map of oceanic earthquake epicenters on a light table over her seafloor map, the earthquakes fell right along the rift valley.  This was scientific validation of [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics.
+ **Major Achievement**:  Marie, along with Bruce Heezen, created the first true map of the Earth including the ocean floor based on ocean sonar data.  When the pair set a map of oceanic earthquake epicenters on a light table over her seafloor map, the earthquakes fell right along the rift valley.  This was scientific validation of [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics.
 
-**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  By understanding Earth's moving continents and the evolution from the 335 million year old supercontinent of Pangea, humans are now able to utilize this information to predict future events such as EarthQu
+**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  By understanding Earth's moving continents and the evolution from the 335 million year old supercontinent of Pangea, humans are now able to utilize this information to predict future events such as Earthquakes and tectonic shifts such as California breaking from the rest of the continental United States.
 
 **Popular Quote**:  
 > There's truth to the old cliché that a picture is worth a thousand words and that seeing is believing
@@ -195,7 +195,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTc3ODE2MiwtMjExMjQzNzIwNCwxND
+eyJoaXN0b3J5IjpbLTY3MTE4NjU4NCwtMjExMjQzNzIwNCwxND
 I3OTcyOTgyLC0xMDM1NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5
 ODE3MDJdfQ==
 -->
