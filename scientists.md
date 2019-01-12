@@ -113,6 +113,8 @@
 
 **-Marie Tharp (1920-2006) American geologist and oceanographic cartographer.** [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
 
+  - https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
+
 –**Bruce Heezen (1924-1977) American geologist.** [Learn more.](http://www.ovguide.com/bruce-c-heezen-9202a8c04000641f8000000000114271#)
 
 ## Episode 10
@@ -171,5 +173,5 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjk4MTcwMl19
+eyJoaXN0b3J5IjpbLTE4NzA5NjY1NjcsMTIxNjk4MTcwMl19
 -->
