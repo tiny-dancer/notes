@@ -42,3 +42,13 @@ Pipeline as Code
 
 Policy as Code
 - Hashi Vault, Config Rules, Azure Policy
+
+IAM
+- OpenID Connect
+- SAML 2.0
+- Centralized AuthZ
+  - UMA 2.0
+- Attributes Based Access Control (Contextual Access Control)
+  - e.g. RBAC
+  
+Zero Trust Networks 
