@@ -1,15 +1,15 @@
 # The Software Engineer's Handbook
 
-## What I learned I didn't know by working for the largest US Healthcare company. 
+## What I learned by working for the largest US Healthcare company. 
 
 
-Performance Tests
-Quality Tests
-Code Analsysis
-Security Tests
-- SAST, DAST, IAST,
-- Pen Tests
-- Code Scans
+- Performance Tests
+- Quality Tests
+  - Code Analsysis
+- Security Tests
+  - SAST, DAST, IAST,
+  - Pen Tests
+  - Code Scans
 
 Security
 - Peremeter Control
