@@ -10,6 +10,8 @@ Born into a time where women [obtained fewer than 4 percent](https://books.googl
  
  **Major Achievement**:  Created the first true map of the Earth including the ocean floor based on ocean sonar data, along with Bruce Heezen
 
+**Impact**: Confirmed plate tectonic theory.  This validated moving continents a
+
 **Popular Quote**:  
 > There's truth to the old cliché that a picture is worth a thousand words and that seeing is believing
 
@@ -193,7 +195,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzM1NDU2OCwtMjExMjQzNzIwNCwxND
-I3OTcyOTgyLC0xMDM1NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5
-ODE3MDJdfQ==
+eyJoaXN0b3J5IjpbMzAxMzE1Mzk3LC0yMTEyNDM3MjA0LDE0Mj
+c5NzI5ODIsLTEwMzU0MjY5ODIsLTE4NzA5NjY1NjcsMTIxNjk4
+MTcwMl19
 -->
