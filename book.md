@@ -26,6 +26,7 @@ Testing Pyramid
   - These are usually built using the same framework as the unit test framework.  Here only some or none of the depedencies are mocked and you're actually verifying against real depedencies.  These usually take longer as they entail more set up and clean up, for example after writing to a real database you'll want to clean up or teardown the database after test execution. 
 - Acceptance/E2E Tests
 
+Everything as Code
 
 Configuration Management (VM's)
 - Chef, ansible, etc.
@@ -36,3 +37,8 @@ Infrastracture as Code
 - Cloudformations (AWS)
 - ARM Templates (Azure)
 
+Pipeline as Code
+- Jenkins
+
+Policy as Code
+- Hashi Vault, Config Rules, Azure Policy
