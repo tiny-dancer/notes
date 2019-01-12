@@ -1,5 +1,14 @@
 
 
+# Scientists
+
+## Chronicle
+
+**Marie Tharp  (1920-2006)**: American geologist and oceanographic cartographer.** 
+- [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
+- https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
+
+
 
 # Scientists of Cosmos: A Spacetime Odyssey
 
@@ -173,6 +182,6 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTczNzI2MCwtMTg3MDk2NjU2NywxMj
-E2OTgxNzAyXX0=
+eyJoaXN0b3J5IjpbLTEwMzU0MjY5ODIsLTE4NzA5NjY1NjcsMT
+IxNjk4MTcwMl19
 -->
