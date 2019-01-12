@@ -4,9 +4,14 @@
 
 ## Chronicle
 
-**Marie Tharp  (1920-2006)**: American geologist and oceanographic cartographer.** 
+**Marie Tharp  (1920-2006)**: Born into a time where women [obtained fewer than 4 percent](https://books.google.com/books?id=Ez7DCJM57esC&lpg=PA67&ots=IUyCk-aE9s&dq=women%20in%20geology%201940s&pg=PA64#v=onepage&q=women%20obtained%20less%20than%204&f=false) of all earth sciences doctorates between 1920 and 1970  
+Read more: https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/#pXlXksX9bwzeIhIf.99  
+Give the gift of Smithsonian magazine for only $12! http://bit.ly/1cGUiGv  
+Follow us: @SmithsonianMag on TwitterAmerican geologist and oceanographic cartographer.** 
 - [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
 - https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
+- https://womenyoushouldknow.net/cartography-marie-tharp/
+- Cosmos, episode 9
 
 
 
@@ -182,6 +187,6 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0MjY5ODIsLTE4NzA5NjY1NjcsMT
-IxNjk4MTcwMl19
+eyJoaXN0b3J5IjpbLTI5ODY0Mjg5NSwtMTAzNTQyNjk4MiwtMT
+g3MDk2NjU2NywxMjE2OTgxNzAyXX0=
 -->
