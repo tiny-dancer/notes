@@ -10,7 +10,7 @@ Born into a time where women [obtained fewer than 4 percent](https://books.googl
  
  **Major Achievement**:  Created the first true map of the Earth including the ocean floor based on ocean sonar data, along with Bruce Heezen.  When the pair set a map of oceanic earthquake epicenters on a light table over her seafloor map, the earthquakes fell right along the rift valley.  This was scientific validation of [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics.
 
-**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  This confirmed Earth's moving continents and the 335 million year old supercontentin Pangea the super continent
+**Impact**: Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred Wegener")'s theory of plate tectonics ushered in a new era of human's understanding Earth and it's history.  By understanding Earth's moving continents and the evolution from the 335 million year old supercontinent of Pangea, humans are now able to utilize this information to predict future events such as EarthQu
 
 **Popular Quote**:  
 > There's truth to the old cliché that a picture is worth a thousand words and that seeing is believing
@@ -195,7 +195,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1ODU2MjI1LC0yMTEyNDM3MjA0LDE0Mj
-c5NzI5ODIsLTEwMzU0MjY5ODIsLTE4NzA5NjY1NjcsMTIxNjk4
-MTcwMl19
+eyJoaXN0b3J5IjpbMTg5OTc3ODE2MiwtMjExMjQzNzIwNCwxND
+I3OTcyOTgyLC0xMDM1NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5
+ODE3MDJdfQ==
 -->
