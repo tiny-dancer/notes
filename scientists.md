@@ -9,7 +9,11 @@
 Born into a time where women [obtained fewer than 4 percent](https://books.google.com/books?id=Ez7DCJM57esC&lpg=PA67&ots=IUyCk-aE9s&dq=women%20in%20geology%201940s&pg=PA64#v=onepage&q=women%20obtained%20less%20than%204&f=false) of all earth sciences doctorates; geologist and oceanographic cartographer Marie Tharp's dedication pushed past dismissals of "girl talk" enroute to providing the first scientific evidence of plate tectonics and moving continents, forever changing the way how humans understand Earth and its history.
  
  **Major Achievement**:  Created the first true map of the Earth including the ocean floor based on ocean sonar data, along with Bruce Heezen
- 
+
+**Popular Quote**:  
+> There's truth to the old cliché that a picture is worth a thousand words and that seeing is believing
+
+**References**
 - [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
 - https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
 - https://womenyoushouldknow.net/cartography-marie-tharp/
@@ -189,7 +193,7 @@ James Hansen (1941-present) American astrophysicist and climatologist. [Learn mo
 
 Frank Shuman (1862-1918) American inventor and engineer.  [Learn more.](http://www.scientificamerican.com/author/frank-shuman/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgwOTg1NjMsLTIxMTI0MzcyMDQsMT
-QyNzk3Mjk4MiwtMTAzNTQyNjk4MiwtMTg3MDk2NjU2NywxMjE2
-OTgxNzAyXX0=
+eyJoaXN0b3J5IjpbMTI5MzM1NDU2OCwtMjExMjQzNzIwNCwxND
+I3OTcyOTgyLC0xMDM1NDI2OTgyLC0xODcwOTY2NTY3LDEyMTY5
+ODE3MDJdfQ==
 -->
