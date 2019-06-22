@@ -215,3 +215,31 @@ eyJoaXN0b3J5IjpbNDMxNzM3MTE1LC0yMTQxMzA2MDY0LC0xMD
 Y5OTM5MTM1LC0yMTEyNDM3MjA0LDE0Mjc5NzI5ODIsLTEwMzU0
 MjY5ODIsLTE4NzA5NjY1NjcsMTIxNjk4MTcwMl19
 -->
+
+- [ ] Neil deGrasse Tyson
+
+- [ ] Hermann Ebbinghaus
+- [ ] Bourgain 
+  - “Bourgain would repeatedly enter some area, solve several of its outstanding problems and create an entirely new field of study in the process.”
+  
+### Biology 
+- [ ] John Gurdon
+  - The story of biological rejuvenation began in the early 1960s, with the discovery of animal cloning in frogs by and collaborators
+  - [link](https://scholar.google.com/scholar_lookup?title=The%20developmental%20capacity%20of%20nuclei%20taken%20from%20intestinal%20epithelium%20cells%20of%20feeding%20tadpoles&author=JB.%20Gurdon&journal=J%20Embryol%20Exp%20Morphol&volume=10&pages=622-640&publication_year=1962)
+- [ ] Takahashi and Yamanaka
+  - 10 years later, demonstrated that the transfer of only four master genes, namely oct4, sox2, klf4, and cmyc (OSKM genes), to adult mouse fibroblasts was able to reprogram them, taking the cells to a pluripotency stage in which they behave like embryonic stem cells. Cell reprogramming had been born, an advance that paved the way for the subsequent implementation of cell rejuvenation. https://scholar.google.com/scholar_lookup?title=Induction%20of%20pluripotent%20stem%20cells%20from%20mouse%20embryonic%20and%20adult%20fibroblast%20cultures%20by%20defined%20factors&author=K.%20Takahashi&author=S.%20Yamanaka&journal=Cell&volume=126&pages=663-676&publication_year=2006
+- [ ] Antonie van Leeuwenhoek
+  - first found sperm, then Lazzaro magnifico found that sperm was required for reproduction
+- [ ] Gregor Mendel, page 11
+  - hacking Darwin. Heredity at a molecular level following Darwinʼs theory of evolution
+- [ ] Frederick Sanger and Alan Coulson
+  - First scientists to being test and understanding what DNA means, ie. DNA Sequencing
+- [ ] John Von Neumann
+  - laid the foundations of modern computing that underpinned the development of the mainframe, personal computers, and the eventual internet revolution.  Leading to the connected big data and AI revolutions allowing science to make increasingly more sense of the growing mountains of data being generated inside and around us.
+  
+Misguided Capitalism: Ethical Mishaps 
+- Leaded gasoline
+- Bananas (football war) 
+- Fat for fuel (impact of corporations pushing agenda in recommended diets) 
+- “Fighting to stem the fallout from the crashes, Muilenburg called President Trump on Tuesday, vowing that the planes were safe and saying that there was no reason to ground them. Eventually, the Federal Aviation Administration decided to do so anyway. “The safety of the American people, and all our people, is our paramount concern,” President Trump said in explaining the decision to ground the planes.” 
+    - https:// www.washingtonpos t.com/business/ 2019/03/16/ boeings-ceo-tookhome-million-lastyear-now-after- – deadly-crashes-hefaces-his-biggesttest
