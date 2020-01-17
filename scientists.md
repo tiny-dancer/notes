@@ -153,11 +153,11 @@ Validating [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener "Alfred
 
 **-Alfred Wegener (1880-1930) German meteorologist and geophysicist.**  [Learn more.](http://www.ucmp.berkeley.edu/history/wegener.html)
 
-**Marie Tharp  (1920-2006)**: American geologist and oceanographic cartographer.** 
+**-Marie Tharp  (1920-2006)**: American geologist and oceanographic cartographer.** 
 - [Learn more.](http://www.earth.columbia.edu/news/2006/story08-24-06.php.html)
 - https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/
 
-**Bruce Heezen: (1924-1977) American geologist.** [Learn more.](http://www.ovguide.com/bruce-c-heezen-9202a8c04000641f8000000000114271#)
+–**Bruce Heezen: (1924-1977) American geologist.** [Learn more.](http://www.ovguide.com/bruce-c-heezen-9202a8c04000641f8000000000114271#)
 
 ## Episode 10
 
@@ -247,3 +247,6 @@ Misguided Capitalism: Ethical Mishaps
 - Fat for fuel (impact of corporations pushing agenda in recommended diets) 
 - “Fighting to stem the fallout from the crashes, Muilenburg called President Trump on Tuesday, vowing that the planes were safe and saying that there was no reason to ground them. Eventually, the Federal Aviation Administration decided to do so anyway. “The safety of the American people, and all our people, is our paramount concern,” President Trump said in explaining the decision to ground the planes.” 
     - https:// www.washingtonpos t.com/business/ 2019/03/16/ boeings-ceo-tookhome-million-lastyear-now-after- – deadly-crashes-hefaces-his-biggesttest
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUyMzczODIyOF19
+-->
