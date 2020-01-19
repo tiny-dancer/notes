@@ -7,6 +7,14 @@
 
 ### Shards
 
+Uniquely identified groups of records in a stream
+
+Single Shard Capacity:
+
+- 1 MB/sec input
+- 2 MB/sec output
+- 5 transactions/sec for reads
+
 ### Records and it's componenents
 
 #### Partition Key
@@ -80,7 +88,9 @@ Can automatically read records from a kinesis stream. process them and send the 
 
 > Exam will specifically target how to get data from kinesis data streams into redshift
 
+## Amazon Kinesis Firehose
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzU1MjU3MywxMDMxNTE2MTYsMjE1Mz
-M3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTEzODY0NzE5MDMsMTAzMTUxNjE2LDIxNT
+MzNzM5LDE4NjI2NDg4NzddfQ==
 -->
