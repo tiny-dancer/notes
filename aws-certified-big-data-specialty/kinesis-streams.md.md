@@ -287,9 +287,19 @@ Data Pipeline can execute on premise.
 
 ### Getting Data into AWS
 
-- Dir
+- Direct Connect
+- Snowball
+- Snowball Edge
+- Snowmobile
+- Storage Gateway
+- S3 Transfer Acceleration
+- Database Migration Service
+
+#### Exam
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzYxMTU1OSwzNDEzNTk2MjMsNjgyND
+eyJoaXN0b3J5IjpbLTQ2MDM3OTYxMCwzNDEzNTk2MjMsNjgyND
 I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
 MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
 M5LDE4NjI2NDg4NzddfQ==
