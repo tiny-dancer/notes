@@ -219,9 +219,11 @@ IoT services can integrate with
 - dynamodb
 - machine learning
 
-Ca
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NTU4MDI0LDEwMjg4MTA4NjUsMTY1OT
-g2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+> Exam: IoT service can create rule actions for kinesis streams, firehose, lambda, dynamoDB, and lambda
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NT
+k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
+fQ==
 -->
