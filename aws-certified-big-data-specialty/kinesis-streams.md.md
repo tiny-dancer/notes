@@ -275,10 +275,18 @@ Data Pipeline can execute on premise.
 - **Precondition**: A readiness check that can be optionally associated with a data source or activity
 		-Must complete successfully before any activity consuming the data source are launched
 		- Common use cases:
-			- Check for existance of resources, such as s3 key, dynamodb tabl
+			- Check for existance of resources, such as s3 key, dynamodb table, etc
+- 
+#### Exam
+
+- Web service that helps you reliably process and move data betweend different  aws compute and storage services
+- can be integrated with on-premise environments
+- data pipeline will provision and terminate resources as, and when, required
+- pipeline components include datanode, activity, precondition and schedule
+- A lot of data pipelines functionality has been replaced by lambda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDMzMDQyMSw2ODI0MjU0MCwxNTIyOT
-c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
-MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
-g3N119
+eyJoaXN0b3J5IjpbMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nz
+g5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwx
+NjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4OD
+c3XX0=
 -->
