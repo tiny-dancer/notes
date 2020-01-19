@@ -221,9 +221,14 @@ IoT services can integrate with
 
 > Exam: IoT service can create rule actions for kinesis streams, firehose, lambda, dynamoDB, and lambda
 
-##
+#### Rule Engine
+
+- Provide a thing the ability to interact with the AWS IoT service and other services
+- Rules enable you to transform messages and route them to various AWS services
+- Messages are transformed using a SQL based syntax
+- Based on the rule,  a rule action is triggered and that rule action kicks off the delivery of message to other AWS services
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzcxODg4MSwxNDU0MjAzNzExLDEwMj
-g4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mzks
-MTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyOD
+gxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwx
+ODYyNjQ4ODc3XX0=
 -->
