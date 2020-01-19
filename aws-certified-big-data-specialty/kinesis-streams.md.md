@@ -167,8 +167,8 @@ Invoke a lamba function to transform
 
 ### Amazon SQS
 
-Need to understand where you would SQS and where you wo
+Need to understand where you would SQS and where you would use Kinesis Streams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTMwNDMwNCwxNjU5ODYyNzY4LDEwMz
+eyJoaXN0b3J5IjpbMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMz
 E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
