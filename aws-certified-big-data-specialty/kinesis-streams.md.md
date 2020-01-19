@@ -309,9 +309,17 @@ Compute
 
 Can transfer up to 100PB per snowmobile 
 
-- Storage Gateway
-- S3 Transfer Acceleration
-- Database Migration Service
+#### Storage Gateway
+
+- Allows on-premise applications to use cloud storage
+- Backup/archiving, DR, stoage and migration
+- Applications connect through a vm or hardware gateway appliance
+- S3, Glacier, EBS and AWS Backup
+- Optimized data transfer mechanism, bandwidth management, efficient data transfer (includes local dt
+
+#### S3 Transfer Acceleration
+
+#### Database Migration Service
 
 #### Exam
 
@@ -323,8 +331,8 @@ Can transfer up to 100PB per snowmobile
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzcyOTc2MiwzNDEzNTk2MjMsNjgyND
-I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
-MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
-M5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbNDUyOTc5MDE4LDM0MTM1OTYyMyw2ODI0Mj
+U0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEw
+Mjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mz
+ksMTg2MjY0ODg3N119
 -->
