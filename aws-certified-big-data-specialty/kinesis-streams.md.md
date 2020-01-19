@@ -99,7 +99,19 @@ Can automatically read records from a kinesis stream. process them and send the 
   - Minimize storage
   - Secure
 
+### Loading Data into Kinesis Firehose
+
+#### Amazon Kinesis Agent
+
+- Web servers, log servers, database servers
+- Download and install the agent
+- Monitor files and sends to a delivery stream
+- CloudWatch metrics
+- Pre-process data
+	- Multi-line records to single line
+	- Convert from delimiter to JSON Format
+	- Convert from log format to JSON F
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1Mz
-M3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbNTg3ODY0ODAzLDE2NTk4NjI3NjgsMTAzMT
+UxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
