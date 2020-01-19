@@ -124,9 +124,12 @@ Invoke a lamba function to transform
 
 #### Data Transformation Flow
 
-1. Buffers incoming data up to 3 MB or the 
+1. Buffers incoming data up to 3 MB or the buffering size specific in the delivery stream
+2. Firehose invokes lambda function
+3. Transformed data is sent  from lambda to firehose for buffering
+4. Transformed data is delivered to destination
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDU5MzAyOCwxNjU5ODYyNzY4LDEwMz
+eyJoaXN0b3J5IjpbMjAyMTIxNzczNiwxNjU5ODYyNzY4LDEwMz
 E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
