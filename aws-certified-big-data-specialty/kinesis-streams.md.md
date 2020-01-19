@@ -193,13 +193,22 @@ SQS vs Kinesis Streams
 
 SQS use cases
 
-- parallel 
+- parallel fan out processing (ie. image upload, fans out to image recognization, thumbnail generation, and meta data reader
 
 Kinesis Stream use cases
 
-- fast log data data feed
+- fast log data data feed intake and processing 
+- real-time metrics and reporting
+- realtimedata analytics
+- complex stream processing
+
+### AWS IoT
+
+Managed cloud platform allowing devices to interact securrely with applications and other devices.
+
+- IoT devices produce 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODc1NzQ3OCwxMDI4ODEwODY1LDE2NT
+eyJoaXN0b3J5IjpbLTgzNjg1NDk1NywxMDI4ODEwODY1LDE2NT
 k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
 fQ==
 -->
