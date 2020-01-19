@@ -70,6 +70,10 @@ Using Lambda
 - **Redshift**: Micro batch loading
 - **EMR**:  Process and Analyze Data
 - **Lambda**: Automate emitting data
+
+### Kinesis Connector Library
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMxNDA0NTQsMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTE5MTQ4ODU0MDEsMTg2MjY0ODg3N119
 -->
