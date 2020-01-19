@@ -227,8 +227,17 @@ IoT services can integrate with
 - Rules enable you to transform messages and route them to various AWS services
 - Messages are transformed using a SQL based syntax
 - Based on the rule,  a rule action is triggered and that rule action kicks off the delivery of message to other AWS services
+
+Exam: Rule actions can be created for:
+- dynamodb
+- lamdba
+- kinesis firehose
+- kinesis streams
+- machine learning
+
+### Exam:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyOD
-gxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwx
-ODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbMzY3NjQxMjU5LDQwMzE2MTIwNCwxNDU0Mj
+AzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYs
+MjE1MzM3MzksMTg2MjY0ODg3N119
 -->
