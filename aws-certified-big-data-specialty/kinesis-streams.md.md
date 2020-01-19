@@ -289,6 +289,12 @@ Data Pipeline can execute on premise.
 
 #### Direct Connect
 
+Connects a private data center directly to AWS datacenter.
+
+##### Use Cases
+
+
+
 - Snowball
 - Snowball Edge
 - Snowmobile
@@ -306,8 +312,8 @@ Data Pipeline can execute on premise.
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzg5Mjk5LDM0MTM1OTYyMyw2ODI0Mj
-U0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEw
-Mjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mz
-ksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTE2NzU5NjYyOSwzNDEzNTk2MjMsNjgyND
+I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
+MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
+M5LDE4NjI2NDg4NzddfQ==
 -->
