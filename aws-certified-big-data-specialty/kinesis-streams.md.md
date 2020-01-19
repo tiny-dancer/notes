@@ -179,11 +179,11 @@ Invoke a lamba function to transform
 - FIFO queues are supported
 - A queue can be created in any region
 - Messages can be retained in any region
-- Messages can be retrained in queues for up to 14 days
+- Messages can be retained in queues for up to 14 days
 - Messages can be sent and read simulatenously
 - Long polling eliminates extraneous polling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU0MjQ1NDAsMTAyODgxMDg2NSwxNj
+eyJoaXN0b3J5IjpbLTE0ODc3NzI5NjIsMTAyODgxMDg2NSwxNj
 U5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3
 XX0=
 -->
