@@ -297,9 +297,13 @@ Data Pipeline can execute on premise.
 
 #### Exam
 
-
+- **Direct Connect**: Increased bandwith throughput and consistent network performance
+- **Snowball**: TB and PB scale solution
+- **Snowball Edge**: Inconsistent connectvity/move data to AWS (TB and PB scale)
+- **Snowmobile**: PB and EB scale solution
+- ** **  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDM3OTYxMCwzNDEzNTk2MjMsNjgyND
+eyJoaXN0b3J5IjpbMjEzMTE0NDAyMCwzNDEzNTk2MjMsNjgyND
 I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
 MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
 M5LDE4NjI2NDg4NzddfQ==
