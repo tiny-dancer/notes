@@ -52,11 +52,6 @@ Causes of "Provisioned throughput exceptions"
 
 ### Consumer Destinations
 
-Using the kinesis connector library (java-based):
-
-
-Using Lambda
-
 ### Use Cases
 
 - **S3**: Archiving Data
@@ -74,9 +69,15 @@ Using Lambda
 - Redshift
 - EMR
 
-Exam will specifically target how to get data from kinesis data streams into redshift
-Exam wil not go into code level questions but good to understand how it architecturally works within AWS and why one would use
+> Exam wil not go into code level questions but good to understand how it architecturally works within AWS and why one would use 
+
+### Lambda
+
+Can automatically read records from a kinesis stream. process them and send the records S3, DynamoDB, Redshift or anywhere in the world.
+
+> Exam will specifically target how to get data from kinesis data streams into redshift
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4OTc3MzUsMTAzMTUxNjE2LDIxNT
-MzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbMjA2OTI3NzY3MiwxMDMxNTE2MTYsMjE1Mz
+M3MzksMTg2MjY0ODg3N119
 -->
