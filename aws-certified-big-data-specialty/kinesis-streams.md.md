@@ -293,9 +293,13 @@ Connects a private data center directly to AWS datacenter.
 
 ##### Use Cases
 
+- Ensure back ups and archives through storage gateway are consistent
+- Consistently send GB+ files 
+
+#### Snowball
 
 
-- Snowball
+
 - Snowball Edge
 - Snowmobile
 - Storage Gateway
@@ -312,7 +316,7 @@ Connects a private data center directly to AWS datacenter.
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU5NjYyOSwzNDEzNTk2MjMsNjgyND
+eyJoaXN0b3J5IjpbLTEwNjQzNjk3MywzNDEzNTk2MjMsNjgyND
 I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
 MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
 M5LDE4NjI2NDg4NzddfQ==
