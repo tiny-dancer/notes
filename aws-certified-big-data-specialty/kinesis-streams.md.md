@@ -221,6 +221,10 @@ IoT services can integrate with
 
 > Exam: IoT service can create rule actions for kinesis streams, firehose, lambda, dynamoDB, and lambda
 
+#### Authentication
+
+- Each connected device requires a X.
+
 #### Rule Engine
 
 - Provide a thing the ability to interact with the AWS IoT service and other services
@@ -247,7 +251,7 @@ IoT services can integrate with
 - Helps you process and move data between AWS compute and storage services and on-premise daa sources
 - Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1ND
-IwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2
-LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbLTE1OTIwMzU4MzEsMTUyMjk3ODk2MSw0MD
+MxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3
+NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
