@@ -147,9 +147,17 @@ Invoke a lamba function to transform
 
 ##### Destinations
 
-- **S3**: retries delivery for up to 24 hours
-- **Redshift**: 
+- **S3**
+  - retries delivery for up to 24 hours
+- **Redshift**
+  - Retry duration is 0-7200 seconds from S3
+  - Skips S3 objects
+  - Manifest than manual backfill
+ - **Elasticsearch**:
+   - Retry duration is 0-7200 seconds
+   - Skips index request
+   - Skipped documented delivery to S3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI0ODE1NTIsMTY1OTg2Mjc2OCwxMD
-MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTg3NjcxNDM1OSwxNjU5ODYyNzY4LDEwMz
+E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
