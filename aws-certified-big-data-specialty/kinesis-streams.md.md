@@ -127,9 +127,14 @@ Invoke a lamba function to transform
 1. Buffers incoming data up to 3 MB or the buffering size specific in the delivery stream
 2. Firehose invokes lambda function
 3. Transformed data is sent  from lambda to firehose for buffering
-4. Transformed data is delivered to destination
+4. Transformed data is delivered to destination when either the specified buffering size or interval is hit first
+
+#### Parameters for Transformation
+
+- **`recordId`**: Transformed record must have the same `recordId` prior to transformation
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTIxNzczNiwxNjU5ODYyNzY4LDEwMz
-E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTIwNDQ4NjE0MzYsMTY1OTg2Mjc2OCwxMD
+MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
