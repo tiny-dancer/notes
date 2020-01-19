@@ -206,9 +206,22 @@ Kinesis Stream use cases
 
 Managed cloud platform allowing devices to interact securrely with applications and other devices.
 
-- IoT devices produce 
+IoT goes hand-in-hand with Big Data
+
+- IoT devices produce data
+- Analyze streaming data in real-time
+- Process and store the data
+
+IoT services can integrate with 
+- elasticsearch
+- kinesis firehose
+- kinesis stream
+- dynamodb
+- machine learning
+
+Ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjg1NDk1NywxMDI4ODEwODY1LDE2NT
-k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
-fQ==
+eyJoaXN0b3J5IjpbNDk0NTU4MDI0LDEwMjg4MTA4NjUsMTY1OT
+g2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+
 -->
