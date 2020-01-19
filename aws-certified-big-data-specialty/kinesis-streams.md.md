@@ -268,9 +268,12 @@ AWS IoT policies and IAM policies to control operations
 
 > Exam: Data pipeline comes up under backing up and restoration of data into other regions
 
+Data Pipeline can execute on premise.
 
+- **Datanode**: End of destination for your data
+- **Activity**: an action that data pipeline initates on your behalf as part of a pipeline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODAxNTE3Niw2ODI0MjU0MCwxNTIyOT
+eyJoaXN0b3J5IjpbLTk4MjUyMzQ3MCw2ODI0MjU0MCwxNTIyOT
 c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
 MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
 g3N119
