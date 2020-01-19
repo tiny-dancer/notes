@@ -47,6 +47,13 @@ Causes of "Provisioned throughput exceptions"
 ### Kinesis Agent
 
 ### Kinesis Streams API
+
+## Emitting Data to AWS Services
+
+### Consumer Destinations
+
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbMTk2NzEzNDM3MSwxODYyNjQ4ODc3XX0=
 -->
