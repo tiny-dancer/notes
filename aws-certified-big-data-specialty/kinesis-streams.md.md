@@ -315,11 +315,18 @@ Can transfer up to 100PB per snowmobile
 - Backup/archiving, DR, stoage and migration
 - Applications connect through a vm or hardware gateway appliance
 - S3, Glacier, EBS and AWS Backup
-- Optimized data transfer mechanism, bandwidth management, efficient data transfer (includes local dt
+- Optimized data transfer mechanism, bandwidth management, efficient data transfer (includes local data cache for low latency)
 
 #### S3 Transfer Acceleration
 
+- Uploading to a centralized bucket from various parts of the world
+- Transferring GBs - TBs of data across continents
+- Transfer accerleration uses cloudfront
+- Data routed from edge location to S3 over an optimized network path
+
 #### Database Migration Service
+
+
 
 #### Exam
 
@@ -331,7 +338,7 @@ Can transfer up to 100PB per snowmobile
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTc5MDE4LDM0MTM1OTYyMyw2ODI0Mj
+eyJoaXN0b3J5IjpbNDc2MDA1MzI5LDM0MTM1OTYyMyw2ODI0Mj
 U0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEw
 Mjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mz
 ksMTg2MjY0ODg3N119
