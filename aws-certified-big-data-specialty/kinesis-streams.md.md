@@ -167,8 +167,15 @@ Invoke a lamba function to transform
 
 ### Amazon SQS
 
-Need to understand where you would SQS and where you would use Kinesis Streams.
+> Exam: Need to understand where you would SQS and where you would use Kinesis Streams.
+
+- 256kb per message
+- Any application can store in the queue
+- Any application can retrieve from the queue
+- >256KB can be managed using SQS extended client library, which uses S3
+- Ensure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMz
-E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTk0Nzg2Njk0NiwxMDI4ODEwODY1LDE2NT
+k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
+fQ==
 -->
