@@ -298,9 +298,9 @@ Connects a private data center directly to AWS datacenter.
 
 #### Snowball
 
+Physically ship data to AWS, use for _substantial_ amounts of data (TBs and PBs)
 
-
-- Snowball Edge
+#### Snowball Edge
 - Snowmobile
 - Storage Gateway
 - S3 Transfer Acceleration
@@ -316,7 +316,7 @@ Connects a private data center directly to AWS datacenter.
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQzNjk3MywzNDEzNTk2MjMsNjgyND
+eyJoaXN0b3J5IjpbMTg4MzE4MDAyOCwzNDEzNTk2MjMsNjgyND
 I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
 MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
 M5LDE4NjI2NDg4NzddfQ==
