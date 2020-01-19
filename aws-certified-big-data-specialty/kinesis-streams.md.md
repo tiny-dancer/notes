@@ -110,8 +110,23 @@ Can automatically read records from a kinesis stream. process them and send the 
 - Pre-process data
 	- Multi-line records to single line
 	- Convert from delimiter to JSON Format
-	- Convert from log format to JSON F
+	- Convert from log format to JSON Format
+
+#### AWS SDK
+
+- Java, .NET, Node.JS, Python, Ruby, Go, etc.
+- PutRecord
+- PutRecordBatch
+
+### Transforming Data Using Lambda
+
+Invoke a lamba function to transform
+
+#### Data Transformation Flow
+
+1. Buffers incoming data up to 3 MB or the 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3ODY0ODAzLDE2NTk4NjI3NjgsMTAzMT
-UxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbLTQ5NDU5MzAyOCwxNjU5ODYyNzY4LDEwMz
+E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
