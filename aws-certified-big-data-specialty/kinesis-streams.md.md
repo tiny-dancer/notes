@@ -181,9 +181,9 @@ Invoke a lamba function to transform
 - Messages can be retained in any region
 - Messages can be retrained in queues for up to 14 days
 - Messages can be sent and read simulatenously
-- Long polling 
+- Long polling eliminates extraneous polling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzAwMTE2MCwxMDI4ODEwODY1LDE2NT
-k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MTU0MjQ1NDAsMTAyODgxMDg2NSwxNj
+U5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3
+XX0=
 -->
