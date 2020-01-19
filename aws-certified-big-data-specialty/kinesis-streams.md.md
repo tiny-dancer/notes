@@ -212,12 +212,7 @@ IoT goes hand-in-hand with Big Data
 - Analyze streaming data in real-time
 - Process and store the data
 
-IoT services can integrate with 
-- elasticsearch
-- kinesis firehose
-- kinesis stream
-- dynamodb
-- machine learning
+IoT services can integrate with CloudWatch, DynamoDB, Elasticsearch, Kinesis Firehose, Kinesis Streams, Kinesis Firehose, Lambda, S3, SNS, and SQS.
 
 > Exam: IoT service can create rule actions for kinesis streams, firehose, lambda, dynamoDB, and lambda
 
@@ -254,13 +249,7 @@ AWS IoT policies and IAM policies to control operations
 - [ ] Device gateway, device registry and device shadow
 - [ ] Know what the rules engine does
 - [ ] Know what a rule action does
-- [ ] Rule actions for:
-  - dynamodb
-  - lamdba
-  - kinesis firehose
-  - kinesis streams
-  - machine learning
-
+- [ ] Rule actions for: cloudWatch, DynamoDB, Elasticsearch, Kinesis Firehose, Kinesis Streams, Kinesis Firehose, Lambda, S3, SNS, and SQS.
 ### AWS Data Pipeline
 
 - Helps you process and move data between AWS compute and storage services and on-premise daa sources
@@ -341,8 +330,8 @@ Can transfer up to 100PB per snowmobile
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjkzMzQyOSwzNDEzNTk2MjMsNjgyND
-I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
-MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
-M5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMz
+U5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0
+NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MT
+YxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
