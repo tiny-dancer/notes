@@ -52,8 +52,22 @@ Causes of "Provisioned throughput exceptions"
 
 ### Consumer Destinations
 
+Using the connector library:
 
-- 
+- S3
+- DynamoDB
+- Elasticsearch
+- Redshift
+- EMR
+
+Using Lambda
+
+### Use Cases
+
+- **S3**: Archiving Data
+- **DynamoDB**: Metrics
+- **Elasticsearch**: Search and Index
+- **Redshift**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzEzNDM3MSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTc1NDg2MjgzLDE4NjI2NDg4NzddfQ==
 -->
