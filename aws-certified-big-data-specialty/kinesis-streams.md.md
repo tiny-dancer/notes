@@ -327,7 +327,9 @@ Can transfer up to 100PB per snowmobile
 #### Database Migration Service
 
 - Source databases remain operational/minimize downtime
-- DMS supports migration to various open source and comm databases
+- DMS supports migration to various open source and commercial databases
+- Homogenous/Heterogenous migrations
+- One-time migrations/continuous replication to AWS
 
 #### Exam
 
@@ -339,7 +341,7 @@ Can transfer up to 100PB per snowmobile
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODMzMzc3NiwzNDEzNTk2MjMsNjgyND
+eyJoaXN0b3J5IjpbLTUzNjkzMzQyOSwzNDEzNTk2MjMsNjgyND
 I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
 MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
 M5LDE4NjI2NDg4NzddfQ==
