@@ -229,6 +229,12 @@ IoT services can integrate with
 - Cognito identities for mobile applications
 
 Cognito Identity
+  - Allows you to use your own idp
+  - login with amazon, facebook, google, twitter
+  - OpenID providers, SAML identity Provider
+  - use cognito user pool itself (no sso/federation)
+
+> Exam: Cognito identities can be used to authenticate against IoT, specifcally mobile users. User pools
 
 #### Rule Engine
 
@@ -256,7 +262,7 @@ Cognito Identity
 - Helps you process and move data between AWS compute and storage services and on-premise daa sources
 - Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzkyOTUwOTIsMTUyMjk3ODk2MSw0MD
-MxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3
-NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbMTMyMzYxNjAzNCwxNTIyOTc4OTYxLDQwMz
+E2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mjc2
+OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
