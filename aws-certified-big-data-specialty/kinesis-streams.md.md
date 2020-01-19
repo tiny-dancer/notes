@@ -173,9 +173,17 @@ Invoke a lamba function to transform
 - Any application can store in the queue
 - Any application can retrieve from the queue
 - >256KB can be managed using SQS extended client library, which uses S3
-- Ensure
+- Ensures delivery of a message at least once
+- Supports multiple readers and writers
+- Single queue can be shared my many components
+- FIFO queues are supported
+- A queue can be created in any region
+- Messages can be retained in any region
+- Messages can be retrained in queues for up to 14 days
+- Messages can be sent and read simulatenously
+- Long polling 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Nzg2Njk0NiwxMDI4ODEwODY1LDE2NT
+eyJoaXN0b3J5IjpbLTU2MzAwMTE2MCwxMDI4ODEwODY1LDE2NT
 k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
 fQ==
 -->
