@@ -234,7 +234,11 @@ Cognito Identity
   - OpenID providers, SAML identity Provider
   - use cognito user pool itself (no sso/federation)
 
-> Exam: Cognito identities can be used to authenticate against IoT, specifcally mobile users. User pools
+> Exam: Cognito identities can be used to authenticate against IoT, specifcally mobile users. User pools can be used instead of third party authenticators and can scale to millions of users
+
+#### Authorization
+
+AWS IoT policies and IAM policies to control operations
 
 #### Rule Engine
 
@@ -261,8 +265,10 @@ Cognito Identity
 
 - Helps you process and move data between AWS compute and storage services and on-premise daa sources
 - Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
+
+> Exam: Data pipeline comes up under backing up and restoration of data into other regions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzYxNjAzNCwxNTIyOTc4OTYxLDQwMz
-E2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mjc2
-OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNj
+EyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3Njgs
+MTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
