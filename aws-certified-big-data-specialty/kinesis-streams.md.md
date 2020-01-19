@@ -90,7 +90,16 @@ Can automatically read records from a kinesis stream. process them and send the 
 
 ## Amazon Kinesis Firehose
 
+- Collects and loads streaming data in near real-time
+- Load data into S3, Redshift, Elasticsearch and Splunk
+- Use existing BI tools and dashboards
+- Highly available and durable
+- Fully managed
+  - Scalability, sharing, and monitoring with zero administration
+  - Minimize storage
+  - Secure
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY0NzE5MDMsMTAzMTUxNjE2LDIxNT
-MzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1Mz
+M3MzksMTg2MjY0ODg3N119
 -->
