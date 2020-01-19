@@ -156,8 +156,19 @@ Invoke a lamba function to transform
  - **Elasticsearch**:
    - Retry duration is 0-7200 seconds
    - Skips index request
-   - Skipped documented delivery to S3
+   - Skipped documented delivered to S3 Bucket, `elasticsearch_failed`
+   - Manual backfill
+
+#### Exam
+
+- Firehose can load streaming data into S3, Redshift and Elasticsearch
+- How is lambda used with Firehose
+- Key concepts
+
+### Amazon SQS
+
+Need to understand where you would SQS and where you wo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjcxNDM1OSwxNjU5ODYyNzY4LDEwMz
+eyJoaXN0b3J5IjpbMTgwNTMwNDMwNCwxNjU5ODYyNzY4LDEwMz
 E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
