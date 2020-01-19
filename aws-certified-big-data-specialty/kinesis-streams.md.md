@@ -132,9 +132,12 @@ Invoke a lamba function to transform
 #### Parameters for Transformation
 
 - **`recordId`**: Transformed record must have the same `recordId` prior to transformation
-- 
+- **`result`**: Transformed record statuses:
+  - `OK`: all good in the hood (successfully processed)
+  - `Dropped`: intentionally dropped by processing logic (successfully processed)
+  - `ProcessingFailed`: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ4NjE0MzYsMTY1OTg2Mjc2OCwxMD
+eyJoaXN0b3J5IjpbLTExODMzMjc1NzIsMTY1OTg2Mjc2OCwxMD
 MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
