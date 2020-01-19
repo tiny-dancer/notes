@@ -67,7 +67,8 @@ Using Lambda
 - **S3**: Archiving Data
 - **DynamoDB**: Metrics
 - **Elasticsearch**: Search and Index
-- **Redshift**:
+- **Redshift**: Micro batch loading
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDg2MjgzLDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbMjA3MDEwODg1NCwxODYyNjQ4ODc3XX0=
 -->
