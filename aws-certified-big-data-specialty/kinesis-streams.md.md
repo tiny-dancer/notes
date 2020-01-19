@@ -169,10 +169,10 @@ Invoke a lamba function to transform
 
 > Exam: Need to understand where you would SQS and where you would use Kinesis Streams.
 
-- 256kb per message
+- `256kb` per message
 - Any application can store in the queue
 - Any application can retrieve from the queue
-- >256KB can be managed using SQS extended client library, which uses S3
+- `>256KB` can be managed using SQS extended client library, which uses S3
 - Ensures delivery of a message at least once
 - Supports multiple readers and writers
 - Single queue can be shared my many components
@@ -182,8 +182,10 @@ Invoke a lamba function to transform
 - Messages can be retained in queues for up to 14 days
 - Messages can be sent and read simulatenously
 - Long polling eliminates extraneous polling
+
+Queues can provide a convenient mechanism to determine the load in an application
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc3NzI5NjIsMTAyODgxMDg2NSwxNj
-U5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3
-XX0=
+eyJoaXN0b3J5IjpbMTMzMDEyNTU4NywxMDI4ODEwODY1LDE2NT
+k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
+fQ==
 -->
