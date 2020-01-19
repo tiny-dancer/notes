@@ -184,8 +184,12 @@ Invoke a lamba function to transform
 - Long polling eliminates extraneous polling
 
 Queues can provide a convenient mechanism to determine the load in an application
+
+#### Exam
+
+SQS is a message queue service allowing you to move data between distributed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDEyNTU4NywxMDI4ODEwODY1LDE2NT
+eyJoaXN0b3J5IjpbLTM5MTI5MzI4NCwxMDI4ODEwODY1LDE2NT
 k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
 fQ==
 -->
