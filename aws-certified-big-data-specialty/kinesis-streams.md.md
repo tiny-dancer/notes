@@ -139,8 +139,9 @@ Invoke a lamba function to transform
 - **`data`**: Transformed data payload after base64 encoding
 
 #### Failure Handling
-- 3 Retries and then considered unsuccessfully processed and delivered to a specific bucket 
+- 3 Retries and then considered unsuccessfully processed and delivered to a specific ``processing_failed` bucket 
+- When doing data transformation, can configure a back up bucket where all raw logs are stored
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg1OTg4NjEsMTY1OTg2Mjc2OCwxMD
-MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbMTA1OTg3NDMwLDE2NTk4NjI3NjgsMTAzMT
+UxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
