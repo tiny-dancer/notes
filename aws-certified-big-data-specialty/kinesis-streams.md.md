@@ -284,9 +284,13 @@ Data Pipeline can execute on premise.
 - data pipeline will provision and terminate resources as, and when, required
 - pipeline components include datanode, activity, precondition and schedule
 - A lot of data pipelines functionality has been replaced by lambda
+
+### Getting Data into AWS
+
+- Dir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nz
-g5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwx
-NjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4OD
-c3XX0=
+eyJoaXN0b3J5IjpbMTk0NzYxMTU1OSwzNDEzNTk2MjMsNjgyND
+I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
+MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
+M5LDE4NjI2NDg4NzddfQ==
 -->
