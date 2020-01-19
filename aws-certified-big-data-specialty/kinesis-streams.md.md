@@ -221,9 +221,9 @@ IoT services can integrate with
 
 > Exam: IoT service can create rule actions for kinesis streams, firehose, lambda, dynamoDB, and lambda
 
-
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NT
-k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTMzNzcxODg4MSwxNDU0MjAzNzExLDEwMj
+g4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mzks
+MTg2MjY0ODg3N119
 -->
