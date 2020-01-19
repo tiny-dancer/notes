@@ -138,7 +138,9 @@ Invoke a lamba function to transform
   - `ProcessingFailed`: Failed (unsucessfully processed) 
 - **`data`**: Transformed data payload after base64 encoding
 
+#### Failure Handling
+- 3 Retries and then considered unsuccessfully processed and delivered to a specific bucket 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg4MDQ3OTEsMTY1OTg2Mjc2OCwxMD
+eyJoaXN0b3J5IjpbLTIwNzg1OTg4NjEsMTY1OTg2Mjc2OCwxMD
 MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
