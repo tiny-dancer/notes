@@ -267,8 +267,11 @@ AWS IoT policies and IAM policies to control operations
 - Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
 
 > Exam: Data pipeline comes up under backing up and restoration of data into other regions
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNj
-EyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3Njgs
-MTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbMTE2ODAxNTE3Niw2ODI0MjU0MCwxNTIyOT
+c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
+MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
+g3N119
 -->
