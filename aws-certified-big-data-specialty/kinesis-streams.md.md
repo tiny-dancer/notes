@@ -223,7 +223,12 @@ IoT services can integrate with
 
 #### Authentication
 
-- Each connected device requires a X.
+- Each connected device requires a X.509
+  - Upload your own CSR or CA
+- AWS IoT uses IAM Policies for users, groups and roles
+- Cognito identities for mobile applications
+
+Cognito Identity
 
 #### Rule Engine
 
@@ -251,7 +256,7 @@ IoT services can integrate with
 - Helps you process and move data between AWS compute and storage services and on-premise daa sources
 - Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIwMzU4MzEsMTUyMjk3ODk2MSw0MD
+eyJoaXN0b3J5IjpbLTE4MzkyOTUwOTIsMTUyMjk3ODk2MSw0MD
 MxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3
 NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
