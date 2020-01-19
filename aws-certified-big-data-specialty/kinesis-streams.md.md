@@ -52,7 +52,7 @@ Causes of "Provisioned throughput exceptions"
 
 ### Consumer Destinations
 
-Using the connector library:
+Using the kinesis connector library (java-based):
 
 - S3
 - DynamoDB
@@ -68,7 +68,8 @@ Using Lambda
 - **DynamoDB**: Metrics
 - **Elasticsearch**: Search and Index
 - **Redshift**: Micro batch loading
-- 
+- **EMR**:  Process and Analyze Data
+- **Lambda**: Automate emitting data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDEwODg1NCwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTE4NzMxNDA0NTQsMTg2MjY0ODg3N119
 -->
