@@ -54,11 +54,6 @@ Causes of "Provisioned throughput exceptions"
 
 Using the kinesis connector library (java-based):
 
-- S3
-- DynamoDB
-- Elasticsearch
-- Redshift
-- EMR
 
 Using Lambda
 
@@ -73,8 +68,15 @@ Using Lambda
 
 ### Kinesis Connector Library
 
+- S3
+- DynamoDB
+- Elasticsearch
+- Redshift
+- EMR
+
+Exam will specifically target how to get data from kinesis data streams into redshift
 Exam wil not go into code level questions but good to understand how it architecturally works within AWS and why one would use
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2ND
-g4NzddfQ==
+eyJoaXN0b3J5IjpbLTE4NTU4OTc3MzUsMTAzMTUxNjE2LDIxNT
+MzNzM5LDE4NjI2NDg4NzddfQ==
 -->
