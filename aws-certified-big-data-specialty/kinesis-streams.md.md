@@ -187,9 +187,19 @@ Queues can provide a convenient mechanism to determine the load in an applicatio
 
 #### Exam
 
-SQS is a message queue service allowing you to move data between distributed 
+SQS vs Kinesis Streams
+- SQS is a message queue service allowing you to move data between distributed components of your applications without losing messages or requiring each application component to be available at all times
+- Kinesis streams is for evaluating data in near real time
+
+SQS use cases
+
+- parallel 
+
+Kinesis Stream use cases
+
+- fast log data data feed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTI5MzI4NCwxMDI4ODEwODY1LDE2NT
+eyJoaXN0b3J5IjpbMTQxODc1NzQ3OCwxMDI4ODEwODY1LDE2NT
 k4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4Nzdd
 fQ==
 -->
