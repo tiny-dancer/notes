@@ -135,9 +135,10 @@ Invoke a lamba function to transform
 - **`result`**: Transformed record statuses:
   - `OK`: all good in the hood (successfully processed)
   - `Dropped`: intentionally dropped by processing logic (successfully processed)
-  - `ProcessingFailed`: 
+  - `ProcessingFailed`: Failed (unsucessfully processed) 
+- **`data`**: Transformed data payload after base64 encoding
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMzMjc1NzIsMTY1OTg2Mjc2OCwxMD
+eyJoaXN0b3J5IjpbLTE5MDg4MDQ3OTEsMTY1OTg2Mjc2OCwxMD
 MxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
