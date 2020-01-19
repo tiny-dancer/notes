@@ -287,7 +287,8 @@ Data Pipeline can execute on premise.
 
 ### Getting Data into AWS
 
-- Direct Connect
+#### Direct Connect
+
 - Snowball
 - Snowball Edge
 - Snowmobile
@@ -301,10 +302,12 @@ Data Pipeline can execute on premise.
 - **Snowball**: TB and PB scale solution
 - **Snowball Edge**: Inconsistent connectvity/move data to AWS (TB and PB scale)
 - **Snowmobile**: PB and EB scale solution
-- ** **  
+- **Stoage Gateway**:  On-premise application data to AWS, backups, files that need to be accessed by Redshift, EMR, etc.
+- **S3 Transfer Acceleration**: No proximity to a region with S3
+- **DMS**: One-time migrations/continuous replication to AWS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTE0NDAyMCwzNDEzNTk2MjMsNjgyND
-I1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwx
-MDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNz
-M5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbNDEzNzg5Mjk5LDM0MTM1OTYyMyw2ODI0Mj
+U0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEw
+Mjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3Mz
+ksMTg2MjY0ODg3N119
 -->
