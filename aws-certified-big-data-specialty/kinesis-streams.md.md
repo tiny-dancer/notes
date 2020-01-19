@@ -73,8 +73,8 @@ Using Lambda
 
 ### Kinesis Connector Library
 
-Exam wil not go in
+Exam wil not go into code level questions but good to understand how it architecturally works within AWS and why one would use
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MDA0OTU4LDIxNTMzNzM5LDE4NjI2ND
+eyJoaXN0b3J5IjpbMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2ND
 g4NzddfQ==
 -->
