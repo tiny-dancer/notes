@@ -228,22 +228,26 @@ IoT services can integrate with
 - Messages are transformed using a SQL based syntax
 - Based on the rule,  a rule action is triggered and that rule action kicks off the delivery of message to other AWS services
 
-### Exam
+#### Exam
 
 - [ ] Authentication and Authorization
 - [ ] Pay special attention to how Cognito works with AWS IoT
 - [ ] Device gateway, device registry and device shadow
 - [ ] Know what the rules engine does
 - [ ] Know what a rule action does
-- Rule actions for:
+- [ ] Rule actions for:
   - dynamodb
   - lamdba
   - kinesis firehose
   - kinesis streams
   - machine learning
 
+### AWS Data Pipeline
+
+- Helps you process and move data between AWS compute and storage services and on-premise daa sources
+- Create an ETL workflow to automate processing of data scheduled intervals, and then delete the resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODgzNTc2Niw0MDMxNjEyMDQsMTQ1ND
+eyJoaXN0b3J5IjpbMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1ND
 IwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2
 LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 -->
