@@ -3,28 +3,31 @@
 > "Useful in any scenario where you are streaming large amounts of data that needs to be processed quickly and you have a requirement to build a custom application to process and analyze streaming data"
 -acloudguru
 
+## Core Concepts
 
-## Records and it's componenents
+### Shards
 
-### Partition Key
+### Records and it's componenents
 
-### Sequence Number
+#### Partition Key
 
-### Data
+#### Sequence Number
 
-## Data Consumers (KCL)
+#### Data
 
-### Aggregating
+### Data Consumers (KCL)
+
+#### Aggregating
 
 Combining multiple User Records into a single Stream Record
 --> maximizing the usage of the 1mb Stream Record data limit
 
-### Collecting
+#### Collecting
 
 Combining multiple Stream Records into a single http call (PutRecords)
 --> minimizing http bandwidth
 
-### Dynamodb Checkpointing
+#### Dynamodb Checkpointing
 
 10 read capacity units
 10 write capacity units
@@ -36,17 +39,17 @@ Causes of "Provisioned throughput exceptions"
 > Consider adding more provisioned throughput to the dynamoDB table
 
 
-## Stream Retention Period
+### Stream Retention Period
 
 - 1 day by default, configurable up to 7 days
 
-## Data Producers
+### Data Producers
 
-### KPL
+#### KPL
 
-### Kinesis Agent
+#### Kinesis Agent
 
-### Kinesis Streams API
+#### Kinesis Streams API
 
 ## Emitting Data to AWS Services
 
@@ -78,6 +81,6 @@ Can automatically read records from a kinesis stream. process them and send the 
 > Exam will specifically target how to get data from kinesis data streams into redshift
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTI3NzY3MiwxMDMxNTE2MTYsMjE1Mz
+eyJoaXN0b3J5IjpbLTk4NzU1MjU3MywxMDMxNTE2MTYsMjE1Mz
 M3MzksMTg2MjY0ODg3N119
 -->
