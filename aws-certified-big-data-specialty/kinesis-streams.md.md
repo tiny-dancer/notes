@@ -272,8 +272,12 @@ Data Pipeline can execute on premise.
 
 - **Datanode**: End of destination for your data
 - **Activity**: an action that data pipeline initates on your behalf as part of a pipeline
+- **Precondition**: A readiness check that can be optionally associated with a data source or activity
+		-Must complete successfully before any activity consuming the data source are launched
+		- Common use cases:
+			- Check for existance of resources, such as s3 key, dynamodb tabl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjUyMzQ3MCw2ODI0MjU0MCwxNTIyOT
+eyJoaXN0b3J5IjpbMTM0MDMzMDQyMSw2ODI0MjU0MCwxNTIyOT
 c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
 MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
 g3N119
