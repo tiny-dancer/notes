@@ -520,13 +520,14 @@ SQS could be used a pre-write buffer
 Fully understand all the concepts
 - Partitions: what they are, how they work, and how to caculate their number
 - How partitions influence performance together with partition keys
-- Best practice for partition keys and how to structure data based on key-space 
+- Best practice for partition keys and how to structure data based on key-space and load
+- Global indexes and how to select keys, and how this selction impacts the index and the table
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NDkwNzU5LC0zMzQ0NzIzMjYsLTY4Mz
-ExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2
-OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNj
-kxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0
-MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMT
-YxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4
-XX0=
+eyJoaXN0b3J5IjpbLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNj
+gzMTExMzIwLC0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5
+NjY4LDE3NDU1MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLD
+E2OTEwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkz
+MzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MD
+MxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3
+NjhdfQ==
 -->
