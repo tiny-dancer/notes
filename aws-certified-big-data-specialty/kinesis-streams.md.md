@@ -528,12 +528,15 @@ Questions
 > Which operation/feature or service would you use to locate all items in a table with a particular sort key value? (Choose 2)
 
 Local secondary indexes can't be used: they only allow an alternative sort key, and query can only work against 1 partition key, with a single or range of sort. Global secondary indexes will allow a new index with the sort key as a partition key, and query will work. Scan will allow it, but is very inefficient. GetItem wont work: it needs a single P-KEY and S-KEY.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMz
-M0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2
-ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC
-0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEw
-NDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNT
-IyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTMyNjY4NDQ4MSwtOTAxODcwNDc1LC0xMD
+k1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEz
+ODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLD
+IwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5
+MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLD
+Y4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3
+MTFdfQ==
 -->
