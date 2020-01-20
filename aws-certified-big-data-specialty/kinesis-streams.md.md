@@ -366,11 +366,17 @@ Can transfer up to 100PB per snowmobile
 A fully managed, NoSQL database service
 
 Use Cases:
-- 
+- Mobile
+- Web
+- Gaming
+- IoT
+- Live online voting
+- Session Management
+- S3 Object Meta-data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQwODA2OTIsNDc3MTA0Nzg0LC01Mz
-Y5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEs
-NDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5OD
-YyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbMTA3MjI4OTUzMSw0NzcxMDQ3ODQsLTUzNj
+kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
+MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
+I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
 
 -->
