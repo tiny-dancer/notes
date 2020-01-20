@@ -420,9 +420,13 @@ Each partition key is:
 
 ## DynamoDB Global and Local Secondary Indexes
 
-Two primary retrieval options, `SCAN`
+Two primary retrieval options, `SCAN` and `QUERY`
+
+### Local Secondary Indexes
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTEyMTE3MywxNjkxMDU2MDMwLDE2ND
+eyJoaXN0b3J5IjpbLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2ND
 M5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIz
 LDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMD
 M3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwy
