@@ -572,28 +572,32 @@ Hadoop software library is a framework
 	- High I/O performance
 	- High IOPS at low cost
 	- D2 and I3
-- EBS FOR HDFS
-	- volumes DO NOT PERSIST after cluster termination
-- EMR File System
-	- An implementation of HDFS which allows clusters to store data on S3
-	- Uses data directly on S3 without ingesting into HDFS
-	- Reliability, durability and scalability of S3
-	- Resize and terminate EMR clusters without losing data
-- EMRFS with HDFS
-	- Copy data from S3 to HDFS using S3DistCP
-- EMRFS and Consistent View
-	- S3 - Read after write consistency for new put requests
-	- S3 - Eventual consistency for overwrite of put and delete requests
-	- Listing after quick write may be incomplete
-	- For example an ETL pipeline that depends on list as input to subsequent steps
-	- Consistent View
-		- Uses metadata in dynamodb to ensure EMR interaction is consistent while using EMRFS / S3
+#### EBS FOR HDFS
+
+- volumes DO NOT PERSIST after cluster termination
+
+####  EMR File System
+
+- An implementation of HDFS which allows clusters to store data on S3
+- Uses data directly on S3 without ingesting into HDFS
+- Reliability, durability and scalability of S3
+- Resize and terminate EMR clusters without losing data
+
+> EMRFS with HDFS: Copy data from S3 to HDFS using S3DistCP
+
+####  EMRFS and Consistent View
+- S3 - Read after write consistency for new put requests
+- S3 - Eventual consistency for overwrite of put and delete requests
+- Listing after quick write may be incomplete
+- For example an ETL pipeline that depends on list as input to subsequent steps
+- Consistent View
+	- Uses metadata in dynamodb to ensure EMR interaction is consistent while using EMRFS / S3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMT
-YwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0
-NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NT
-EsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1
-MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nz
-g0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5
-Nzg5NjFdfQ==
+eyJoaXN0b3J5IjpbNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMj
+k4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5
+OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1Ni
+wtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgz
+Mjc1NTY4LC0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMD
+QyLDQ3NzEwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0
+MjU0MF19
 -->
