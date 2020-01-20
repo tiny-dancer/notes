@@ -396,8 +396,13 @@ Each partition key is:
 - limited to 10 GB data
 - limited to 3000 RCU, 1000 WCU
 - Be careful increasing and decreasing WCU/RCU, partitions will be added automatically but never removed
+
+### Key Concepts
+
+- Be aware of the underlying storage infrastracture - partitions
+- B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjU0Njg2MiwxNjkxMDU2MDMwLDE2ND
+eyJoaXN0b3J5IjpbLTY2Mzg2OTgyMSwxNjkxMDU2MDMwLDE2ND
 M5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIz
 LDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMD
 M3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwy
