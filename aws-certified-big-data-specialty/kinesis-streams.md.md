@@ -381,8 +381,9 @@ Capacity:
 - Supports Eventually (default) or strongly consistent reads
 	- Eventually consistent reads leads to lower cost and/or higher throughput
   
+  ## Partitions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDg1NjY1MCwxNjQzOTIwMDQyLDQ3Nz
+eyJoaXN0b3J5IjpbMTczNDEwMjYxMSwxNjQzOTIwMDQyLDQ3Nz
 EwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwx
 NTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MT
 A4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2
