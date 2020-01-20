@@ -414,11 +414,15 @@ Each partition key is:
   - DynamoDB streams
 
 - Understand the key concepts on partitions
-- Understand RCU and WRU impact performance
+- Understand how RCU and WRU impact performance
 - Understand how partition key choices impact performance
 - Understand sort key selection
+
+## DynamoDB Global and Local Secondary Indexes
+
+Two primary retrieval options, `SCAN`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTgyNTI3NSwxNjkxMDU2MDMwLDE2ND
+eyJoaXN0b3J5IjpbLTYwOTEyMTE3MywxNjkxMDU2MDMwLDE2ND
 M5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIz
 LDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMD
 M3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwy
