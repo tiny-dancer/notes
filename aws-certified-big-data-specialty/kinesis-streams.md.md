@@ -579,10 +579,14 @@ Hadoop software library is a framework
 	- Uses data directly on S3 without ingesting into HDFS
 	- Reliability, durability and scalability of S3
 	- Resize and terminate EMR clusters without losing data
-
-Copy data from S3 to HDFS using S3DistCP
+- EMRFS with HDFS
+	- Copy data from S3 to HDFS using S3DistCP
+- EMRFS and Consistent View
+	- S3 - Read after write consistency for new put requests
+	- S3 - Eventual consistency for overwrite of put and delete requests
+	- Listing aft
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MTI1NDkxLDEzMjk4NTIwODksLTE2MD
+eyJoaXN0b3J5IjpbNTQ0NzA1MDU2LDEzMjk4NTIwODksLTE2MD
 kyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0NDcy
 MzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC
 04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1
