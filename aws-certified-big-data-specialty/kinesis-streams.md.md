@@ -510,8 +510,11 @@ Manual (better but not perfect)
 - Number of unique partitions impacts performance
 - Performance (WCU/RCU) is scoped to a partition
 
+#### Bursting
+
+SQS could be used a pre-write buffer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY3Mzk2NzIsLTMzNDQ3MjMyNiwtNj
+eyJoaXN0b3J5IjpbLTEzNDczMDM4NzQsLTMzNDQ3MjMyNiwtNj
 gzMTExMzIwLC0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5
 NjY4LDE3NDU1MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLD
 E2OTEwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkz
