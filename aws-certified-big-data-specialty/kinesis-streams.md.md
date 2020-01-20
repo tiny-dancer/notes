@@ -486,8 +486,10 @@ Partitions = gb size / 10
 #### Performance Formula
 
 Partitions = (desired RCU / 3000) + (desired WCU / 1000)
+
+We need to ensure our key selection  parallelizes reading across partitions to maximize the distributed WCU/RCU across paritions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzc0NDUzNiwtMjc1NDA2ODUxLC04Nj
+eyJoaXN0b3J5IjpbLTE5ODY5MDgzMywtMjc1NDA2ODUxLC04Nj
 Y3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3
 NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNT
 M2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYx
