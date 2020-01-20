@@ -424,9 +424,19 @@ Two primary retrieval options, `SCAN` and `QUERY`
 
 ### Local Secondary Indexes
 
-Contains Partition
+Contains Partition, Sort and new Sort
+- Optional projected values
+
+Any data written to the table is copied async to any LSIs (assume eventual consistency with Local Secondary Indexes)
+
+Shares RCU and WCU with the table
+
+A LSI is a sparse index. An index will only have an ITEM, if the index sort key attribute is contained in the table item (row).
+- Known as a sparse index
+
+#### Sto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDE5MjA3NywtMTUxNTM0NzYyLDE2OT
+eyJoaXN0b3J5IjpbLTUyOTE4MTM3NywtMTUxNTM0NzYyLDE2OT
 EwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQy
 OSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNj
 EyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3Njgs
