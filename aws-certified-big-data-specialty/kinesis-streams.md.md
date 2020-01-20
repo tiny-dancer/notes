@@ -500,13 +500,15 @@ Attribute should have:
 - If any of the above aren't possible with a exsting value, you should consider a sythnetic/created/hybrid value
 - Shouldn't mix HOT and COL key values within a table
 
+#### Key Sharding
 
+- Prefix/Suffix partition key with a number to shard values across partitions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC04Nj
-Y3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3
-NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNT
-M2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYx
-LDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OT
-g2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTk2NDUwMjQ0OCwtMzczMjEzODU2LC0yNz
+U0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1
+NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsND
+c3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQw
+LDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyOD
+gxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOV19
 
 -->
