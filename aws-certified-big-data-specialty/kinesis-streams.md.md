@@ -452,11 +452,12 @@ Any non key values by deafult are not stored in a LSI
 - Know the fundamentals of LSIs and GSIs
 - [Scaling Writes on DynamoDB Tables with Global Secondary Indexes](https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/)
 - [Improving Data Access with Secondary Indexes](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwOD
-MyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAw
-NDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4Mj
-QyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEs
-MTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMz
-czOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTIwMzIyMDcxMTAsLTg2Njc5OTY2OCwxNz
+Q1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2
+MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMz
+QxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0
+LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMz
+E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
