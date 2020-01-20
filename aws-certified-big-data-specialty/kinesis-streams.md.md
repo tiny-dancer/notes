@@ -497,14 +497,16 @@ Attribute should have:
 - Many distinct values
 - A uniform wite pattern across all partition key values
 - Uniform temporal write pattern across time
-- If any of the above aren't possible with a exsting value
+- If any of the above aren't possible with a exsting value, you should consider a sythnetic/created/hybrid value
 - Shouldn't mix HOT and COL key values within a table
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMDMzNTg0LC0yNzU0MDY4NTEsLTg2Nj
-c5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2
-MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01Mz
-Y5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEs
-NDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5OD
-YyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC04Nj
+Y3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3
+NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNT
+M2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYx
+LDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OT
+g2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 
 -->
