@@ -489,7 +489,6 @@ Partitions = (desired RCU / 3000) + (desired WCU / 1000)
 
 We need to ensure our key selection  parallelizes reading across partitions to maximize the distributed WCU/RCU across partitions
 
-
 #### Key Selection
 
 Attribute should have:
@@ -511,11 +510,11 @@ Manual (better but not perfect)
 - Number of unique partitions impacts performance
 - Performance (WCU/RCU) is scoped to a partition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNz
-U0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1
-NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsND
-c3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQw
-LDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyOD
-gxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOV19
-
+eyJoaXN0b3J5IjpbLTMzNDQ3MjMyNiwtNjgzMTExMzIwLC0zNz
+MyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5NjY4LDE3NDU1MjM5
+MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OTEwNTYwMzAsMT
+Y0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQyOSwzNDEzNTk2
+MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQsMTQ1ND
+IwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMTUxNjE2
+XX0=
 -->
