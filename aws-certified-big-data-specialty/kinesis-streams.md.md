@@ -487,13 +487,24 @@ Partitions = gb size / 10
 
 Partitions = (desired RCU / 3000) + (desired WCU / 1000)
 
-We need to ensure our key selection  parallelizes reading across partitions to maximize the distributed WCU/RCU across paritions
+We need to ensure our key selection  parallelizes reading across partitions to maximize the distributed WCU/RCU across partitions
+
+
+#### Key Selection
+
+Attribute should have:
+
+- Many distinct values
+- A uniform wite pattern across all partition key values
+- Uniform temporal write pattern across time
+- If any of the above aren't possible with a exsting value
+- Shouldn't mix HOT and COL key values within a table
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY5MDgzMywtMjc1NDA2ODUxLC04Nj
-Y3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3
-NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNT
-M2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYx
-LDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OT
-g2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbNDUwMDMzNTg0LC0yNzU0MDY4NTEsLTg2Nj
+c5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2
+MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01Mz
+Y5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEs
+NDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5OD
+YyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 
 -->
