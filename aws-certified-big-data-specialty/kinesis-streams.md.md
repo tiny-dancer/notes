@@ -584,13 +584,16 @@ Hadoop software library is a framework
 - EMRFS and Consistent View
 	- S3 - Read after write consistency for new put requests
 	- S3 - Eventual consistency for overwrite of put and delete requests
-	- Listing aft
+	- Listing after quick write may be incomplete
+	- For example an ETL pipeline that depends on list as input to subsequent steps
+	- Consistent View
+		- Uses metadata in dynamodb to ensure EMR interaction is consistent while using EMRFS / S3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzA1MDU2LDEzMjk4NTIwODksLTE2MD
-kyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0NDcy
-MzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC
-04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1
-MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NC
-wtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4
-OTYxXX0=
+eyJoaXN0b3J5IjpbLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMT
+YwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0
+NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NT
+EsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1
+MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nz
+g0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5
+Nzg5NjFdfQ==
 -->
