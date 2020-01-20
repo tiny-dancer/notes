@@ -531,12 +531,21 @@ Local secondary indexes can't be used: they only allow an alternative sort key, 
 
 
 Each shard can support up to 5 transactions per second for reads, and up to 1,000 records per second for writes.
+
+# Domain 3 - Processing
+
+## EMR
+
+Elastic Map Reduce
+
+- Managed cluster platform
+- Process and a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjkyNTIyMCwtOTAxODcwNDc1LC0xMD
-k1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEz
-ODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLD
-IwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5
-MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLD
-Y4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjg4NTY4MjQsLTkwMTg3MDQ3NSwtMT
+A5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIx
+Mzg1NiwtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMi
+wyMDgzMjc1NTY4LC0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQz
+OTIwMDQyLDQ3NzEwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMy
+w2ODI0MjU0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAz
+NzExXX0=
 -->
