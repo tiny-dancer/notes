@@ -539,9 +539,15 @@ Each shard can support up to 5 transactions per second for reads, and up to 1,00
 Elastic Map Reduce
 
 - Managed cluster platform
-- Process and a
+- Process and analyze large amounts of data
+- MapReduce
+- Using big data frameworks and open-source projects:
+  - Apache Hadoop
+  - Apache Spark
+  - Presto
+  - Apache HBase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg4NTY4MjQsLTkwMTg3MDQ3NSwtMT
+eyJoaXN0b3J5IjpbLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMT
 A5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIx
 Mzg1NiwtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMi
 wyMDgzMjc1NTY4LC0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQz
