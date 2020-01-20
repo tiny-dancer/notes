@@ -446,11 +446,17 @@ Any non key values by deafult are not stored in a LSI
 
 - Has the ability to have it's own set of RCU and WCU definitions
 - GSI updates are written async, ie. GSIs are eventually consistent
+
+### Exam
+
+- Know the fundamentals of LSIs and GSIs
+- [Scaling Writes on DynamoDB Tables with Global Secondary Indexes]([https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/](https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/))
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNT
-E1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4
-NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOT
-c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
-MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
-g3N119
+eyJoaXN0b3J5IjpbMTM4NTUwNDg5OCwxNzQ1NTIzOTMyLDIwOD
+MyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAw
+NDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4Mj
+QyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEs
+MTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMz
+czOSwxODYyNjQ4ODc3XX0=
 -->
