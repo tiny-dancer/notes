@@ -392,10 +392,14 @@ Capacity:
 
 So how is the data distributed?
 - Based on its partition key (HASH)
+Each partition key is:
+- limited to 10 GB data
+- limited to 3000 RCU, 1000 WCU
+- Be careful increasing and decreasing WCU/RCU, partitions will be added automatically but never removed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3Nz
-EwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwx
-NTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MT
-A4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2
-MjY0ODg3N119
+eyJoaXN0b3J5IjpbMTEyMjU0Njg2MiwxNjkxMDU2MDMwLDE2ND
+M5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIz
+LDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMD
+M3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwy
+MTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
