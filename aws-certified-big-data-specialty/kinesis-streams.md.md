@@ -561,12 +561,28 @@ Hadoop software library is a framework
 - Distributed processing of large data sets across clusters of computers using simple programming models
 - Can scale up from single servers to thousands of machines, each offering local computation and storage
 - The library itself is designed to detect and handle failures at the application layer
+
+## EMR
+
+### Storage
+
+#### Instance Store
+
+- Local storage, ephemeral 
+	- High I/O performance
+	- High IOPS at low cost
+	- D2 and I3
+- EBS FOR HDFS
+	- volumes DO NOT PERSIST after cluster termination
+- EMR File System
+	- An implementation of HDFS which allows clusters to store data on S3
+	- Uses data directly on S3 without ingesting into HDFS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
-AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
-MTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OC
-wxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkx
-MDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0Mj
-ksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYx
-MjA0XX0=
+eyJoaXN0b3J5IjpbLTEyNjM3NzI3MjYsMTMyOTg1MjA4OSwtMT
+YwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0
+NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NT
+EsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1
+MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nz
+g0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5
+Nzg5NjFdfQ==
 -->
