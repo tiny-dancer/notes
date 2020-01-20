@@ -450,10 +450,10 @@ Any non key values by deafult are not stored in a LSI
 ### Exam
 
 - Know the fundamentals of LSIs and GSIs
-- [Scaling Writes on DynamoDB Tables with Global Secondary Indexes]([https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/](https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/))
-- 
+- [Scaling Writes on DynamoDB Tables with Global Secondary Indexes](https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/)
+- [Improving Data Access with Secondary Indexes](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTUwNDg5OCwxNzQ1NTIzOTMyLDIwOD
+eyJoaXN0b3J5IjpbLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwOD
 MyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAw
 NDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4Mj
 QyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEs
