@@ -354,16 +354,23 @@ Can transfer up to 100PB per snowmobile
 	3. The Lock is set to an `InProgress` state and a lock id returned
 	4. 24 hours to validate the lock (expires after 24 hours if not validated)
 2. Complete Vault Lock
-	3. `InProgress` to Locked state (cannot be changed once in `Locked` state)
+	3. `InProgress` to `Locked` state (cannot be changed once in `Locked` state)
 
-#### Exam
+### Exam
 
 - Vault lock controls (prevent deletion, time-based retention)
 - Implement using IAM policies
+
+## DynamoDB Intro
+
+A fully managed, NoSQL database service
+
+Use Cases:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzY1Mzc1OSw0NzcxMDQ3ODQsLTUzNj
-kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
-MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
-I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbLTEwMzQwODA2OTIsNDc3MTA0Nzg0LC01Mz
+Y5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEs
+NDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5OD
+YyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 
 -->
