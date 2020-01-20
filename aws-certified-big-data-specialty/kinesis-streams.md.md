@@ -441,7 +441,6 @@ Any non key values by deafult are not stored in a LSI
 
 > Item Collections: Limit the size of data storable for a partition key to 10GB, Only apply to tables with a LSI
 
-
 ### Global Secondary Indexes
 
 - Has the ability to have it's own set of RCU and WCU definitions
@@ -453,8 +452,11 @@ Any non key values by deafult are not stored in a LSI
 - [Scaling Writes on DynamoDB Tables with Global Secondary Indexes](https://aws.amazon.com/blogs/big-data/scaling-writes-on-amazon-dynamodb-tables-with-global-secondary-indexes/)
 - [Improving Data Access with Secondary Indexes](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
 
+### Streams and Replication
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIyMDcxMTAsLTg2Njc5OTY2OCwxNz
+eyJoaXN0b3J5IjpbLTE1NTY1MTg2NTUsLTg2Njc5OTY2OCwxNz
 Q1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2
 MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMz
 QxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0
