@@ -553,8 +553,11 @@ Elastic Map Reduce
 - Extract, Transform and Load (ETL)
 - Clickstream Analysis
 - Machine Learning
+
+## Apache Hadoop
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDA1NTI4MiwtMTYwOTI2MjIzNiwtOT
+eyJoaXN0b3J5IjpbMTM0NjAwMTQ3MywtMTYwOTI2MjIzNiwtOT
 AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
 MTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OC
 wxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkx
