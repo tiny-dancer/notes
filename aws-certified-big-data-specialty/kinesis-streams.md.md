@@ -340,10 +340,18 @@ Can transfer up to 100PB per snowmobile
 	- Policies
 		- Locked from edit
 		- Policies cannot be changed after locking 
-		- Enforce 
+		- Enforce compliance controls
+		- Created using IAM
+
+#### Vault Lock
+
+1. Initiate Vault Lock
+	2. Attaches a vault lock policy to your vault
+	3. The Lock is set to an In
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNjI1MTc4LDQ3NzEwNDc4NCwtNTM2OT
-MzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYxLDQw
-MzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mj
-c2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbMTcyMjI0MzU2Miw0NzcxMDQ3ODQsLTUzNj
+kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
+MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
+I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+
 -->
