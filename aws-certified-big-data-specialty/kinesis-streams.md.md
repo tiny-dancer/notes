@@ -457,12 +457,15 @@ Any non key values by deafult are not stored in a LSI
 #### Use Cases
 - Replication
 - Triggers
-- DR: a database table in one AWS region, replicating to another AWS region f
+- DR: a database table in one AWS region, replicating to another AWS region for DR failover
+- A lambda function triggered when items are added, performing analytics
+- Lambda function sending emails, etc
+- Large distributed applications with users worldwide: using a multi-master model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDE3MjQxMCwtODY2Nzk5NjY4LDE3ND
-U1MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OTEwNTYw
-MzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQyOSwzND
-EzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQs
-MTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3NjgsMTAzMT
-UxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbLTE4MTIwMzMxNjQsLTg2Njc5OTY2OCwxNz
+Q1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2
+MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMz
+QxMzU5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0
+LDE0NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMz
+E1MTYxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
