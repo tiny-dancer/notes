@@ -475,9 +475,13 @@ Any non key values by deafult are not stored in a LSI
   - `NEW_IMAGE`
   - `OLD_IMAGE`
   - `NEW_AND_OLD_IMAGE`
-  - 
+ - Cross-region replication utilizing dynamodb streams 
+
+### Performance
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTU0Nzk0NSwtODY2Nzk5NjY4LDE3ND
+eyJoaXN0b3J5IjpbLTI3NTQwNjg1MSwtODY2Nzk5NjY4LDE3ND
 U1MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OTEwNTYw
 MzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQyOSwzND
 EzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNjEyMDQs
