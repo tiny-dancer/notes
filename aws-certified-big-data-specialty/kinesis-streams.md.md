@@ -1,4 +1,6 @@
-# Kinesis Streams
+# Domain 1 - Collection
+
+## Kinesis Streams
 
 > "Useful in any scenario where you are streaming large amounts of data that needs to be processed quickly and you have a requirement to build a custom application to process and analyze streaming data"
 -acloudguru
@@ -330,7 +332,9 @@ Can transfer up to 100PB per snowmobile
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
 
-### Glacier
+# Domain 2 - Storage
+
+## Glacier
 
 - Keep all your data at a much lower cost
 	- Can use object lifecycle policies to automate this process
@@ -343,7 +347,7 @@ Can transfer up to 100PB per snowmobile
 		- Enforce compliance controls
 		- Created using IAM
 
-#### Vault Lock
+### Vault Lock
 
 1. Initiate Vault Lock
 	2. Attaches a vault lock policy to your vault
@@ -354,11 +358,12 @@ Can transfer up to 100PB per snowmobile
 
 #### Exam
 
-- Vault lock controls (prevent dele
+- Vault lock controls (prevent deletion, time-based retention)
 - Implement using IAM policies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MjE5ODI2LDQ3NzEwNDc4NCwtNTM2OT
-MzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYxLDQw
-MzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mj
-c2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbLTQ3MzY1Mzc1OSw0NzcxMDQ3ODQsLTUzNj
+kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
+MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
+I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+
 -->
