@@ -479,9 +479,15 @@ Any non key values by deafult are not stored in a LSI
 
 ### Performance
 
+#### Size Formula
 
+Partitions = gb size / 10
+
+#### Performance Formula
+
+Partitions = (desired RCU / 3000) + (desired WCU / 1000)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTQwNjg1MSwtMjc1NDA2ODUxLC04Nj
+eyJoaXN0b3J5IjpbLTcxMzc0NDUzNiwtMjc1NDA2ODUxLC04Nj
 Y3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3
 NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNT
 M2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYx
