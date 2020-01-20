@@ -556,9 +556,13 @@ Elastic Map Reduce
 
 ## Apache Hadoop
 
-Hadoop sof
+Hadoop software library is a framework
+
+- Distributed processing of large data sets across clusters of computers using simple programming models
+- Can scale up from single servers to thousands of machines, each offering local computation and storage
+- The library itself is designed to detect and handle failures at the application layer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTUzNjE2MCwtMTYwOTI2MjIzNiwtOT
+eyJoaXN0b3J5IjpbMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
 AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
 MTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OC
 wxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkx
