@@ -507,10 +507,11 @@ Manual (better but not perfect)
 - Prefix/Suffix partition key with a number to shard values across partitions
   - ie.  `dskfksdmf12` ⇒ `dskfksdmf12_01`
 
-Performance is split across partitions
-Number of unique par
+- Performance is split across partitions
+- Number of unique partitions impacts performance
+- Performance (WCU/RCU) is scoped to a partition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjM4MTE2MSwtMzczMjEzODU2LC0yNz
+eyJoaXN0b3J5IjpbLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNz
 U0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1
 NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsND
 c3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQw
