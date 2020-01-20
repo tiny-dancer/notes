@@ -443,11 +443,14 @@ Any non key values by deafult are not stored in a LSI
 
 
 ### Global Secondary Indexes
+
+- Has the ability to have it's own set of RCU and WCU definitions
+- GSI updates are written async, ie. GSIs are eventually consistent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk4MTc1MjcsMjA4MzI3NTU2OCwtMT
-UxNTM0NzYyLDE2OTEwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3
-ODQsLTUzNjkzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMj
-k3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1
-LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2ND
-g4NzddfQ==
+eyJoaXN0b3J5IjpbMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNT
+E1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4
+NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOT
+c4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUs
+MTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0OD
+g3N119
 -->
