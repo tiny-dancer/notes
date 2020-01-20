@@ -329,9 +329,12 @@ Can transfer up to 100PB per snowmobile
 - **Stoage Gateway**:  On-premise application data to AWS, backups, files that need to be accessed by Redshift, EMR, etc.
 - **S3 Transfer Acceleration**: No proximity to a region with S3
 - **DMS**: One-time migrations/continuous replication to AWS
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMz
-U5NjIzLDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0
-NTQyMDM3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MT
-YxNiwyMTUzMzczOSwxODYyNjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbMTk4NjYyODQ2MCw0NzcxMDQ3ODQsLTUzNj
+kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
+MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
+I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+
 -->
