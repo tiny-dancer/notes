@@ -523,9 +523,13 @@ Fully understand all the concepts
 - Best practice for partition keys and how to structure data based on key-space and load
 - Global indexes and how to select keys, and how this selction impacts the index and the table
 
+Questions
 
+> Which operation/feature or service would you use to locate all items in a table with a particular sort key value? (Choose 2)
+
+Local secondary indexes can't be used: they only allow an alternative sort key, and query can only work against 1 partition key, with a single or range of sort. Global secondary indexes will allow a new index with the sort key as a partition key, and query will work. Scan will allow it, but is very inefficient. GetItem wont work: it needs a single P-KEY and S-KEY.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjM2MDkyOCwtMTA5NTc5OTQyMCwtMz
+eyJoaXN0b3J5IjpbLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMz
 M0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2
 ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC
 0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEw
