@@ -530,9 +530,9 @@ Questions
 Local secondary indexes can't be used: they only allow an alternative sort key, and query can only work against 1 partition key, with a single or range of sort. Global secondary indexes will allow a new index with the sort key as a partition key, and query will work. Scan will allow it, but is very inefficient. GetItem wont work: it needs a single P-KEY and S-KEY.
 
 
-
+Each shard can support up to 5 transactions per second for reads, and up to 1,000 records per second for writes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjY4NDQ4MSwtOTAxODcwNDc1LC0xMD
+eyJoaXN0b3J5IjpbMTY4NjkyNTIyMCwtOTAxODcwNDc1LC0xMD
 k1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEz
 ODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLD
 IwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5
