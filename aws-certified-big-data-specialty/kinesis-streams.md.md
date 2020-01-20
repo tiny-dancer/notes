@@ -376,9 +376,13 @@ Use Cases:
 
 Capacity:
 
-- Write Capacity Unit (WCU): Nu
+- Write Capacity Unit (WCU): Number of 1 KB blocks per second
+- Read Capacity Units (RCU): Number of 4 KB blocks per second
+- Supports Eventually (default) or strongly consistent reads
+	- Eventually consistent reads leads to lower cost and/or higher throughput
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzk3Njk0NCw0NzcxMDQ3ODQsLTUzNj
+eyJoaXN0b3J5IjpbMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNj
 kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
 MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
 I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
