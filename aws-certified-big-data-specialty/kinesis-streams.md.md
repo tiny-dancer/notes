@@ -434,9 +434,12 @@ Shares RCU and WCU with the table
 A LSI is a sparse index. An index will only have an ITEM, if the index sort key attribute is contained in the table item (row).
 - Known as a sparse index
 
-#### Sto
+#### Storage and performance considerations with LSI's
+
+Any non key values by deafult are not stored in a LSI
+- If you query an attribute which is NOT projected, you are charged for the entire ITEM cost from pulling it from the main table
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTE4MTM3NywtMTUxNTM0NzYyLDE2OT
+eyJoaXN0b3J5IjpbMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OT
 EwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQy
 OSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNj
 EyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3Njgs
