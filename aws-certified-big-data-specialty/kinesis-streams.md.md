@@ -405,11 +405,22 @@ Each partition key is:
   - Performance (every 3,000 RCU or 1,000 WCU)
  - Partitions increase, but do not decrease
  - Be aware that table performance is split across partitions
- - True performance in based on performance all
+ - True performance in based on performance allocated, key structure and time and key distribution of reads and writes
+
+### Exam
+
+- Questions are varied 
+  - RCU, WCU
+  - DynamoDB streams
+
+- Understand the key concepts on partitions
+- Understand RCU and WRU impact performance
+- Understand how partition key choices impact performance
+- Understand sort key selection
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE2NjYwMDMsMTY5MTA1NjAzMCwxNj
-QzOTIwMDQyLDQ3NzEwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYy
-Myw2ODI0MjU0MCwxNTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0Mj
-AzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYs
-MjE1MzM3MzksMTg2MjY0ODg3N119
+eyJoaXN0b3J5IjpbMTA3NTgyNTI3NSwxNjkxMDU2MDMwLDE2ND
+M5MjAwNDIsNDc3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIz
+LDY4MjQyNTQwLDE1MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMD
+M3MTEsMTAyODgxMDg2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwy
+MTUzMzczOSwxODYyNjQ4ODc3XX0=
 -->
