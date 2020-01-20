@@ -502,9 +502,15 @@ Attribute should have:
 
 #### Key Sharding
 
+Manual (better but not perfect)
+
 - Prefix/Suffix partition key with a number to shard values across partitions
+  - ie.  `dskfksdmf12` ⇒ `dskfksdmf12_01`
+
+Performance is split across partitions
+Number of unique par
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDUwMjQ0OCwtMzczMjEzODU2LC0yNz
+eyJoaXN0b3J5IjpbMTczNjM4MTE2MSwtMzczMjEzODU2LC0yNz
 U0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1
 NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsND
 c3MTA0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQw
