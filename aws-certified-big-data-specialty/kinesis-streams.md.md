@@ -385,14 +385,17 @@ Capacity:
 
 - A partition can handle 3000 RCU and 1000 WCU
 
-> There is a capacity and performance relationship to the number of partitions
+> ! There is a capacity and performance relationship to the number of partitions
   
  - Design tables and applications to avoid I/O "hot spots"/"hot keys"
- - When `>10GB`or `>3000   
+ - When `>10GB`or `>3000 RCU` or `>1000 WCU` required, a new partition is added and the data is spread between them over time  
+
+So how is the data distributed?
+- Based on its partition key (HASH)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5OTAxNDc2LDE2NDM5MjAwNDIsNDc3MT
-A0Nzg0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1
-MjI5Nzg5NjEsNDAzMTYxMjA0LDE0NTQyMDM3MTEsMTAyODgxMD
-g2NSwxNjU5ODYyNzY4LDEwMzE1MTYxNiwyMTUzMzczOSwxODYy
-NjQ4ODc3XX0=
+eyJoaXN0b3J5IjpbMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3Nz
+EwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwx
+NTIyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MT
+A4NjUsMTY1OTg2Mjc2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2
+MjY0ODg3N119
 -->
