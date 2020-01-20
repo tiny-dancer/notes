@@ -347,11 +347,18 @@ Can transfer up to 100PB per snowmobile
 
 1. Initiate Vault Lock
 	2. Attaches a vault lock policy to your vault
-	3. The Lock is set to an In
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjI0MzU2Miw0NzcxMDQ3ODQsLTUzNj
-kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
-MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
-I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+	3. The Lock is set to an `InProgress` state and a lock id returned
+	4. 24 hours to validate the lock (expires after 24 hours if not validated)
+2. Complete Vault Lock
+	3. `InProgress` to Locked state (cannot be changed once in `Locked` state)
 
+#### Exam
+
+- Vault lock controls (prevent dele
+- Implement using IAM policies
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjU2MjE5ODI2LDQ3NzEwNDc4NCwtNTM2OT
+MzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4OTYxLDQw
+MzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4NjUsMTY1OTg2Mj
+c2OCwxMDMxNTE2MTYsMjE1MzM3MzksMTg2MjY0ODg3N119
 -->
