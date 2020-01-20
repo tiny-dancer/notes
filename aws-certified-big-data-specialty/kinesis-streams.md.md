@@ -522,12 +522,14 @@ Fully understand all the concepts
 - How partitions influence performance together with partition keys
 - Best practice for partition keys and how to structure data based on key-space and load
 - Global indexes and how to select keys, and how this selction impacts the index and the table
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNj
-gzMTExMzIwLC0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5
-NjY4LDE3NDU1MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLD
-E2OTEwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkz
-MzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MD
-MxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3
-NjhdfQ==
+eyJoaXN0b3J5IjpbMTQwMjM2MDkyOCwtMTA5NTc5OTQyMCwtMz
+M0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2
+ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC
+0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEw
+NDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNT
+IyOTc4OTYxLDQwMzE2MTIwNCwxNDU0MjAzNzExLDEwMjg4MTA4
+NjVdfQ==
 -->
