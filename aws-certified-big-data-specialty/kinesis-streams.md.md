@@ -373,8 +373,12 @@ Use Cases:
 - Live online voting
 - Session Management
 - S3 Object Meta-data
+
+Capacity:
+
+- Write Capacity Unit (WCU): Nu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjI4OTUzMSw0NzcxMDQ3ODQsLTUzNj
+eyJoaXN0b3J5IjpbLTIzNzk3Njk0NCw0NzcxMDQ3ODQsLTUzNj
 kzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0
 MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4Nj
 I3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
