@@ -551,9 +551,10 @@ Elastic Map Reduce
 
 - Log Processing/Analytics
 - Extract, Transform and Load (ETL)
-- Clic
+- Clickstream Analysis
+- Machine Learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDgxNzkyNSwtMTYwOTI2MjIzNiwtOT
+eyJoaXN0b3J5IjpbLTc2MDA1NTI4MiwtMTYwOTI2MjIzNiwtOT
 AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
 MTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OC
 wxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkx
