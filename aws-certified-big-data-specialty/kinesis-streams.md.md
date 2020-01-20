@@ -577,12 +577,16 @@ Hadoop software library is a framework
 - EMR File System
 	- An implementation of HDFS which allows clusters to store data on S3
 	- Uses data directly on S3 without ingesting into HDFS
+	- Reliability, durability and scalability of S3
+	- Resize and terminate EMR clusters without losing data
+
+Copy data from S3 to HDFS using S3DistCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM3NzI3MjYsMTMyOTg1MjA4OSwtMT
-YwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0
-NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NT
-EsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1
-MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nz
-g0LC01MzY5MzM0MjksMzQxMzU5NjIzLDY4MjQyNTQwLDE1MjI5
-Nzg5NjFdfQ==
+eyJoaXN0b3J5IjpbNjk2MTI1NDkxLDEzMjk4NTIwODksLTE2MD
+kyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0NDcy
+MzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC
+04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1
+MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NC
+wtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0MjU0MCwxNTIyOTc4
+OTYxXX0=
 -->
