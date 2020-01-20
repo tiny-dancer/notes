@@ -438,10 +438,16 @@ A LSI is a sparse index. An index will only have an ITEM, if the index sort key 
 
 Any non key values by deafult are not stored in a LSI
 - If you query an attribute which is NOT projected, you are charged for the entire ITEM cost from pulling it from the main table
+
+> Item Collections: Limit the size of data storable for a partition key to 10GB, Only apply to tables with a LSI
+
+
+### Global Secondary Indexes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OT
-EwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQy
-OSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMjk3ODk2MSw0MDMxNj
-EyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1LDE2NTk4NjI3Njgs
-MTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2NDg4NzddfQ==
+eyJoaXN0b3J5IjpbLTEyMDk4MTc1MjcsMjA4MzI3NTU2OCwtMT
+UxNTM0NzYyLDE2OTEwNTYwMzAsMTY0MzkyMDA0Miw0NzcxMDQ3
+ODQsLTUzNjkzMzQyOSwzNDEzNTk2MjMsNjgyNDI1NDAsMTUyMj
+k3ODk2MSw0MDMxNjEyMDQsMTQ1NDIwMzcxMSwxMDI4ODEwODY1
+LDE2NTk4NjI3NjgsMTAzMTUxNjE2LDIxNTMzNzM5LDE4NjI2ND
+g4NzddfQ==
 -->
