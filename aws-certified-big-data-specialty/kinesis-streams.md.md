@@ -690,14 +690,23 @@ Massively scalable, distributed big data store in the Hadoop system.
 
 #### Advantages
 
--Query different types of data sources from relational data-sources, NoSQL database, frameworks like Hive to stream processing platforms like Kafka
+- Query different types of data sources from relational data-sources, NoSQL database, frameworks like Hive to stream processing platforms like Kafka
+- High concurrency, run thousands of queries per day (sub-second to minutes)
+- In-memory processing help avoid unnecssary I/O, leading to low latency
+- Does not need an interpreter layer like Hive does (Tez)
 
+#### What NOT to use Presto for
+
+- Not a database and not designed for OLTP
+- Joining very large (100m plus rows) requires optimization
+  - Use Hive instead
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTI0MjAyOCwtNDE2NzYyNjgwLC0xOT
-gwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2
-MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMT
-YyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQw
-OTU4LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NS
-wtMTA5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3
-MzIxMzg1Nl19
+eyJoaXN0b3J5IjpbNDg0MjQ0NDU1LC00MTY3NjI2ODAsLTE5OD
+A2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYz
+MzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNj
+I4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5
+NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC
+0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzcz
+MjEzODU2XX0=
 -->
