@@ -657,19 +657,25 @@ Massively scalable, distributed big data store in the Hadoop system.
 - Content (Facebook, Spotify)
 - Financial Data (FINRA)
 
-#### When should you use HBase?
+**When should you use HBase?**
 
 - Large amounts of data - 100s of GBs to PBs
 - High write throughput and updates rates
 - NoSQL, flexible schema
 - Fast access to data, random and real-time
-- Fault-tolerance in a non-relation 
+- Fault-tolerance in a non-relational environment
+
+**When NOT to use HBase**
+
+- Transactional applications
+- Relational database type features
+- Small amounts of data  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY1OTM0MjQsLTE1NTcxNDYzMzgsLT
-c5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQw
-NDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMT
-MyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1
-Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzOD
-U2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIw
-ODMyNzU1NjhdfQ==
+eyJoaXN0b3J5IjpbMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OT
+Y3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQx
+OSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMj
+k4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5
+OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1Ni
+wtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgz
+Mjc1NTY4XX0=
 -->
