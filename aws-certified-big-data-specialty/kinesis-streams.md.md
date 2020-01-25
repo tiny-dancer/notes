@@ -816,12 +816,21 @@ Valuable blog posts for the exam:
 - [https://aws.amazon.com/blogs/big-data/analyze-your-data-on-amazon-dynamodb-with-apache-spark/](https://aws.amazon.com/blogs/big-data/analyze-your-data-on-amazon-dynamodb-with-apache-spark/)
 - [https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/](https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/)
 - [https://aws.amazon.com/blogs/big-data/analyze-realtime-data-from-amazon-kinesis-streams-using-zeppelin-and-spark-streaming/](https://aws.amazon.com/blogs/big-data/analyze-realtime-data-from-amazon-kinesis-streams-using-zeppelin-and-spark-streaming/)
+
+#### Spark and Redshift
+
+1. Spark for extraction, transformation and load (ETL) of large amounts of data
+- Hive tables in HDFS or S3, text files (csv), parquet, etc
+- ETL in Spark gives you a performance benefit
+2. Redshift for analysis
+
+- Databri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTA1MTgwMCwxNjA3NTEwODEwLC0yMD
-QxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0
-MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NS
-wzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIz
-NjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOC
-w1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYw
-OTI2MjIzNl19
+eyJoaXN0b3J5IjpbNjAxNTc5MTc0LDE2MDc1MTA4MTAsLTIwND
+EzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQy
+MjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LD
+MyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2
+MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LD
+U3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5
+MjYyMjM2XX0=
 -->
