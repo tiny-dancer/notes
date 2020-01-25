@@ -603,9 +603,9 @@ Scaling down: graceful shrink
 
 Autoscaling
 
-> Cannot 
+> Cannot add a auto scaling role after an EMR cluster has been created
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjUyMzc4MiwxNjI4NzQwNDE5LDQwMz
+eyJoaXN0b3J5IjpbLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMz
 cxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4
 OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC
 0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0
