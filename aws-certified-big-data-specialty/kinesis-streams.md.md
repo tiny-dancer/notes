@@ -701,12 +701,25 @@ Massively scalable, distributed big data store in the Hadoop system.
 - Joining very large (100m plus rows) requires optimization
   - Use Hive instead
  - Batch processing
+
+#### Exam
+
+- High-level understanding of Presto
+- Know where Presto should and should not be used
+
+### Apache Spark on EMR (important topic for
+
+- Fast engine for processing large amounts of data
+- Run in-memory
+- Run on disk
+- Very popular in big data ecosystem, primarily because of performance
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5OD
-A2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYz
-MzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNj
-I4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5
-NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC
-0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzcz
-MjEzODU2XX0=
+eyJoaXN0b3J5IjpbNjEzNDU2MzcsNDIzMTE0MjIyLC00MTY3Nj
+I2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMs
+LTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyOD
+I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
+LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
+AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
+MTMyMF19
 -->
