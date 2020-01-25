@@ -727,13 +727,23 @@ Massively scalable, distributed big data store in the Hadoop system.
 	- Disparate data sources
 	- Data in small sizes
 - Machine Learning
-	- Repeated queries at scale against data
+	- Repeated queries at scale against data sets
+	- Train machine learning algorithms
+	- Machine Learning Libary (MLlib)
+		- Recommendation Engines
+		- Fraud Detection
+		- Customer Segmentation
+		- Security
+- Data Integration
+	- ETL
+	- Reduce time and cost taken to complete ETL processes
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDQxMDgxMCw0MjMxMTQyMjIsLTQxNj
-c2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMz
-MywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNT
-I4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2
-MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC
-05MDE4NzA0NzUsLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNjgz
-MTExMzIwXX0=
+eyJoaXN0b3J5IjpbLTE0NTk5NDgzMjEsNDIzMTE0MjIyLC00MT
+Y3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAz
+MzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLT
+UyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2Mjgw
+NjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNi
+wtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4
+MzExMTMyMF19
 -->
