@@ -681,12 +681,22 @@ Massively scalable, distributed big data store in the Hadoop system.
 - When to use HBase and when NOT to
 - Compared to DynamoDB and Redshift
 - HBase integration with Hadoop, Hive, Pheonix, HDFS and EMRFS
+
+### Presto On EMR
+
+- Open-source in-memory distributed fast SQL query engine
+- Run interactive analytic queries against a variety of data sources with sizes ranging from GBs to PBs
+- Faster than hive
+
+#### Advantages
+
+Query different types of data sources from relation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNz
-YyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5
-NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksND
-AzNzEzOTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUy
-MDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0NzUsLTEwOTU3OTk0Mj
-AsLTMzNDQ3MjMyNiwtNjgzMTExMzIwLC0zNzMyMTM4NTYsLTI3
-NTQwNjg1MV19
+eyJoaXN0b3J5IjpbLTM4NDg4OTkyNiwtNDE2NzYyNjgwLC0xOT
+gwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2
+MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMT
+YyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQw
+OTU4LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NS
+wtMTA5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3
+MzIxMzg1Nl19
 -->
