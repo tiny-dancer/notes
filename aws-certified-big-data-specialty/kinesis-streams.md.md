@@ -655,9 +655,17 @@ Massively scalable, distributed big data store in the Hadoop system.
 
 - Ad tech (click stream analysis)
 - Content (Facebook, Spotify)
-- Financial Data (FINRA) 
+- Financial Data (FINRA)
+
+#### When should you use HBase?
+
+- Large amounts of data - 100s of GBs to PBs
+- High write throughput and updates rates
+- NoSQL, flexible schema
+- Fast access to data, random and real-time
+- Fault-tolerance in a non-relation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg3NjY2NjIsLTE1NTcxNDYzMzgsLT
+eyJoaXN0b3J5IjpbLTE3NjY1OTM0MjQsLTE1NTcxNDYzMzgsLT
 c5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQw
 NDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMT
 MyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1
