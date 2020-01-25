@@ -700,9 +700,9 @@ Massively scalable, distributed big data store in the Hadoop system.
 - Not a database and not designed for OLTP
 - Joining very large (100m plus rows) requires optimization
   - Use Hive instead
-  - 
+ - Batch processing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjQ0NDU1LC00MTY3NjI2ODAsLTE5OD
+eyJoaXN0b3J5IjpbNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5OD
 A2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYz
 MzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNj
 I4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5
