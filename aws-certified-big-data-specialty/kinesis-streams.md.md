@@ -645,8 +645,18 @@ EMR dynamodb connector:
 - copy data from s3 to dynamodb
 
 
+### HBase on EMR
+
+Massively scalable, distributed big data store in the Hadoop system.
+
+- Integrates with Hadoop, Hive, and Phoenix so you can combine massively parallel analytics with fast data access
+
+#### Use Cases
+
+- Ad tech (click stream analysis)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NTczOTAwLC0xNTU3MTQ2MzM4LC03OT
+eyJoaXN0b3J5IjpbMjk0NjM1MTg3LC0xNTU3MTQ2MzM4LC03OT
 Y3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQx
 OSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMj
 k4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5
