@@ -864,16 +864,25 @@ Valuable blog post for the exam:
 
 #### File Formats
 
-- **Text**: (csv,tsv)
-- **Parquet - Columnar-oriented file format
-- **ORC - Optimized Row Columnar file format
-- **Sequence - Flat files consisting of binary key/value pairs
+- **Text**: csv, tsv
+- **Parquet**:  Columnar-oriented file format
+- **ORC**: Optimized Row Columnar file format
+- **Sequence**: Flat files consisting of binary key/value pairs
+- **Avro**: Data serialization framework
+
+#### File Sizes
+
+- GZIP files are not splittable, keep them in the 1-2 GB range
+- Avoid smaller files (100 MB or less), plan for fewer larger files
+- S3DistCP can be used to combine small files into larger files
+- **Sequence**: Flat files consisting of binary key/value pairs
+- **Avro**: Data serialization framework
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg3ODExOTAsLTY5MzAwNTE4LDE2MD
-c1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4
-MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MS
-wtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2
-NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MT
-ksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5
-ODUyMDg5XX0=
+eyJoaXN0b3J5IjpbMTM3MDk0NTcwLC02OTMwMDUxOCwxNjA3NT
+EwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3
+NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLT
+c2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5Njcz
+OTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LD
+QwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1
+MjA4OV19
 -->
