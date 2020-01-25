@@ -797,12 +797,18 @@ General execution engine
 	- Kerberos authentication
 	- Dynamic allocation of executors
 	- Dynamic sharing and central configuration of resources across various engines 
+
+### Spark on EMR in the AWS Ecoyst
+
+- Kinesis Streams
+- Redshift
+- DynamoDB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
-Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
-MzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOC
-wtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3
-NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OC
-wxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0NzUsLTEw
-OTU3OTk0MjBdfQ==
+eyJoaXN0b3J5IjpbODU1Njg3MTA0LC0yMDQxMzM0NzY4LDEyMD
+Y5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0MjIyLC00MTY3NjI2
+ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLT
+E1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1
+NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLT
+E4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAx
+ODcwNDc1XX0=
 -->
