@@ -604,12 +604,27 @@ Scaling down: graceful shrink
 Autoscaling
 
 > Cannot add a auto scaling role after an EMR cluster has been created
+
+
+### Hue
+
+- Have an overall understanding of the benefits and advantages of Hue
+
+### Apache Hive on EMR
+
+Data Warehouse infra built on top of Hadoop
+
+- Summarize, Query, and Analyze very large data sets
+- Use a SQL-like interface
+- Hive is useful for non-java programmers
+	- Hadoop is implemented in Java
+	- Hive provide
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMz
-cxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4
-OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC
-0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0
-MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1Nj
-gsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3
-MTA0Nzg0XX0=
+eyJoaXN0b3J5IjpbLTEyMjE4NDQ0NjEsLTUyODI1NTA1MywxNj
+I4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5
+NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC
+0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzcz
+MjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOT
+MyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2
+NDM5MjAwNDJdfQ==
 -->
