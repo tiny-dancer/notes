@@ -875,14 +875,19 @@ Valuable blog post for the exam:
 - GZIP files are not splittable, keep them in the 1-2 GB range
 - Avoid smaller files (100 MB or less), plan for fewer larger files
 - S3DistCP can be used to combine small files into larger files
-- **Sequence**: Flat files consisting of binary key/value pairs
-- **Avro**: Data serialization framework
+	- An extension of DistCP
+	- S3DistCp can be used to copy data between S3 buckets or S3 to HDFS or HDFS to S3
+- S3DistCp can be added as a step in EMR
+
+#### Exam
+
+- Study the compression algorithms table
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDk0NTcwLC02OTMwMDUxOCwxNjA3NT
-EwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3
-NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLT
-c2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5Njcz
-OTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LD
-QwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1
-MjA4OV19
+eyJoaXN0b3J5IjpbLTM3MzIzMTYwMywtNjkzMDA1MTgsMTYwNz
+UxMDgxMCwtMjA0MTMzNDc2OCwxMjA2OTk4NTkxLC0xNjY4Nzgw
+NzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC
+03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3
+Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOS
+w0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4
+NTIwODldfQ==
 -->
