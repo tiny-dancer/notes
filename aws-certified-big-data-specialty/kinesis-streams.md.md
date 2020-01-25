@@ -770,15 +770,24 @@ General execution engine
 > "Spark streaming is an extension of the core Spark API that enables scalable, high through, fault tolerant stream proecssing of live-data streams"
 > - Apache Spark documentation
 
+#### MLlib
 
+- Spark's scalable marchine learning library
+- MLlib for out-of-the-box scalable, distributed machine learning algorithms
+
+#### GraphX
+
+- Spark's API for graphs and graph-parallel computation
+- Iteractively build and transform graph structured data at scale
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg3ODA3NjYsNDIzMTE0MjIyLC00MT
-Y3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAz
-MzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLT
-UyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2Mjgw
-NjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNi
-wtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4
-MzExMTMyMF19
+eyJoaXN0b3J5IjpbMjg3NjUxNTk0LC0xNjY4NzgwNzY2LDQyMz
+ExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC03NjIwNTQy
+NzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNT
+AyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5
+MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4NTIwODksLT
+E2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0
+NDcyMzI2XX0=
 -->
