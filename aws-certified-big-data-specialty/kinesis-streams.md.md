@@ -755,13 +755,24 @@ General execution engine
 - Memory management
 - Supports APIs for Scala, Python, SQL, R and Java
 - Supports the following APIs to access data
-	- Re
+
+#### Spark SQL
+
+- Runs low-latency, interactive SQL queries against structured data
+- RDD and DataFrame APIs to access variety of data sources using Scala, Python, Java, R or SQL
+- Avro, Parquet, ORC and JSON
+- Join across data sources
+- Supports querying Hive tables using HiveQL
+- JDBC/ODBC with existing tables (query and copy data into existing data sources)
+
+#### Spa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNTIxODI2LDQyMzExNDIyMiwtNDE2Nz
-YyNjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMz
-LC0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01Mj
-gyNTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYx
-LC0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLT
-kwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMx
-MTEzMjBdfQ==
+eyJoaXN0b3J5IjpbMzI2MzUyNDQsNDIzMTE0MjIyLC00MTY3Nj
+I2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMs
+LTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyOD
+I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
+LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
+AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
+MTMyMF19
 -->
