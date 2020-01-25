@@ -675,12 +675,14 @@ Massively scalable, distributed big data store in the Hadoop system.
 
 - HBase is more valuable for high write/update throughput and near real-time lookups (over fast changing data)
 - Redshift is more valuable for OLAP (large complex queries, JOINS, aggregations)  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NT
-cxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1
-MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4Mz
-AxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcw
-NDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMC
-wtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1
-NTIzOTMyXX0=
+eyJoaXN0b3J5IjpbLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMj
+YzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5
+MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1Nz
+I2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2
+MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMj
+YsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2
+Njc5OTY2OF19
 -->
