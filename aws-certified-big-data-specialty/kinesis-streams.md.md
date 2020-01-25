@@ -765,14 +765,20 @@ General execution engine
 - Supports querying Hive tables using HiveQL
 - JDBC/ODBC with existing tables (query and copy data into existing data sources)
 
-#### Spa
+#### Spark Streaming
+
+> "Spark streaming is an extension of the core Spark API that enables scalable, high through, fault tolerant stream proecssing of live-data streams"
+> - Apache Spark documentation
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MzUyNDQsNDIzMTE0MjIyLC00MTY3Nj
-I2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMs
-LTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyOD
-I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
-LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
-AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
-MTMyMF19
+eyJoaXN0b3J5IjpbLTE2Njg3ODA3NjYsNDIzMTE0MjIyLC00MT
+Y3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAz
+MzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLT
+UyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2Mjgw
+NjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNi
+wtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4
+MzExMTMyMF19
 -->
