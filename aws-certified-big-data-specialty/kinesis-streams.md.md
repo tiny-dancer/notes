@@ -637,13 +637,19 @@ Data Warehouse infra built on top of Hadoop
 
 #### DynamoDB
 
+EMR dynamodb connector:
+- Join hive and dynamodb tables
+- query data in dynamodb table
+- copy data from a dynamodb table into HDFS and vice versa
+- copy data from dynamodb to s3
+- copy data from s3 to dynamodb
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyOD
-I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
-LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
-AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
-MTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OC
-wxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkx
-MDU2MDMwXX0=
+eyJoaXN0b3J5IjpbLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MD
+IzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzky
+OCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMT
+YwOTI2MjIzNiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0
+NzIzMjYsLTY4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NT
+EsLTg2Njc5OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1
+MTUzNDc2Ml19
 -->
