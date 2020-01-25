@@ -835,12 +835,24 @@ Valuable blog post for the exam:
 
 Valuable blog post for the exam:
 - [https://aws.amazon.com/blogs/big-data/using-spark-sql-for-etl/](https://aws.amazon.com/blogs/big-data/using-spark-sql-for-etl/)
+
+
+#### Exam
+
+- Know how Spark Streaming and Kinesis Streams work together
+- High level understanding of how Spark integrations with Redshift and DynamoDB
+
+### EMR File Storage and Compression
+
+#### Files in HDFS and S3
+
+- **HD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzE1OTA5NywxNjA3NTEwODEwLC0yMD
-QxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0
-MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NS
-wzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIz
-NjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOC
-w1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYw
-OTI2MjIzNl19
+eyJoaXN0b3J5IjpbLTIwNzk2MTk2NjQsMTYwNzUxMDgxMCwtMj
+A0MTMzNDc2OCwxMjA2OTk4NTkxLC0xNjY4NzgwNzY2LDQyMzEx
+NDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNz
+UsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAy
+MzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5Mj
+gsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2
+MDkyNjIyMzZdfQ==
 -->
