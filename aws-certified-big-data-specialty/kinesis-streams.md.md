@@ -785,13 +785,22 @@ General execution engine
 - Iteractively build and transform graph structured data at scale
 - Supports a number of graph algorithms
 
+#### Cluster Managers
 
+- Driver program coordinates processes
+- Drive program connects to Cluster Manager
+- Spark aqcquires executors
+- Spark sends application code to executors
+- Driver program sends tasks to the executors to run
+- Does not requre Hadoop, can use standalone scheduler
+- By default uses Hadoop YARN
+	- H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0Mj
-MxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0
-Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LD
-UwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEz
-OTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC
-0xNjA5MjYyMjM2LC05MDE4NzA0NzUsLTEwOTU3OTk0MjAsLTMz
-NDQ3MjMyNl19
+eyJoaXN0b3J5IjpbMTY3Mjk4NzIzMSwxMjA2OTk4NTkxLC0xNj
+Y4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEz
+NjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC
+03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0
+MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LD
+EzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5
+NTc5OTQyMF19
 -->
