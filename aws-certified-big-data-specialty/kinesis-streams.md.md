@@ -824,9 +824,14 @@ Valuable blog posts for the exam:
 - ETL in Spark gives you a performance benefit
 2. Redshift for analysis
 
-- Databri
+- Databrick's Spark-Redshift library
+	- Reads data from redshift and can write back to Redshift by loading into Spark SQL DataFrames
+		- Executes the Redshift UNLOAD command to copy data to a S3 Bucket
+
+Valuable blog post for the exam
+[https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/](https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNTc5MTc0LDE2MDc1MTA4MTAsLTIwND
+eyJoaXN0b3J5IjpbNzE1MDQ3MDU5LDE2MDc1MTA4MTAsLTIwND
 EzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQy
 MjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LD
 MyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2
