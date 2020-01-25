@@ -846,13 +846,14 @@ Valuable blog post for the exam:
 
 #### Files in HDFS and S3
 
-- **HD
+- **HDFS**: data files are split into chucks automatically by Hadoop
+- **S3**: Hadoop will split the data by reading the files in multiple HTTP range requests
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk2MTk2NjQsMTYwNzUxMDgxMCwtMj
-A0MTMzNDc2OCwxMjA2OTk4NTkxLC0xNjY4NzgwNzY2LDQyMzEx
-NDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNz
-UsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAy
-MzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5Mj
-gsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2
-MDkyNjIyMzZdfQ==
+eyJoaXN0b3J5IjpbLTY5MzAwNTE4LDE2MDc1MTA4MTAsLTIwND
+EzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQy
+MjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LD
+MyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2
+MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LD
+U3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5
+MjYyMjM2XX0=
 -->
