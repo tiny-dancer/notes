@@ -598,12 +598,16 @@ Hadoop software library is a framework
 
 
 Scaling down: graceful shrink
+
+- Keep replicaton factor in mind, you have less core nodes than the replication factor
+
+Autoscaling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0OTY3MzkxLDQwMzcxMzkyOCw1NzI2Mj
-gwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIz
-NiwtOTAxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLT
-Y4MzExMTMyMCwtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5
-OTY2OCwxNzQ1NTIzOTMyLDIwODMyNzU1NjgsLTE1MTUzNDc2Mi
-wxNjkxMDU2MDMwLDE2NDM5MjAwNDIsNDc3MTA0Nzg0LC01MzY5
-MzM0MjldfQ==
+eyJoaXN0b3J5IjpbMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNj
+I4MDYxLC0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2MDkyNjIy
+MzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0NDcyMzI2LC
+02ODMxMTEzMjAsLTM3MzIxMzg1NiwtMjc1NDA2ODUxLC04NjY3
+OTk2NjgsMTc0NTUyMzkzMiwyMDgzMjc1NTY4LC0xNTE1MzQ3Nj
+IsMTY5MTA1NjAzMCwxNjQzOTIwMDQyLDQ3NzEwNDc4NCwtNTM2
+OTMzNDI5XX0=
 -->
