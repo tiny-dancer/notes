@@ -592,12 +592,15 @@ Hadoop software library is a framework
 - For example an ETL pipeline that depends on list as input to subsequent steps
 - Consistent View
 	- Uses metadata in dynamodb to ensure EMR interaction is consistent while using EMRFS / S3
+
+
+### EMR Operations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMj
-k4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5
-OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1Ni
-wtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgz
-Mjc1NTY4LC0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQzOTIwMD
-QyLDQ3NzEwNDc4NCwtNTM2OTMzNDI5LDM0MTM1OTYyMyw2ODI0
-MjU0MF19
+eyJoaXN0b3J5IjpbNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMD
+E0MDk1OCwxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0
+NzUsLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNjgzMTExMzIwLC
+0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5NjY4LDE3NDU1
+MjM5MzIsMjA4MzI3NTU2OCwtMTUxNTM0NzYyLDE2OTEwNTYwMz
+AsMTY0MzkyMDA0Miw0NzcxMDQ3ODQsLTUzNjkzMzQyOSwzNDEz
+NTk2MjNdfQ==
 -->
