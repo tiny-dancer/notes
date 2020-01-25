@@ -858,13 +858,22 @@ Valuable blog post for the exam:
 | LZO       | Yes         | Low               | Fast      |
 | Snappy    | No          | Low               | Very fast |
 
+- Better performance when less data is transferred between S3, mappers and reducers
+- Less network traffic between S3 and EMR
+- Reduce storage and networking costs
 
+#### File Formats
+
+- **Text**: (csv,tsv)
+- **Parquet - Columnar-oriented file format
+- **ORC - Optimized Row Columnar file format
+- **Sequence - Flat files consisting of binary key/value pairs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5Nzk2NTE1LC02OTMwMDUxOCwxNjA3NT
-EwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3
-NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLT
-c2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5Njcz
-OTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LD
-QwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1
-MjA4OV19
+eyJoaXN0b3J5IjpbLTEyMDg3ODExOTAsLTY5MzAwNTE4LDE2MD
+c1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4
+MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MS
+wtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2
+NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MT
+ksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5
+ODUyMDg5XX0=
 -->
