@@ -810,9 +810,9 @@ General execution engine
 - DStreams can be created from input data streams like Kinesis Streams
 - DStreams are a collection of RDDs
 - Transformations are applied to the RDDs
-- Results pu
+- Results published to HDFS, databases or dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY1ODI3OSwtMjA0MTMzNDc2OCwxMj
+eyJoaXN0b3J5IjpbMTYwNzUxMDgxMCwtMjA0MTMzNDc2OCwxMj
 A2OTk4NTkxLC0xNjY4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYy
 NjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC
 0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01Mjgy
