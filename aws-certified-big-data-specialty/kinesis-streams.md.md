@@ -848,12 +848,23 @@ Valuable blog post for the exam:
 
 - **HDFS**: data files are split into chucks automatically by Hadoop
 - **S3**: Hadoop will split the data by reading the files in multiple HTTP range requests
+
+#### Compression
+
+| Algorithm | Splittable? | Compression Ratio | Speed     |
+|-----------|-------------|-------------------|-----------|
+| GZIP      | No          | High              | Medium    |
+| bzip2     | Yes         | Very high         | Slow      |
+| LZO       | Yes         | Low               | Fast      |
+| Snappy    | No          | Low               | Very fast |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzAwNTE4LDE2MDc1MTA4MTAsLTIwND
-EzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQy
-MjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LD
-MyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2
-MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LD
-U3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5
-MjYyMjM2XX0=
+eyJoaXN0b3J5IjpbNjM5Nzk2NTE1LC02OTMwMDUxOCwxNjA3NT
+EwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3
+NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLT
+c2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5Njcz
+OTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LD
+QwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1
+MjA4OV19
 -->
