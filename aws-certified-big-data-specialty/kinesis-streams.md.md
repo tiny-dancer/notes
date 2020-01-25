@@ -737,9 +737,17 @@ Massively scalable, distributed big data store in the Hadoop system.
 - Data Integration
 	- ETL
 	- Reduce time and cost taken to complete ETL processes
-		- 
+
+#### When NOT to use Spark
+
+- Not a database and not designed for OLTP
+- Batch processing
+	- consider hive for very large batch jobs
+- Avoid for large multi-user reporting environments with high concurrency
+	- Run ETL in Spark and copying the data to a typical reporting database
+	- Run batch jobs in Hive instead
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk5NDgzMjEsNDIzMTE0MjIyLC00MT
+eyJoaXN0b3J5IjpbLTE0ODY2MzA2NTksNDIzMTE0MjIyLC00MT
 Y3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAz
 MzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLT
 UyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2Mjgw
