@@ -794,13 +794,15 @@ General execution engine
 - Driver program sends tasks to the executors to run
 - Does not requre Hadoop, can use standalone scheduler
 - By default uses Hadoop YARN
-	- H
+	- Kerberos authentication
+	- Dynamic allocation of executors
+	- Dynamic sharing and central configuration of resources across various engines 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mjk4NzIzMSwxMjA2OTk4NTkxLC0xNj
-Y4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEz
-NjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC
-03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0
-MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LD
-EzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5
-NTc5OTQyMF19
+eyJoaXN0b3J5IjpbLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
+Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
+MzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOC
+wtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3
+NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OC
+wxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0NzUsLTEw
+OTU3OTk0MjBdfQ==
 -->
