@@ -811,12 +811,17 @@ General execution engine
 - DStreams are a collection of RDDs
 - Transformations are applied to the RDDs
 - Results published to HDFS, databases or dashboards
+
+Valuable blog posts for the exam:
+- [https://aws.amazon.com/blogs/big-data/analyze-your-data-on-amazon-dynamodb-with-apache-spark/](https://aws.amazon.com/blogs/big-data/analyze-your-data-on-amazon-dynamodb-with-apache-spark/)
+- [https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/](https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/)
+- [https://aws.amazon.com/blogs/big-data/analyze-realtime-data-from-amazon-kinesis-streams-using-zeppelin-and-spark-streaming/](https://aws.amazon.com/blogs/big-data/analyze-realtime-data-from-amazon-kinesis-streams-using-zeppelin-and-spark-streaming/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzUxMDgxMCwtMjA0MTMzNDc2OCwxMj
-A2OTk4NTkxLC0xNjY4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYy
-NjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC
-0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01Mjgy
-NTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC
-0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkw
-MTg3MDQ3NV19
+eyJoaXN0b3J5IjpbLTUyNTA1MTgwMCwxNjA3NTEwODEwLC0yMD
+QxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0
+MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NS
+wzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIz
+NjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOC
+w1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYw
+OTI2MjIzNl19
 -->
