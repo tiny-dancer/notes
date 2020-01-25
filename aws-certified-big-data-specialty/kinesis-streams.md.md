@@ -707,19 +707,33 @@ Massively scalable, distributed big data store in the Hadoop system.
 - High-level understanding of Presto
 - Know where Presto should and should not be used
 
-### Apache Spark on EMR (important topic for
+### Apache Spark on EMR
+
+> Exam: Important topic 
 
 - Fast engine for processing large amounts of data
 - Run in-memory
 - Run on disk
 - Very popular in big data ecosystem, primarily because of performance
-- 
+
+#### Use Cases
+
+- Interactive Analytics
+	- Faster than running queries in Hive
+	- Flexibility in terms of languages (Scala, Python, etc)
+	- Run queries against live data (Spark 2.0)
+		- Structured Streaming
+- Stream Processing
+	- Disparate data sources
+	- Data in small sizes
+- Machine Learning
+	- Repeated queries at scale against data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNDU2MzcsNDIzMTE0MjIyLC00MTY3Nj
-I2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMs
-LTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyOD
-I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
-LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
-AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
-MTMyMF19
+eyJoaXN0b3J5IjpbMjEyMDQxMDgxMCw0MjMxMTQyMjIsLTQxNj
+c2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMz
+MywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNT
+I4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2
+MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC
+05MDE4NzA0NzUsLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNjgz
+MTExMzIwXX0=
 -->
