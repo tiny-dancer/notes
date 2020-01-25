@@ -669,13 +669,15 @@ Massively scalable, distributed big data store in the Hadoop system.
 
 - Transactional applications
 - Relational database type features
-- Small amounts of data  
+- Small amounts of data
+
+#  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OT
-Y3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQx
-OSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMj
-k4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5
-OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIxMzg1Ni
-wtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMiwyMDgz
-Mjc1NTY4XX0=
+eyJoaXN0b3J5IjpbOTY3MjU0OTIwLDMyNjM2MDMzMywtMTU1Nz
+E0NjMzOCwtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUz
+LDE2Mjg3NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMD
+E0MDk1OCwxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0
+NzUsLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNjgzMTExMzIwLC
+0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5NjY4LDE3NDU1
+MjM5MzJdfQ==
 -->
