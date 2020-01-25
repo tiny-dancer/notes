@@ -690,9 +690,10 @@ Massively scalable, distributed big data store in the Hadoop system.
 
 #### Advantages
 
-Query different types of data sources from relation
+-Query different types of data sources from relational data-sources, NoSQL database, frameworks like Hive to stream processing platforms like Kafka
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDg4OTkyNiwtNDE2NzYyNjgwLC0xOT
+eyJoaXN0b3J5IjpbMTk5MTI0MjAyOCwtNDE2NzYyNjgwLC0xOT
 gwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2
 MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMT
 YyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQw
