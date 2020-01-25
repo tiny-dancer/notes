@@ -626,9 +626,17 @@ Data Warehouse infra built on top of Hadoop
 - Join very large tables
 - Batch jobs (oozie)
 - Ad-hoc interactive queries
+ 
+#### S3
+
+- Read and write data from and to S3
+- EMR
+
+#### DynamoDB
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjk2NzAzMyw1MDIzNjI5MDUsLTUyOD
+eyJoaXN0b3J5IjpbLTk4Mzg0MzkxMyw1MDIzNjI5MDUsLTUyOD
 I1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEs
 LTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOT
 AxODcwNDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzEx
