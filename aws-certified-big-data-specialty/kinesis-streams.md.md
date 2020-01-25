@@ -798,17 +798,25 @@ General execution engine
 	- Dynamic allocation of executors
 	- Dynamic sharing and central configuration of resources across various engines 
 
-### Spark on EMR in the AWS Ecoyst
+### Spark on EMR in the AWS Ecosystem
 
 - Kinesis Streams
 - Redshift
 - DynamoDB
+
+#### Spark Streamining and Kinesis Streams
+
+- High-level abstraction called DStreams, which are a continuous stream of data
+- DStreams can be created from input data streams like Kinesis Streams
+- DStreams are a collection of RDDs
+- Transformations are applied to the RDDs
+- Results pu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1Njg3MTA0LC0yMDQxMzM0NzY4LDEyMD
-Y5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0MjIyLC00MTY3NjI2
-ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLT
-E1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1
-NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLT
-E4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAx
-ODcwNDc1XX0=
+eyJoaXN0b3J5IjpbLTE0MjY1ODI3OSwtMjA0MTMzNDc2OCwxMj
+A2OTk4NTkxLC0xNjY4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYy
+NjgwLC0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC
+0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01Mjgy
+NTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC
+0xODMwMTQwOTU4LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkw
+MTg3MDQ3NV19
 -->
