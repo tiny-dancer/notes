@@ -828,14 +828,19 @@ Valuable blog posts for the exam:
 	- Reads data from redshift and can write back to Redshift by loading into Spark SQL DataFrames
 		- Executes the Redshift UNLOAD command to copy data to a S3 Bucket
 
-Valuable blog post for the exam
-[https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/](https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/)
+Valuable blog post for the exam:
+- [https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/](https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/)
+
+#### Spark and DynamoDB
+
+Valuable blog post for the exam:
+- [https://aws.amazon.com/blogs/big-data/using-spark-sql-for-etl/](https://aws.amazon.com/blogs/big-data/using-spark-sql-for-etl/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MDQ3MDU5LDE2MDc1MTA4MTAsLTIwND
-EzMzQ3NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQy
-MjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LD
-MyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2
-MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LD
-U3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC0xNjA5
-MjYyMjM2XX0=
+eyJoaXN0b3J5IjpbMTI3NzE1OTA5NywxNjA3NTEwODEwLC0yMD
+QxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsNDIzMTE0
+MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1NDI3NS
+wzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOSw1MDIz
+NjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcxMzkyOC
+w1NzI2MjgwNjEsLTE4MzAxNDA5NTgsMTMyOTg1MjA4OSwtMTYw
+OTI2MjIzNl19
 -->
