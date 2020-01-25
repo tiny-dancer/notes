@@ -758,6 +758,8 @@ General execution engine
 
 #### Spark SQL
 
+> Exam: Question heavy
+
 - Runs low-latency, interactive SQL queries against structured data
 - RDD and DataFrame APIs to access variety of data sources using Scala, Python, Java, R or SQL
 - Avro, Parquet, ORC and JSON
@@ -766,6 +768,8 @@ General execution engine
 - JDBC/ODBC with existing tables (query and copy data into existing data sources)
 
 #### Spark Streaming
+
+> Exam: Question heavy
 
 > "Spark streaming is an extension of the core Spark API that enables scalable, high through, fault tolerant stream proecssing of live-data streams"
 > - Apache Spark documentation
@@ -779,15 +783,15 @@ General execution engine
 
 - Spark's API for graphs and graph-parallel computation
 - Iteractively build and transform graph structured data at scale
-- 
+- Supports a number of graph algorithms
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NjUxNTk0LC0xNjY4NzgwNzY2LDQyMz
-ExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC03NjIwNTQy
-NzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3Mzk3MTksNT
-AyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOSw0MDM3MTM5
-MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4NTIwODksLT
-E2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMTA5NTc5OTQyMCwtMzM0
-NDcyMzI2XX0=
+eyJoaXN0b3J5IjpbMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0Mj
+MxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0
+Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LD
+UwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEz
+OTI4LDU3MjYyODA2MSwtMTgzMDE0MDk1OCwxMzI5ODUyMDg5LC
+0xNjA5MjYyMjM2LC05MDE4NzA0NzUsLTEwOTU3OTk0MjAsLTMz
+NDQ3MjMyNl19
 -->
