@@ -618,13 +618,20 @@ Data Warehouse infra built on top of Hadoop
 - Use a SQL-like interface
 - Hive is useful for non-java programmers
 	- Hadoop is implemented in Java
-	- Hive provide
+	- Hive provides a SQL abstraction
+
+#### Use Cases
+
+- Process and analyze logs
+- Join very large tables
+- Batch jobs (oozie)
+- Ad-hoc interactive queries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE4NDQ0NjEsLTUyODI1NTA1MywxNj
-I4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAxNDA5
-NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcwNDc1LC
-0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMCwtMzcz
-MjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1NTIzOT
-MyLDIwODMyNzU1NjgsLTE1MTUzNDc2MiwxNjkxMDU2MDMwLDE2
-NDM5MjAwNDJdfQ==
+eyJoaXN0b3J5IjpbNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyOD
+c0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4
+LDEzMjk4NTIwODksLTE2MDkyNjIyMzYsLTkwMTg3MDQ3NSwtMT
+A5NTc5OTQyMCwtMzM0NDcyMzI2LC02ODMxMTEzMjAsLTM3MzIx
+Mzg1NiwtMjc1NDA2ODUxLC04NjY3OTk2NjgsMTc0NTUyMzkzMi
+wyMDgzMjc1NTY4LC0xNTE1MzQ3NjIsMTY5MTA1NjAzMCwxNjQz
+OTIwMDQyXX0=
 -->
