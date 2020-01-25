@@ -671,13 +671,16 @@ Massively scalable, distributed big data store in the Hadoop system.
 - Relational database type features
 - Small amounts of data
 
-#  
+**HBase vs Redshift**
+
+- HBase is more valuable for high write/update throughput and near real-time lookups (over fast changing data)
+- Redshift is more valuable for OLAP (large complex queries, JOINS, aggregations)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MjU0OTIwLDMyNjM2MDMzMywtMTU1Nz
-E0NjMzOCwtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUz
-LDE2Mjg3NDA0MTksNDAzNzEzOTI4LDU3MjYyODA2MSwtMTgzMD
-E0MDk1OCwxMzI5ODUyMDg5LC0xNjA5MjYyMjM2LC05MDE4NzA0
-NzUsLTEwOTU3OTk0MjAsLTMzNDQ3MjMyNiwtNjgzMTExMzIwLC
-0zNzMyMTM4NTYsLTI3NTQwNjg1MSwtODY2Nzk5NjY4LDE3NDU1
-MjM5MzJdfQ==
+eyJoaXN0b3J5IjpbLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NT
+cxNDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1
+MywxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4Mz
+AxNDA5NTgsMTMyOTg1MjA4OSwtMTYwOTI2MjIzNiwtOTAxODcw
+NDc1LC0xMDk1Nzk5NDIwLC0zMzQ0NzIzMjYsLTY4MzExMTMyMC
+wtMzczMjEzODU2LC0yNzU0MDY4NTEsLTg2Njc5OTY2OCwxNzQ1
+NTIzOTMyXX0=
 -->
