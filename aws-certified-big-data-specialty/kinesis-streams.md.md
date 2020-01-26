@@ -890,13 +890,17 @@ Valuable blog post for the exam:
 - Billed only for the number of milli-seconds you use
 - Isolated and stateless
 - Persistence - your responsibility
-- Event 
+- Event-driven
+	- S3 Put
+	- DynamoDB change 
+- Integrates with other AWS Services
+- Invoked via API Gateway (HTTP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkwNTM1OTMsLTM3MzIzMTYwMywtNj
-kzMDA1MTgsMTYwNzUxMDgxMCwtMjA0MTMzNDc2OCwxMjA2OTk4
-NTkxLC0xNjY4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC
-0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3
-MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNT
-MsMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMw
-MTQwOTU4XX0=
+eyJoaXN0b3J5IjpbMjEzMTYwNjg3NywtMzczMjMxNjAzLC02OT
+MwMDUxOCwxNjA3NTEwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1
+OTEsLTE2Njg3ODA3NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLT
+E5ODA2MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcx
+NDYzMzgsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1My
+wxNjI4NzQwNDE5LDQwMzcxMzkyOCw1NzI2MjgwNjEsLTE4MzAx
+NDA5NThdfQ==
 -->
