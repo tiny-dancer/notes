@@ -939,12 +939,21 @@ Fully managed ETL service
 		- DynamoDB
 		- DBs in EC2
 - Event-driven ETL Pipelines
+
+#### When to use Glue vs other services
+
+- Data Pipeline
+	- Heterogenious jobs (Hive, Pig)
+	- Control over where code runs and access to those environments (EC2, EMR...)
+- EMR
+	- Flexibility
+	- More mainten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkwMTI4MDgsNzIwNzEzMzM5LC0zNz
-AxNDM4MjcsMjEzMTYwNjg3NywtMzczMjMxNjAzLC02OTMwMDUx
-OCwxNjA3NTEwODEwLC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLT
-E2Njg3ODA3NjYsNDIzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2
-MTM2NzEsLTc2MjA1NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMz
-gsLTc5NjczOTcxOSw1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4
-NzQwNDE5XX0=
+eyJoaXN0b3J5IjpbMTk4OTQ3MjMzOSw3MjA3MTMzMzksLTM3MD
+E0MzgyNywyMTMxNjA2ODc3LC0zNzMyMzE2MDMsLTY5MzAwNTE4
+LDE2MDc1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
+Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
+MzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOC
+wtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3
+NDA0MTldfQ==
 -->
