@@ -911,12 +911,19 @@ Max execution duration: 900 seconds
 	- [https://docs.aws.amazon.com/lambda/latest/dg/with-ddb.html](https://docs.aws.amazon.com/lambda/latest/dg/with-ddb.html)
 	- [https://aws.amazon.com/blogs/compute/amazon-kinesis-firehose-data-transformation-with-aws-lambda/](https://aws.amazon.com/blogs/compute/amazon-kinesis-firehose-data-transformation-with-aws-lambda/)
 	- [https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html)
+
+### HCatalog
+
+Allows you to access the Hive metastore tables with:
+- Pig
+- SparkSQL
+- Custom MapReduce applications
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDE0MzgyNywyMTMxNjA2ODc3LC0zNz
-MyMzE2MDMsLTY5MzAwNTE4LDE2MDc1MTA4MTAsLTIwNDEzMzQ3
-NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQyMjIsLT
-QxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LDMyNjM2
-MDMzMywtMTU1NzE0NjMzOCwtNzk2NzM5NzE5LDUwMjM2MjkwNS
-wtNTI4MjU1MDUzLDE2Mjg3NDA0MTksNDAzNzEzOTI4LDU3MjYy
-ODA2MV19
+eyJoaXN0b3J5IjpbNzIwNzEzMzM5LC0zNzAxNDM4MjcsMjEzMT
+YwNjg3NywtMzczMjMxNjAzLC02OTMwMDUxOCwxNjA3NTEwODEw
+LC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsND
+IzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1
+NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOS
+w1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcx
+MzkyOF19
 -->
