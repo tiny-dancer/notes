@@ -882,12 +882,21 @@ Valuable blog post for the exam:
 #### Exam
 
 - Study the compression algorithms table
+
+
+### AWS Lambda in the AWS Big Data Ecosystem
+
+- Function as a Service product (FaaS) 
+- Billed only for the number of milli-seconds you use
+- Isolated and stateless
+- Persistence - your responsibility
+- Event 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzIzMTYwMywtNjkzMDA1MTgsMTYwNz
-UxMDgxMCwtMjA0MTMzNDc2OCwxMjA2OTk4NTkxLC0xNjY4Nzgw
-NzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC0xOTgwNjEzNjcxLC
-03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3MTQ2MzM4LC03OTY3
-Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNTMsMTYyODc0MDQxOS
-w0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMwMTQwOTU4LDEzMjk4
-NTIwODldfQ==
+eyJoaXN0b3J5IjpbLTExNjkwNTM1OTMsLTM3MzIzMTYwMywtNj
+kzMDA1MTgsMTYwNzUxMDgxMCwtMjA0MTMzNDc2OCwxMjA2OTk4
+NTkxLC0xNjY4NzgwNzY2LDQyMzExNDIyMiwtNDE2NzYyNjgwLC
+0xOTgwNjEzNjcxLC03NjIwNTQyNzUsMzI2MzYwMzMzLC0xNTU3
+MTQ2MzM4LC03OTY3Mzk3MTksNTAyMzYyOTA1LC01MjgyNTUwNT
+MsMTYyODc0MDQxOSw0MDM3MTM5MjgsNTcyNjI4MDYxLC0xODMw
+MTQwOTU4XX0=
 -->
