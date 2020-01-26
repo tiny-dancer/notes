@@ -924,9 +924,14 @@ Allows you to access the Hive metastore tables with:
 Fully managed ETL service
 - Categorize, clean and enrich your data
 - Move the data between various data stores
-- Data catao
+- Data catalog
+- Serverless
+
+#### Use Cases
+
+Querying data in S3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjk3Mjg4Niw3MjA3MTMzMzksLTM3MD
+eyJoaXN0b3J5IjpbLTExNjE5MjYxMyw3MjA3MTMzMzksLTM3MD
 E0MzgyNywyMTMxNjA2ODc3LC0zNzMyMzE2MDMsLTY5MzAwNTE4
 LDE2MDc1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
 Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
