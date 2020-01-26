@@ -930,9 +930,17 @@ Fully managed ETL service
 #### Use Cases
 
 - Querying data in S3
-- Clean, normalize and enrich data into a Dat
+- Clean, normalize and enrich data into a Date Warehouse (informatica)
+- Data catalog
+	- Can crawl from:
+		- Redshift
+		- S3
+		- RDS
+		- DynamoDB
+		- DBs in EC2
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjU3ODc1MSw3MjA3MTMzMzksLTM3MD
+eyJoaXN0b3J5IjpbMTE1NTYyMzk4MSw3MjA3MTMzMzksLTM3MD
 E0MzgyNywyMTMxNjA2ODc3LC0zNzMyMzE2MDMsLTY5MzAwNTE4
 LDE2MDc1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
 Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
