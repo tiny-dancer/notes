@@ -896,8 +896,13 @@ Valuable blog post for the exam:
 - Integrates with other AWS Services
 - Invoked via API Gateway (HTTP)
 
+#### Limits
+
+Ephemeral disk capacity: `512MB`
+Number of processes and threads: 1,024
+Max execution duration: 900 seconds
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODM5NDMxNSwyMTMxNjA2ODc3LC0zNz
+eyJoaXN0b3J5IjpbLTQyNjgyMTQ0NiwyMTMxNjA2ODc3LC0zNz
 MyMzE2MDMsLTY5MzAwNTE4LDE2MDc1MTA4MTAsLTIwNDEzMzQ3
 NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQyMjIsLT
 QxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LDMyNjM2
