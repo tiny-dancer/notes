@@ -905,9 +905,14 @@ Max execution duration: 900 seconds
 #### Exam
 
 - Understanding of Lambda
-- Integration with AWS Big Data 
+- Integration with AWS Big Data services
+- References
+	- [https://aws.amazon.com/blogs/big-data/using-aws-lambda-for-event-driven-data-processing-pipelines/](https://aws.amazon.com/blogs/big-data/using-aws-lambda-for-event-driven-data-processing-pipelines/)
+	- [https://docs.aws.amazon.com/lambda/latest/dg/with-ddb.html](https://docs.aws.amazon.com/lambda/latest/dg/with-ddb.html)
+	- [https://aws.amazon.com/blogs/compute/amazon-kinesis-firehose-data-transformation-with-aws-lambda/](https://aws.amazon.com/blogs/compute/amazon-kinesis-firehose-data-transformation-with-aws-lambda/)
+	- [https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjI3OTE4NiwyMTMxNjA2ODc3LC0zNz
+eyJoaXN0b3J5IjpbLTM3MDE0MzgyNywyMTMxNjA2ODc3LC0zNz
 MyMzE2MDMsLTY5MzAwNTE4LDE2MDc1MTA4MTAsLTIwNDEzMzQ3
 NjgsMTIwNjk5ODU5MSwtMTY2ODc4MDc2Niw0MjMxMTQyMjIsLT
 QxNjc2MjY4MCwtMTk4MDYxMzY3MSwtNzYyMDU0Mjc1LDMyNjM2
