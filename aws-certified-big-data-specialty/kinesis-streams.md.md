@@ -918,12 +918,19 @@ Allows you to access the Hive metastore tables with:
 - Pig
 - SparkSQL
 - Custom MapReduce applications
+
+### AWS Glue
+
+Fully managed ETL service
+- Categorize, clean and enrich your data
+- Move the data between various data stores
+- Data catao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNzEzMzM5LC0zNzAxNDM4MjcsMjEzMT
-YwNjg3NywtMzczMjMxNjAzLC02OTMwMDUxOCwxNjA3NTEwODEw
-LC0yMDQxMzM0NzY4LDEyMDY5OTg1OTEsLTE2Njg3ODA3NjYsND
-IzMTE0MjIyLC00MTY3NjI2ODAsLTE5ODA2MTM2NzEsLTc2MjA1
-NDI3NSwzMjYzNjAzMzMsLTE1NTcxNDYzMzgsLTc5NjczOTcxOS
-w1MDIzNjI5MDUsLTUyODI1NTA1MywxNjI4NzQwNDE5LDQwMzcx
-MzkyOF19
+eyJoaXN0b3J5IjpbMTAyNjk3Mjg4Niw3MjA3MTMzMzksLTM3MD
+E0MzgyNywyMTMxNjA2ODc3LC0zNzMyMzE2MDMsLTY5MzAwNTE4
+LDE2MDc1MTA4MTAsLTIwNDEzMzQ3NjgsMTIwNjk5ODU5MSwtMT
+Y2ODc4MDc2Niw0MjMxMTQyMjIsLTQxNjc2MjY4MCwtMTk4MDYx
+MzY3MSwtNzYyMDU0Mjc1LDMyNjM2MDMzMywtMTU1NzE0NjMzOC
+wtNzk2NzM5NzE5LDUwMjM2MjkwNSwtNTI4MjU1MDUzLDE2Mjg3
+NDA0MTldfQ==
 -->
