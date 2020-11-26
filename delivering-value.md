@@ -124,9 +124,10 @@ First Item(s):
 
 TOREAD:
 - https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864
+- https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjg0Mjk3NywxOTg1MjUwOTgsNzEwMD
-Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
-OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNj
+QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
+LC0xNjg4MDY2ODI2XX0=
 -->
