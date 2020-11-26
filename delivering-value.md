@@ -112,8 +112,14 @@ First Item(s):
 -   This api is fully automated and built for on-demand releases
 -   Automated testing built into each deployment
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
+
+# References
+
+- https://www.derekashmore.com/2016/03/book-review-art-of-business-value-by.html
+- https://www.amazon.com/dp/1942788045/ref=rdr_ext_sb_ti_hist_1
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM0ODk1OTEsMTk4NTI1MDk4LDcxMD
+eyJoaXN0b3J5IjpbLTE0ODU1MDcxOTAsMTk4NTI1MDk4LDcxMD
 A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
 OTksLTE2ODgwNjY4MjZdfQ==
 -->
