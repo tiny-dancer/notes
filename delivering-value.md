@@ -15,14 +15,23 @@ It's a similar experience with cars. We often purchase cars based on looks (the 
 
 Too many times we’ve seen technology hamstring the potential of the business and after helping correct the course it’s very disheartening to consider the opportunity loss if the initial direction was a little different from the beginning.
 
+#### Value Pillars
+
+- Site Reliability
+- CI/CD
+- 
 - Branching Strategy
 - Feature Toggles
 - Team Delivery Culture and Practices
 
 - Additional considerations
-	- Infrastructure [Architecture]
-	- 
+	- Infrastructure architecture
+	- Application architecture
+	- Site Reliability
 	- Security
+	- Reusability
+	- Component Libraries
+
 
 ## The 'what' of value delivery
 
@@ -31,6 +40,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Terrascale (terraform value delivery framework)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDM1NTM2OSwtNjM5MTMyOTk5LC0xNj
-g4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTE4MDEwMDE5MDMsLTYzOTEzMjk5OSwtMT
+Y4ODA2NjgyNl19
 -->
