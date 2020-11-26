@@ -81,19 +81,18 @@ Delivery Framework and it's codified implementation: CI/CD
 	-   Automated incident management, escalation and notifications
 	-   Continuously running VBF automation suite in production
 
--   M
--   Reduces the amount of failure points owned by Protectwell
--   Security scans and remediations
-
-  
+-   Buy vs Build: Minimizing custom developed software for provided alternatives
+	- Cloud Native
+	- Open Source
+	- Third Party
+-   Reduces the amount of failure points owned by Application
+-   Security: Security scans and remediations
 
 First item(s):
 
 -   Monitoring and Alerting
-
--   % of successful log-ins
--   % of successful symptom checks
-
+	-   % of successful log-ins
+	-   % of successful symptom checks
 -   PagerDuty: when a service and VBF encounters health issues Pagerduty is notified
 
 -   PagerDuty than notifies the appropriate on-call engineers and escalates to more the longer the issues remain open
@@ -106,19 +105,15 @@ First item(s):
 -   Shifting from risky, manual, slow 2 week release cycles to safe, quick, on-demand releases
 -   When things go wrong we can react, resolve and deploy in minutes and hours rather than days.
 
-  
-
 First Item(s):
 
 -   New mobile api created specifically for handling mobile traffic
-
 -   This allows us to safely scale, configure and release most of our mobile system without impact to or from admin console requirements and features.
 -   This api is fully automated and built for on-demand releases
 -   Automated testing built into each deployment
-
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk0NDc3NDgsMTk4NTI1MDk4LDcxMD
+eyJoaXN0b3J5IjpbLTEwNTM0ODk1OTEsMTk4NTI1MDk4LDcxMD
 A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
 OTksLTE2ODgwNjY4MjZdfQ==
 -->
