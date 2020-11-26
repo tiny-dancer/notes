@@ -119,10 +119,14 @@ First Item(s):
 - https://www.amazon.com/dp/1942788045/ref=rdr_ext_sb_ti_hist_1
 - https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 - https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
-- 
+- https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41
+- [DevOps Paradox: The truth about DevOps by the people on the front line](https://www.amazon.com/dp/1789133637)
+
+TOREAD:
+- https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDkxODQ5MSwxOTg1MjUwOTgsNzEwMD
+eyJoaXN0b3J5IjpbMTc0Mjg0Mjk3NywxOTg1MjUwOTgsNzEwMD
 Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
 OSwtMTY4ODA2NjgyNl19
 -->
