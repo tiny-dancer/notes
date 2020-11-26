@@ -54,12 +54,16 @@ Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD
 
 ## The 'what' of value delivery
 
+### Branching Strategy
+
+- github flow, pull request based development
+
 - Azure Pipeline Templates
 - Terrascale (terraform value delivery framework)
 - Terraform
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY0NDc2NjgsLTEyMDE4NzYxMDIsLT
-IxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbNzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMT
+k4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
