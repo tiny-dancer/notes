@@ -33,12 +33,13 @@ Delivery Framework and it's codified implementation: CI/CD
 
 
 #### Product: The Value flowing through the Delivery Framework
-	- Infrastructure architecture
-	- Application architecture
-	- Site Reliability
-	- Security
-	- Reusability
-	- Component Libraries
+
+- Infrastructure architecture
+- Application architecture
+- Site Reliability
+- Security
+- Reusability
+- Component Libraries
 
 #### Value Pillars
 
@@ -71,18 +72,17 @@ Delivery Framework and it's codified implementation: CI/CD
 
 # Notes
 
-**Improving user trust in the application**
+## ProtectWell First Steps
+
+### Improving user trust in the application
 
 -   Self Governing ProtectWell Application
+	-   We know immediately when things go wrong
+	-   Automated incident management, escalation and notifications
+	-   Continuously running VBF automation suite in production
 
--   We know immediately when things go wrong
--   Automated incident management, escalation and notifications
--   Continuously running VBF automation suite in production
-
--   Utilizing Microsoft-run B2C Login for mobile applications instead of custom
-
+-   M
 -   Reduces the amount of failure points owned by Protectwell
-
 -   Security scans and remediations
 
   
@@ -99,8 +99,7 @@ First item(s):
 -   PagerDuty than notifies the appropriate on-call engineers and escalates to more the longer the issues remain open
 -   Will also automatically notify the Production Incidents teams channel
 
-  
-
+ 
 **Improve product agility and engineering culture**
 
 -   Impacts _everything,_ enables _everything_
@@ -119,7 +118,7 @@ First Item(s):
 
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDk3NDYzLDE5ODUyNTA5OCw3MTAwNj
-QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
-LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTEyMTk0NDc3NDgsMTk4NTI1MDk4LDcxMD
+A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
+OTksLTE2ODgwNjY4MjZdfQ==
 -->
