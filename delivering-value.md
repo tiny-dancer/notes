@@ -19,7 +19,7 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 - The value flow pipeline
 	- Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD 
-- 
+- what flows through the value 
 
 #### Value Pillars
 
@@ -48,6 +48,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Terrascale (terraform value delivery framework)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNj
-g4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNj
+M5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
