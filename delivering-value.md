@@ -18,7 +18,7 @@ Too many times we’ve seen technology hamstring the potential of the business a
 #### Tiers
 
 - The value flow pipeline
-	- Delivery Framework, ie. CI/CD
+	- Delivery Framework, ie. CI/CD & SDLC
 - 
 
 #### Value Pillars
@@ -48,6 +48,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Terrascale (terraform value delivery framework)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTQ4NzMxNywtNjM5MTMyOTk5LC0xNj
+eyJoaXN0b3J5IjpbLTM2NDE0MTcyNywtNjM5MTMyOTk5LC0xNj
 g4MDY2ODI2XX0=
 -->
