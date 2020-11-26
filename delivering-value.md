@@ -117,9 +117,11 @@ First Item(s):
 
 - https://www.derekashmore.com/2016/03/book-review-art-of-business-value-by.html
 - https://www.amazon.com/dp/1942788045/ref=rdr_ext_sb_ti_hist_1
-- 
+- https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+- https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6/ref=msx_wsirn_v1_3/144-4662092-3880803?_encoding=UTF8&pd_rd_i=B01DCPXKZ6&pd_rd_r=67b34df1-9bec-4667-8614-ce801faac756&pd_rd_w=AskgW&pd_rd_wg=IjGt1&pf_rd_p=77bfbfb0-a9eb-4e71-8d50-7ac5425f6fa1&pf_rd_r=J6B9RZX735H1E4H4S8NX&psc=1&refRID=J6B9RZX735H1E4H4S8NX
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU1MDcxOTAsMTk4NTI1MDk4LDcxMD
-A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
-OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbLTI5Mjc4MTkyMywxOTg1MjUwOTgsNzEwMD
+Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
+OSwtMTY4ODA2NjgyNl19
 -->
