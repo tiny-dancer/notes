@@ -63,7 +63,62 @@ Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD
 - Terraform
 
 - 
+
+
+
+
+
+# Notes
+
+**Improving user trust in the application**
+
+-   Self Governing ProtectWell Application
+
+-   We know immediately when things go wrong
+-   Automated incident management, escalation and notifications
+-   Continuously running VBF automation suite in production
+
+-   Utilizing Microsoft-run B2C Login for mobile applications instead of custom
+
+-   Reduces the amount of failure points owned by Protectwell
+
+-   Security scans and remediations
+
+  
+
+First item(s):
+
+-   Monitoring and Alerting
+
+-   % of successful log-ins
+-   % of successful symptom checks
+
+-   PagerDuty: when a service and VBF encounters health issues Pagerduty is notified
+
+-   PagerDuty than notifies the appropriate on-call engineers and escalates to more the longer the issues remain open
+-   Will also automatically notify the Production Incidents teams channel
+
+  
+
+**Improve product agility and engineering culture**
+
+-   Impacts _everything,_ enables _everything_
+-   Shifting from risky, manual, slow 2 week release cycles to safe, quick, on-demand releases
+-   When things go wrong we can react, resolve and deploy in minutes and hours rather than days.
+
+  
+
+First Item(s):
+
+-   New mobile api created specifically for handling mobile traffic
+
+-   This allows us to safely scale, configure and release most of our mobile system without impact to or from admin console requirements and features.
+-   This api is fully automated and built for on-demand releases
+-   Automated testing built into each deployment
+
+-   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMT
-k4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbLTIzNzE3MTUzNyw3MTAwNjQyNjYsLTEyMD
+E4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2
+ODI2XX0=
 -->
