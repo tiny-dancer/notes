@@ -15,16 +15,21 @@ It's a similar experience with cars. We often purchase cars based on looks (the 
 
 Too many times we’ve seen technology hamstring the potential of the business and after helping correct the course it’s very disheartening to consider the opportunity loss if the initial direction was a little different from the beginning.
 
-#### Tiers
+#### The value flow pipeline
 
-- The value flow pipeline
-	- Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD 
-		- Branching Strategy
-		- Feature Toggles
-		- Team Delivery Culture and Practices
-			- Pull Request Based Development
-			- Azure Pipeline Templates
-			- Terrascale (terraform value delivery framework)
+: Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD 
+
+#### Methodologies
+
+- Branching Strategy
+- Feature Toggles
+- Team Delivery Culture and Practices
+
+##### Tools
+		
+- Pull Request Based Development
+- Azure Pipeline Templates
+- Terrascale (terraform value delivery framework)
 
 - what flows through the SDLC
 	- 
@@ -54,6 +59,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTgxNjI4MywtMTIwMTg3NjEwMiwtMj
-E5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbMzI2MTMyMDYxLC0xMjAxODc2MTAyLC0yMT
+k4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
