@@ -15,11 +15,17 @@ It's a similar experience with cars. We often purchase cars based on looks (the 
 
 Too many times we’ve seen technology hamstring the potential of the business and after helping correct the course it’s very disheartening to consider the opportunity loss if the initial direction was a little different from the beginning.
 
+#### Tiers
+
+- The 
+
 #### Value Pillars
 
 - Site Reliability
 - CI/CD
-- 
+- Security
+
+#### Topics
 - Branching Strategy
 - Feature Toggles
 - Team Delivery Culture and Practices
@@ -40,6 +46,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Terrascale (terraform value delivery framework)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEwMDE5MDMsLTYzOTEzMjk5OSwtMT
-Y4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbMTQ1MDgxMTc5NCwtNjM5MTMyOTk5LC0xNj
+g4MDY2ODI2XX0=
 -->
