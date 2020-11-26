@@ -126,11 +126,15 @@ TOREAD:
 - https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864
 - https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV
 - https://www.amazon.com/Ends-Game-Companies-Delivering-Management-ebook/dp/B084V7TRRF
-- 
+- https://www.amazon.com/21st-Century-Corporate-Citizenship-Delivering-ebook/dp/B06VT5FH7G
+- https://www.amazon.com/Real-Business-Create-Communicate-Value/dp/1422147614/
+- https://www.amazon.com/Business-Analysis-Agility-Problem-Deliver-ebook/dp/B07J2PMFL7
+- https://www.amazon.com/Systemic-Coaching-Delivering-Beyond-Individual-ebook/dp/B0829C831X
+- https://www.amazon.com/Pass-Transferring-Wealth-Financial-Generations-ebook/dp/B08KBNBWX6
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzg4ODM2OCw4MjIxODM5MTEsMTk4NT
+eyJoaXN0b3J5IjpbMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NT
 I1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4
 LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
 -->
