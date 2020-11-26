@@ -32,8 +32,13 @@ Delivery Framework and it's codified implementation: CI/CD
 - Terrascale (terraform value delivery framework)
 
 
-#### SDLC: Flow of Value what flows through the SDLC
-	- 
+#### Product: The Value flowing through the Delivery Framework
+	- Infrastructure architecture
+	- Application architecture
+	- Site Reliability
+	- Security
+	- Reusability
+	- Component Libraries
 
 #### Value Pillars
 
@@ -46,12 +51,6 @@ Delivery Framework and it's codified implementation: CI/CD
 #### Topics
 
 - Additional considerations
-	- Infrastructure architecture
-	- Application architecture
-	- Site Reliability
-	- Security
-	- Reusability
-	- Component Libraries
 
 
 ## The 'what' of value delivery
@@ -120,7 +119,7 @@ First Item(s):
 
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI2OTQ4MjYsMTk4NTI1MDk4LDcxMD
-A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
-OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbMTM3NDk3NDYzLDE5ODUyNTA5OCw3MTAwNj
+QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
+LC0xNjg4MDY2ODI2XX0=
 -->
