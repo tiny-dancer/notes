@@ -15,9 +15,9 @@ It's a similar experience with cars. We often purchase cars based on looks (the 
 
 Too many times we’ve seen technology hamstring the potential of the business and after helping correct the course it’s very disheartening to consider the opportunity loss if the initial direction was a little different from the beginning.
 
-#### SDLC: Flow of Value
+#### Delivery Framework: Flow of Value
 
-Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD 
+Delivery Framework and it's codified implementation: CI/CD 
 
 ##### Methodologies
 
@@ -32,7 +32,7 @@ Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD
 - Terrascale (terraform value delivery framework)
 
 
-- what flows through the SDLC
+#### SDLC: Flow of Value what flows through the SDLC
 	- 
 
 #### Value Pillars
@@ -41,7 +41,7 @@ Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD
 	- Site Reliability
 	- CI/CD
 	- Security
-- 
+- *parallels to user trust?*
 
 #### Topics
 
@@ -120,7 +120,7 @@ First Item(s):
 
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
-g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzI2OTQ4MjYsMTk4NTI1MDk4LDcxMD
+A2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5
+OTksLTE2ODgwNjY4MjZdfQ==
 -->
