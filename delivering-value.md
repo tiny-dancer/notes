@@ -37,9 +37,11 @@ Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD
 
 #### Value Pillars
 
-- Site Reliability
-- CI/CD
-- Security
+- User Trust
+	- Site Reliability
+	- CI/CD
+	- Security
+- 
 
 #### Topics
 
@@ -118,7 +120,7 @@ First Item(s):
 
 -   This mobile api is built as a re-usable template and every other part of the system will mature into these standards quickly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzE3MTUzNyw3MTAwNjQyNjYsLTEyMD
-E4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2
-ODI2XX0=
+eyJoaXN0b3J5IjpbMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
+g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
+MjZdfQ==
 -->
