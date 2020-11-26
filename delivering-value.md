@@ -19,6 +19,11 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Feature Toggles
 - Team Delivery Culture and Practices
 
+- Additional considerations
+	- Infrastructure [Architecture]
+	- 
+	- Security
+
 ## The 'what' of value delivery
 
 - Azure Pipeline Templates
@@ -26,5 +31,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Terrascale (terraform value delivery framework)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbMTYxNDM1NTM2OSwtNjM5MTMyOTk5LC0xNj
+g4MDY2ODI2XX0=
 -->
