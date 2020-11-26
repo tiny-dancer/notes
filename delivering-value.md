@@ -15,6 +15,16 @@ It's a similar experience with cars. We often purchase cars based on looks (the 
 
 Too many times we’ve seen technology hamstring the potential of the business and after helping correct the course it’s very disheartening to consider the opportunity loss if the initial direction was a little different from the beginning.
 
+- Branching Strategy
+- Feature Toggles
+- Team Delivery Culture and Practices
+
+## The 'what' of value delivery
+
+- Azure Pipeline Templates
+- Terraform
+- Terrascale (terraform value delivery framework)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NjYxNjE3LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
