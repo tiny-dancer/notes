@@ -19,7 +19,15 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 - The value flow pipeline
 	- Delivery Framework, ie. the SDLC & it's codified implementation: CI/CD 
-- what flows through the value 
+		- Branching Strategy
+		- Feature Toggles
+		- Team Delivery Culture and Practices
+			- Pull Request Based Development
+			- Azure Pipeline Templates
+			- Terrascale (terraform value delivery framework)
+
+- what flows through the SDLC
+	- 
 
 #### Value Pillars
 
@@ -28,9 +36,6 @@ Too many times we’ve seen technology hamstring the potential of the business a
 - Security
 
 #### Topics
-- Branching Strategy
-- Feature Toggles
-- Team Delivery Culture and Practices
 
 - Additional considerations
 	- Infrastructure architecture
@@ -44,10 +49,11 @@ Too many times we’ve seen technology hamstring the potential of the business a
 ## The 'what' of value delivery
 
 - Azure Pipeline Templates
-- Terraform
 - Terrascale (terraform value delivery framework)
+- Terraform
+
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNj
-M5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTQ2NTgxNjI4MywtMTIwMTg3NjEwMiwtMj
+E5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
 -->
