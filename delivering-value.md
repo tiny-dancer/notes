@@ -46,9 +46,9 @@ Example:
 
 #####  Smart endpoints and dumb pipes
 
-It is very important to maintain "dumb" pipelines
+This terminology more commonlThe practice to maintain "dumb" pipelines
 
-
+- https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 ##### Methodologies
 
 - Branching Strategy
@@ -164,8 +164,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY3MjM0MzcsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbMTMxMTkxMDYxNiwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
