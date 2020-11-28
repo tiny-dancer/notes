@@ -50,7 +50,11 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Why It Matters
 
-- When teams adopt Git Ops and Continuous Delivery it's a common practice to ensure everything is automated in the Pipelines.  Tools such as Jenkins (pipeline as code) and Azure DevOps (pipeline templates) make this easy to do.  It is important to ensure the pipeline does not become coupled to the deployed application.  This introduces another system to modify and test along with being a risk point for future and existing deployments.  Additionally it requires 
+- When teams adopt Git Ops and Continuous Delivery it's a common practice to ensure everything is automated in the Pipelines.  Tools such as Jenkins (pipeline as code) and Azure DevOps (pipeline templates) make this easy to do.  It is important to ensure the pipeline does not become coupled to the deployed application.  This introduces another system to modify and test along with being a risk point for future and existing deployments.  Additionally it eliminates the ability to reliably test an environment changes prior to a pipeline execution
+
+- Another system to modify and test
+- A risk point for the next deployment and potentially existing deployments (e.g. breaking the ability to perform a rollback)
+- Eliminates the ability to reliably test an environment with 
 
 - Add examples such as using pipeline templates to represent infrastructure components
 
@@ -175,8 +179,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkxMTI1MTMsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbMjExMjY2MTYwNCwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
