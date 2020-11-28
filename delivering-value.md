@@ -28,7 +28,9 @@ The ability to spin up an isolated, production-like component within an existing
 Examples:
 
 - Web Application
-	- https://docs.netlify.com/site-deploys/overview/#deploy-preview-controls
+	- Netlify deploy previews are a good example of this.  If production lives at https://app.awesome.com.  An ephemeral environment matching production could be available at https://pr-123-app.awesome.comhttps://docs.netlify.com/site-deploys/overview/#deploy-preview-controls
+- API
+	- 
 
 ##### Portable Execution
 
@@ -150,7 +152,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTc2MDYzOCwxNDE0OTUyNjIzLDgyMj
+eyJoaXN0b3J5IjpbMTg1MjIyNzY1OSwxNDE0OTUyNjIzLDgyMj
 E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
 LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
