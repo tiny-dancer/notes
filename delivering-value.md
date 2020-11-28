@@ -50,7 +50,7 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Why It Matters
 
-- When teams adopt Git Ops and Continuous Delivery it's a common practice to ensure everything is automated in the Pipelines.  Tools such as Jenkins (pipeline as code) and Azure DevOps (pipeline templates) make this easy to do.  The problem evolves when the pipeline becomes coupled to the application.  For example, if the pipeline is routinely modified based on 
+- When teams adopt Git Ops and Continuous Delivery it's a common practice to ensure everything is automated in the Pipelines.  Tools such as Jenkins (pipeline as code) and Azure DevOps (pipeline templates) make this easy to do.  The problem evolves when the pipeline becomes coupled to the application.  For example, if the pipeline is routinely modified based on changing application factors, this adds another 
 
 
 ##### Everything as Code
@@ -173,8 +173,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgyNjQ1ODMsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbMzIwMzE0NzE1LDE0MTQ5NTI2MjMsODIyMT
+gzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIs
+LTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
