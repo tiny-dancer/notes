@@ -25,9 +25,14 @@ The key paradigms enabling the flow of value is:
 
 The ability to spin up an isolated, production-like component within an existing environment
 
+Examples:
 
-- 
-- Portable Execution
+- Web Application
+	- 
+
+##### Portable Execution
+
+
 
 
 ##### Methodologies
@@ -145,7 +150,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjEwNzQsMTQxNDk1MjYyMyw4MjIxOD
-M5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwt
-MjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbLTY4OTc2MTc4NiwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
