@@ -44,7 +44,10 @@ Example:
 
 - Utilizing a docker container to execute a deployment.
 
-##### 
+#####  Smart endpoints and dumb pipes
+
+It is very important to maintain "dumb" pipelines
+
 
 ##### Methodologies
 
@@ -161,7 +164,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjA4NDIxNiwxNDE0OTUyNjIzLDgyMj
-E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
-LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbLTExMzY3MjM0MzcsMTQxNDk1MjYyMyw4Mj
+IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
+MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
+==
 -->
