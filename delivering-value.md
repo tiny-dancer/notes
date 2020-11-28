@@ -42,7 +42,9 @@ The ability to execute a deployment consistently from any environment
 
 Example: 
 
-- Utilizing a docker container 
+- Utilizing a docker container to execute a deployment.
+
+##### 
 
 ##### Methodologies
 
@@ -159,7 +161,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODc4OTUwMSwxNDE0OTUyNjIzLDgyMj
+eyJoaXN0b3J5IjpbMTg3MjA4NDIxNiwxNDE0OTUyNjIzLDgyMj
 E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
 LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
