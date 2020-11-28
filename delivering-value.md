@@ -21,7 +21,12 @@ Delivery Framework and it's codified implementation: CI/CD
 
 The key paradigms enabling the flow of value is:
 
-- Ephemeral Environments
+##### Ephemeral Environments
+
+The ability to spin up an isolated, production-like component within an existing environment
+
+
+- 
 - Portable Execution
 
 
@@ -140,8 +145,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQyNTQyOTAsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbMzMwMjEwNzQsMTQxNDk1MjYyMyw4MjIxOD
+M5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwt
+MjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
 -->
