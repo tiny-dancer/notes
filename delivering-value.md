@@ -48,6 +48,12 @@ Example:
 
 In continuous delivery this is the practice of maintaining a simple pipeline ("dumb pipe") which delegates the deployment logic to a portable execution component ("smart endpoint"). In this model the pipeline defines the workflow but is not responsible for the 
 
+##### Why It Matters
+
+- When teams adopt Git Ops and Continuous Delivery it's a common practice to ensure everything is automated in the Pipelines.  Tools such as Jenkins (pipeline as code) and Azure DevOps (pipeline templates) 
+
+
+#####
 - https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 ##### Methodologies
 
@@ -164,7 +170,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTg5Mzg4NSwxNDE0OTUyNjIzLDgyMj
-E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
-LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbLTEyMDY2MTAwNDMsMTQxNDk1MjYyMyw4Mj
+IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
+MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
+==
 -->
