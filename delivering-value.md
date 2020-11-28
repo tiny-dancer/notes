@@ -31,17 +31,18 @@ Examples:
 	- Netlify deploy previews are a good example of this.  If production lives at https://app.awesome.com.  An ephemeral environment matching production could be available at https://pr-123-app.awesome.com
 		- https://docs.netlify.com/site-deploys/overview/#deploy-preview-controls
 - API
-	- If a production api is available at https://api.awesome.com/cool, the p 
+	- If a production api is available at https://api.awesome.com/cool, the ephemeral environment may be available at https://api.awesome.com/pr-123-cool 
 - Infrastructure
 
 Future posts: Handling seed data and db migrations.  Ask for comments: how have others solved these problems?
 
 ##### Portable Execution
 
-The ability to execute a deployment consistency from any environment
+The ability to execute a deployment consistently from any environment
 
-Primary example: 
+Example: 
 
+- Utilizing a docker container 
 
 ##### Methodologies
 
@@ -158,7 +159,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQyNjA1OSwxNDE0OTUyNjIzLDgyMj
+eyJoaXN0b3J5IjpbMTE1ODc4OTUwMSwxNDE0OTUyNjIzLDgyMj
 E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
 LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
