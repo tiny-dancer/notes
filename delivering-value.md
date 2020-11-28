@@ -55,7 +55,7 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 - Another system to modify and test
 - A risk point for the next deployment and potentially existing deployments (e.g. breaking the ability to perform a rollback)
 - Eliminates the ability to reliably test an environment prior to a pipeline deployment
-	- Developer feedback on change. 30s to 5m. 
+	- Developer feedback on change. 30s to 5m. This means in  
 
 - Add examples such as using pipeline templates to represent infrastructure components
 
@@ -180,7 +180,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3OTg0MzI5LDE0MTQ5NTI2MjMsODIyMT
-gzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIs
-LTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTYxMTY4MTUzNCwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
