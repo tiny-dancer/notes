@@ -19,6 +19,7 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 Delivery Framework and it's codified implementation: CI/CD 
 
+1. The key paradigms enabling the flow of value is 
 ##### Methodologies
 
 - Branching Strategy
@@ -67,7 +68,7 @@ Delivery Framework and it's codified implementation: CI/CD
 - 
 
 
-
+- https://humanitec.com/blog/ephemeral-environments-for-testing
 
 
 # Notes
@@ -134,7 +135,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NT
-I1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4
-LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzUzNzUwMzEsMTQxNDk1MjYyMyw4Mj
+IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
+MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
+==
 -->
