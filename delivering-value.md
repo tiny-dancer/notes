@@ -46,7 +46,7 @@ Example:
 
 #####  Smart endpoints and dumb pipes
 
-We are reusing this common service oriented architecture term for continuous delivery.  In continuous delivery this is maintaining a simple ("dumb") pipeline and placing the deployment logic into a portable 
+We are reusing this common service oriented architecture term for continuous delivery.  In continuous delivery this is maintaining a simple ("dumb") pipeline and placing the deployment logic into a portable execution component. 
 
 - https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 ##### Methodologies
@@ -164,7 +164,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTQ5OTYyNiwxNDE0OTUyNjIzLDgyMj
+eyJoaXN0b3J5IjpbLTE5MTAzMTE5NywxNDE0OTUyNjIzLDgyMj
 E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
 LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
