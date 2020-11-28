@@ -108,9 +108,6 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 - Terrascale (terraform value delivery framework)
 - Terraform
 
-- 
-
-
 - https://humanitec.com/blog/ephemeral-environments-for-testing
 
 
@@ -178,7 +175,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0MDY2MDYzLDE0MTQ5NTI2MjMsODIyMT
-gzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIs
-LTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4Mj
+IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
+MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
+==
 -->
