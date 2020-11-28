@@ -28,7 +28,7 @@ The ability to spin up an isolated, production-like component within an existing
 Examples:
 
 - Web Application
-	- 
+	- https://docs.netlify.com/site-deploys/overview/#deploy-preview-controls
 
 ##### Portable Execution
 
@@ -150,7 +150,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTc2MTc4NiwxNDE0OTUyNjIzLDgyMj
+eyJoaXN0b3J5IjpbLTkyNTc2MDYzOCwxNDE0OTUyNjIzLDgyMj
 E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
 LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
