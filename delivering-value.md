@@ -25,6 +25,10 @@ The key paradigms enabling the flow of value is:
 
 The ability to spin up an isolated, production-like component within an existing environment
 
+##### Why It Matters
+
+
+
 Examples:
 
 - Web Application
@@ -183,8 +187,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNz
-YzMDIxNiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgs
-NzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOT
-EzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mz
+g4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTEx
+LDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOT
+gwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
