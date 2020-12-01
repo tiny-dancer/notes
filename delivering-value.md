@@ -63,7 +63,7 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Everything as Code
 
-This is the practice of configuring services in automatable code rather than manual click through visual experiences. This is the foundation for enabling "solve problem one time, benefit N times" and  
+This is the practice of configuring services in automatable code rather than manual click through visual experiences. Everything as Code is the key enabler for adopting a highly mature delivery framework in a short amount of time.  foundation for enabling "solve problem one time, benefit N times" and  
 
 ##### Methodologies
 
@@ -177,8 +177,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzUyNzcwNCwtMTUwNzYzMDIxNiwxND
-E0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2
-LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMT
-Y4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MT
+Q5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYs
+LTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNj
+g4MDY2ODI2XX0=
 -->
