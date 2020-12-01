@@ -32,8 +32,7 @@ The ability to spin up an isolated, production-like component within an existing
 When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  In a perfect  world with no mistakes or defects there would only be production and everything would be deployed directly there.  With this appreciation and knowing we unfortunately do not live in an everything is awesome world, we are required to layer in "non production" environments to first verify the changes work as expected.  The common practice here is to start with a 4 environment promotion path: "Dev" --> "Test" --> "Stage" --> "Production", this is a mistake.  In the current state of our world, starting with this approach is a mistake.  Remember, when realizing value the only environment that matters is Production and environment before production increases the amount of time and effort it will take to deliver value to to production, therefore lowering the speed of delivery rate.  It is important to start flipping this around and starting with the least amount of environments required and then adding environments as needed.  Taking this a step further, we can introduce temporary, "ephemeral", environments to replace the time investment of a persistent environment.
 
 - An environment requires care and feeding
-- Changes tend to accumulate in each environment and by the time changes make production, they include far more than a single change which introduces higher risk, higher deployment time, and more people required to validate the changes.
-- 
+- Changes tend to accumulate in each environment and by the time changes make production, they include far more than a single change which introduces higher risk, higher deployment time, and more people required to validate the changes.  
 
 Examples:
 
@@ -193,9 +192,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc1MzA0MzAsMjEzMjU1ODI2Nyw0OD
-AzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2
-MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMD
-E4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2
-ODI2XX0=
+eyJoaXN0b3J5IjpbMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MD
+M3NjUxMywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYy
+Myw4MjIxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
+g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
+MjZdfQ==
 -->
