@@ -27,7 +27,7 @@ The ability to spin up an isolated, production-like component within an existing
 
 ##### Why It Matters
 
-When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  Ina perfect world there would only be 1 environment and everything would be deployed directly there.
+When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  In a perfect  world with no mistakes or defects there would only be production and everything would be deployed directly there.  With this appreciation and knowing we unfortuantely do not live in an everything is awesome world, we are required to layer in "non production" environments to first verify the changes woHowever we do not live in a perfect
 
 Examples:
 
@@ -187,9 +187,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIxNDM2MywyMTMyNTU4MjY3LDQ4MD
-M3NjUxMywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYy
-Myw4MjIxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
-g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTk1MDkyNjgzLDIxMzI1NTgyNjcsNDgwMz
+c2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIz
+LDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxOD
+c2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2Njgy
+Nl19
 -->
