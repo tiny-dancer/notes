@@ -63,7 +63,7 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Everything as Code
 
-This is the practice of configuring ser
+This is the practice of configuring services in automatable code rather than manual click through visual experiences. This is the foundation for enabling "solve problem one time, benefit N times" and  
 
 ##### Methodologies
 
@@ -177,7 +177,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjUzNjQ1NCwtMTUwNzYzMDIxNiwxND
+eyJoaXN0b3J5IjpbMjAwMzUyNzcwNCwtMTUwNzYzMDIxNiwxND
 E0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2
 LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMT
 Y4ODA2NjgyNl19
