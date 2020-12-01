@@ -27,7 +27,9 @@ The ability to spin up an isolated, production-like component within an existing
 
 ##### Why It Matters
 
-When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  In a perfect  world with no mistakes or defects there would only be production and everything would be deployed directly there.  With this appreciation and knowing we unfortunately do not live in an everything is awesome world, we are required to layer in "non production" environments to first verify the changes work as expected.  The common practice here is to start with a 4 environment promotion path: "Dev" --> "Test" --> "Stage" --> "Production", this is a mistake.  In the current state of our world, starting with this approach is a mistake.  Remember, when realizing value the only environment that matters is Production,
+When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  In a perfect  world with no mistakes or defects there would only be production and everything would be deployed directly there.  With this appreciation and knowing we unfortunately do not live in an everything is awesome world, we are required to layer in "non production" environments to first verify the changes work as expected.  The common practice here is to start with a 4 environment promotion path: "Dev" --> "Test" --> "Stage" --> "Production", this is a mistake.  In the current state of our world, starting with this approach is a mistake.  Remember, when realizing value the only environment that matters is Production and environment before production increases the amount of time and effort it will take to deliver value to to production, therefore lowering the speed of delivery rate.
+
+E
 
 Examples:
 
@@ -187,9 +189,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MTM2NDg1LDIxMzI1NTgyNjcsNDgwMz
-c2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIz
-LDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxOD
-c2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2Njgy
-Nl19
+eyJoaXN0b3J5IjpbMTU1MTA5OTA4NywyMTMyNTU4MjY3LDQ4MD
+M3NjUxMywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYy
+Myw4MjIxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
+g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
+MjZdfQ==
 -->
