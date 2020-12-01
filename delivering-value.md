@@ -59,10 +59,12 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 - Add examples such as using pipeline templates to represent infrastructure components
 
+- https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 
 ##### Everything as Code
 
-- https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
+This is the practice of configuring ser
+
 ##### Methodologies
 
 - Branching Strategy
@@ -175,8 +177,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbMTMyMjUzNjQ1NCwtMTUwNzYzMDIxNiwxND
+E0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2
+LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMT
+Y4ODA2NjgyNl19
 -->
