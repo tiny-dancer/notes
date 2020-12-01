@@ -27,7 +27,7 @@ The ability to spin up an isolated, production-like component within an existing
 
 ##### Why It Matters
 
-When realizing value, the only environment(s) that count are the ones where live end users interact with the system.  We will simply call this production.  
+When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  Ina perfect world there would only be 1 environment and everything would be deployed directly there.
 
 Examples:
 
@@ -187,9 +187,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4MTcwNzgsMjEzMjU1ODI2Nyw0OD
-AzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2
-MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMD
-E4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2
-ODI2XX0=
+eyJoaXN0b3J5IjpbLTE1ODIxNDM2MywyMTMyNTU4MjY3LDQ4MD
+M3NjUxMywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYy
+Myw4MjIxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
+g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
+MjZdfQ==
 -->
