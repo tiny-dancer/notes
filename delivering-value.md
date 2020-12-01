@@ -63,7 +63,13 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Everything as Code
 
-This is the practice of configuring services in automatable code rather than manual click through visual experiences. Everything as Code is the key ingredient enabling teams to adopt a highly mature delivery framework in a short amount of time.  Everything as Code leads to the benefit of "solving a problem one time while benefiting N times" a
+This is the practice of configuring services in automatable code rather than manual click through visual experiences. Everything as Code is the key ingredient enabling teams to adopt a highly mature delivery framework in a short amount of time.  Everything as Code leads to the benefit of "solving a problem one time while benefiting N times"; in the open source world this benefit can span across entire industries.
+
+Examples
+
+- Terraform (Modules)
+- Azure YML Pipeline (Templates)
+- Jenkins Pipeline as Code (Libraries)
 
 ##### Methodologies
 
@@ -177,8 +183,8 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY3NzExNDUsMzI4Mzg4Njc1LC0xNT
-A3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5
-OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNj
-M5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNz
+YzMDIxNiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgs
+NzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOT
+EzMjk5OSwtMTY4ODA2NjgyNl19
 -->
