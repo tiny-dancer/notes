@@ -19,9 +19,8 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 Delivery Framework and it's codified implementation: CI/CD 
 
-The key paradigms enabling the flow of value is:
 
-##### Less changes, less risk
+The key paradigms enabling the flow of value is:
 
 ##### Ephemeral Environments
 
@@ -192,9 +191,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MD
-M3NjUxMywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYy
-Myw4MjIxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMT
-g3NjEwMiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4
-MjZdfQ==
+eyJoaXN0b3J5IjpbNzg1MDUyNDM0LDE5MzU3MDgzMTcsMjEzMj
+U1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2
+LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNj
+QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
+LC0xNjg4MDY2ODI2XX0=
 -->
