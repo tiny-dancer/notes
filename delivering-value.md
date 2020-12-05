@@ -73,6 +73,9 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 - https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 
+##### Feature Toggles
+
+
 ##### Everything as Code
 
 This is the practice of configuring services in automatable code rather than manual click through visual experiences. Everything as Code is the key ingredient enabling teams to adopt a highly mature delivery framework in a short amount of time.  Everything as Code leads to the benefit of "solving a problem one time while benefiting N times"; in the open source world this benefit can span across entire industries.
@@ -195,9 +198,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzODIzNTk0LDE5MzU3MDgzMTcsMjEzMj
-U1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2
-LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNj
-QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
-LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbMjEwMjExMjE2MCwxOTM1NzA4MzE3LDIxMz
+I1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIx
+NiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMD
+Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
+OSwtMTY4ODA2NjgyNl19
 -->
