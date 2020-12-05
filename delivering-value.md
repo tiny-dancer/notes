@@ -77,7 +77,8 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 > Software developers need a new set of tools that are specifically designed for a world with continuous delivery. What if you could fully decouple the act of delivering software from the act of releasing features? What if you could deploy any time you want but release only when you’re ready?
 
-- Effective Feature Management Book
+Said best by John Kodumal in _Effective Feature Management_, Feature management was born to solve these problems.
+
 - Imagine that every deployment is deliberately, safely ramped up, allowing you to react instantly to the unexpected. 
 - Imagine that you could know how each new feature will per‐ form in production—with real users and real data. 
 - Imagine being able to instantly turn off a misbehaving feature, protecting the rest of your business. 
@@ -207,7 +208,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTM4NjYwMSwyMTAyMTEyMTYwLDE5Mz
+eyJoaXN0b3J5IjpbLTcwODg5MzI3MCwyMTAyMTEyMTYwLDE5Mz
 U3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1
 LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5OD
 UyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3
