@@ -79,13 +79,6 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 Said best by John Kodumal in _Effective Feature Management_, Feature management was born to solve these problems.
 
-- Imagine that every deployment is deliberately, safely ramped up, allowing you to react instantly to the unexpected. 
-- Imagine that you could know how each new feature will per‐ form in production—with real users and real data. 
-- Imagine being able to instantly turn off a misbehaving feature, protecting the rest of your business. 
-- Imagine measuring the impact of each and every change so that you know how it will affect users and your business before you proceed.
-
-- Effective Feature Managment
-
 ##### Everything as Code
 
 This is the practice of configuring services in automatable code rather than manual click through visual experiences. Everything as Code is the key ingredient enabling teams to adopt a highly mature delivery framework in a short amount of time.  Everything as Code leads to the benefit of "solving a problem one time while benefiting N times"; in the open source world this benefit can span across entire industries.
@@ -95,6 +88,10 @@ Examples
 - Terraform (Modules)
 - Azure YML Pipeline (Templates)
 - Jenkins Pipeline as Code (Libraries)
+
+##### Person Delivery Culture and Habits
+
+
 
 ##### Methodologies
 
@@ -208,7 +205,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODg5MzI3MCwyMTAyMTEyMTYwLDE5Mz
+eyJoaXN0b3J5IjpbMTE0OTU1NzM4NiwyMTAyMTEyMTYwLDE5Mz
 U3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1
 LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5OD
 UyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3
