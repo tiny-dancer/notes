@@ -19,6 +19,7 @@ Too many times we’ve seen technology hamstring the potential of the business a
 
 Delivery Framework and it's codified implementation: CI/CD 
 
+- ##### Less changes, less risk
 
 The key paradigms enabling the flow of value is:
 
@@ -32,6 +33,7 @@ When realizing value the only environment(s) that count are the ones where live 
 
 - An environment requires care and feeding
 - Changes tend to accumulate in each environment and by the time changes make production, they include far more than a single change which introduces higher risk, higher deployment time, and more people required to validate the changes.  
+- Ties into pull request canary releases and safely pushing left the validation of potential changes in production
 
 Examples:
 
@@ -191,9 +193,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDUyNDM0LDE5MzU3MDgzMTcsMjEzMj
-U1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2
-LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNj
-QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
-LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbMTE0NTI3NTM0NiwxOTM1NzA4MzE3LDIxMz
+I1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIx
+NiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMD
+Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
+OSwtMTY4ODA2NjgyNl19
 -->
