@@ -75,12 +75,15 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 ##### Feature Management (Toggles)
 
+> Software developers need a new set of tools that are specifically designed for a world with continuous delivery. What if you could fully decouple the act of delivering software from the act of releasing features? What if you could deploy any time you want but release only when you’re ready?
+
+- Effective Feature Management Book
 - Imagine that every deployment is deliberately, safely ramped up, allowing you to react instantly to the unexpected. 
 - Imagine that you could know how each new feature will per‐ form in production—with real users and real data. 
 - Imagine being able to instantly turn off a misbehaving feature, protecting the rest of your business. 
 - Imagine measuring the impact of each and every change so that you know how it will affect users and your business before you proceed.
 
-
+- Effective Feature Managment
 
 ##### Everything as Code
 
@@ -204,9 +207,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODczMzE0LDIxMDIxMTIxNjAsMTkzNT
-cwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMywzMjgzODg2NzUs
-LTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NT
-I1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4
-LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbMTI2MTM4NjYwMSwyMTAyMTEyMTYwLDE5Mz
+U3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1
+LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5OD
+UyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3
+OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
