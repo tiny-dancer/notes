@@ -73,7 +73,13 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 
 - https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes
 
-##### Feature Toggles
+##### Feature Management (Toggles)
+
+- Imagine that every deployment is deliberately, safely ramped up, allowing you to react instantly to the unexpected. 
+- Imagine that you could know how each new feature will per‐ form in production—with real users and real data. 
+- Imagine being able to instantly turn off a misbehaving feature, protecting the rest of your business. 
+- Imagine measuring the impact of each and every change so that you know how it will affect users and your business before you proceed.
+
 
 
 ##### Everything as Code
@@ -198,9 +204,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjExMjE2MCwxOTM1NzA4MzE3LDIxMz
-I1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIx
-NiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMD
-Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
-OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbLTI0ODczMzE0LDIxMDIxMTIxNjAsMTkzNT
+cwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMywzMjgzODg2NzUs
+LTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NT
+I1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4
+LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
 -->
