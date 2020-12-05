@@ -25,6 +25,8 @@ The key paradigms enabling the flow of value is:
 
 ##### Ephemeral Environments
 
+> Imagine you could safely test your changes directly in production separate from end user traffic, would you really need another environment?
+
 The ability to spin up an isolated, production-like component within an existing environment
 
 ##### Why It Matters
@@ -193,9 +195,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTI3NTM0NiwxOTM1NzA4MzE3LDIxMz
-I1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIx
-NiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMD
-Y0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5
-OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbNzYzODIzNTk0LDE5MzU3MDgzMTcsMjEzMj
+U1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2
+LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNj
+QyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5
+LC0xNjg4MDY2ODI2XX0=
 -->
