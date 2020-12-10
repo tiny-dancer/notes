@@ -99,7 +99,7 @@ Examples
 
 ##### Person Delivery Culture and Habits
 
-- **Important **
+- **Value shepherds**:  The developing engineer will actively work to ensure their change makes it into production successful.  This is 
 
 ##### Why It Matters
 
@@ -222,10 +222,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI3ODUwMjUsLTE4NTU4MDE1NTAsMT
-E0OTU1NzM4NiwyMTAyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1
-ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LD
-E0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQy
-NjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC
-0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTE2MzUzMDcwMjUsLTIwMTI3ODUwMjUsLT
+E4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMTAyMTEyMTYwLDE5MzU3
+MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC
+0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUy
+NTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OC
+wtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
