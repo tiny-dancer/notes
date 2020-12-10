@@ -99,14 +99,15 @@ Examples
 
 ##### Person Delivery Culture and Habits
 
+- **Important **
+
+##### Why It Matters
+
 This is the most important item for 2 primary reasons.  
 
 1: Human compassion, improving oneself and those around us is far more important than accomplishing the goals of a non-sentient company.
 
 2: one could engineer the most efficient delivery system possible, but if they don't know how to utilize it nothing will change.  Even more likely, the delivery system will digress as people fall back to what is more comfortable.
-
-##### Why It Matters
-
 
 
 ##### Methodologies
@@ -221,10 +222,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMT
-AyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1
-MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsOD
-IyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYx
-MDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX
-0=
+eyJoaXN0b3J5IjpbLTIwMTI3ODUwMjUsLTE4NTU4MDE1NTAsMT
+E0OTU1NzM4NiwyMTAyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1
+ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LD
+E0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQy
+NjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC
+0xNjg4MDY2ODI2XX0=
 -->
