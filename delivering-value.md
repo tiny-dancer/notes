@@ -99,7 +99,7 @@ Examples
 
 ##### Person Delivery Culture and Habits
 
-- **Value shepherds**:  The developing engineer will actively work to ensure their change makes it successfully into production. This eliminates any "hand-off" to another team member to ensure the change is successful. 
+- **Value shepherds**:  The developing engineer will actively work to ensure their change makes it successfully into production. This eliminates any "hand-off" to another team member to ensure the change is successful.  This shifts the focus for the developing engineer from "completing the necessary code changes" to "
 
 ##### Why It Matters
 
@@ -222,7 +222,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2MDQ3MywtMjAxMjc4NTAyNSwtMT
+eyJoaXN0b3J5IjpbMTYzODM2NTE0MCwtMjAxMjc4NTAyNSwtMT
 g1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIxMTIxNjAsMTkzNTcw
 ODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMywzMjgzODg2NzUsLT
 E1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NTI1
