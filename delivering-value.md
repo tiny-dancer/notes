@@ -101,11 +101,13 @@ Examples
 
 This is the most important item for 2 primary reasons.  
 
-1: Companies Human and team improvement
+1: Human compassion, improving oneself and those around us is far more important than accomplishing the goals of a non-sentient company.
 
 2: one could engineer the most efficient delivery system possible, but if they don't know how to utilize it nothing will change.  Even more likely, the delivery system will digress as people fall back to what is more comfortable.
 
 ##### Why It Matters
+
+
 
 ##### Methodologies
 
@@ -219,10 +221,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODkyODMxOSwxMTQ5NTU3Mzg2LDIxMD
-IxMTIxNjAsMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUx
-MywzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4Mj
-IxODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEw
-MiwtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMT
+AyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1
+MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsOD
+IyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYx
+MDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX
+0=
 -->
