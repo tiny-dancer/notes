@@ -99,7 +99,8 @@ Examples
 
 ##### Person Delivery Culture and Habits
 
-
+This is the most important item for 2 primary reasons.  1: one could engineer the most efficient delivery system possible, but if they don't 
+##### Why It Matters
 
 ##### Methodologies
 
@@ -213,10 +214,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxOTQ0NzEsMTE0OTU1NzM4NiwyMT
-AyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1
-MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsOD
-IyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYx
-MDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX
-0=
+eyJoaXN0b3J5IjpbMzc4NDk2ODg2LDExNDk1NTczODYsMjEwMj
+ExMjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEz
+LDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
