@@ -29,6 +29,8 @@ The key paradigms enabling the flow of value is:
 
 The ability to spin up an isolated, production-like component within an existing environment
 
+--> Add Quote from MS CIO book
+
 ##### Why It Matters
 
 When realizing value the only environment(s) that count are the ones where live end users interact with the system.  We will call this production.  In a perfect  world with no mistakes or defects there would only be production and everything would be deployed directly there.  With this appreciation and knowing we unfortunately do not live in an everything is awesome world, we are required to layer in "non production" environments to first verify the changes work as expected.  The common practice here is to start with a 4 environment promotion path: "Dev" --> "Test" --> "Stage" --> "Production", this is a mistake.  In the current state of our world, starting with this approach is a mistake.  Remember, when realizing value the only environment that matters is Production and environment before production increases the amount of time and effort it will take to deliver value to to production, therefore lowering the speed of delivery rate.  It is important to start flipping this around and starting with the least amount of environments required and then adding environments as needed.  Taking this a step further, we can introduce temporary, "ephemeral", environments to replace the time investment of a persistent environment.
@@ -78,6 +80,10 @@ In continuous delivery this is the practice of maintaining a simple pipeline ("d
 > Software developers need a new set of tools that are specifically designed for a world with continuous delivery. What if you could fully decouple the act of delivering software from the act of releasing features? What if you could deploy any time you want but release only when you’re ready?
 
 Said best by John Kodumal in _Effective Feature Management_, Feature management was born to solve these problems.
+
+##### Why It Matters
+
+Proper feature management enables a code base to always be ready for a production deployment.  
 
 ##### Everything as Code
 
@@ -205,9 +211,9 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTU1NzM4NiwyMTAyMTEyMTYwLDE5Mz
-U3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1
-LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5OD
-UyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3
-OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbOTc4NzUxMDYxLDExNDk1NTczODYsMjEwMj
+ExMjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEz
+LDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMj
+E4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAy
+LC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
