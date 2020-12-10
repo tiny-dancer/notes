@@ -99,7 +99,7 @@ Examples
 
 ##### Person Delivery Culture and Habits
 
-- **Value shepherds**:  The developing engineer will actively work to ensure their change makes it into production successful.  This is 
+- **Value shepherds**:  The developing engineer will actively work to ensure their change makes it successfully into production. This eliminates any "hand-off" to another team member to ensure the change is successful. 
 
 ##### Why It Matters
 
@@ -222,10 +222,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUzMDcwMjUsLTIwMTI3ODUwMjUsLT
-E4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMTAyMTEyMTYwLDE5MzU3
-MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC
-0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUy
-NTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OC
-wtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTIwNDQ2MDQ3MywtMjAxMjc4NTAyNSwtMT
+g1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIxMTIxNjAsMTkzNTcw
+ODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMywzMjgzODg2NzUsLT
+E1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NTI1
+MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC
+02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
 -->
