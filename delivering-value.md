@@ -97,7 +97,7 @@ Examples
 - Azure YML Pipeline (Templates)
 - Jenkins Pipeline as Code (Libraries)
 
-##### Person Delivery Culture and Habits
+#####  Culture and Habits
 
 - **Value shepherds**:  The developing engineer will actively work to ensure their change makes it successfully into production. This shifts the focus of the developing engineer from "completing the necessary code changes" to "ensure the new change is successfully in production".  After completing the necessary code changes, the developing engineer will be a personal advocate and supportee to the change for ensuring subsequent tasks are completed efficiently.  If any unexpected issues arise during testing of the change, the developing engineer is the first to respond and resolve issues.  If they find the change is stuck in limo somewhere, they are the first to raise awareness and ask for progress.  They ensure their change benefits users as safely and quickly as possible. 
 
@@ -108,6 +108,12 @@ This is the most important item for 2 primary reasons.
 1: Human compassion, improving oneself and those around us is far more important than accomplishing the goals of a non-sentient company.
 
 2: one could engineer the most efficient delivery system possible, but if they don't know how to utilize it nothing will change.  Even more likely, the delivery system will digress as people fall back to what is more comfortable.
+
+#####  Team Enablement (Organizational)
+
+Ensuring the teams delivering the products are enabled to control their own destiny
+
+#####  App Enablement (DevOps)
 
 
 ##### Methodologies
@@ -222,10 +228,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODcxMTA4NiwtMjAxMjc4NTAyNSwtMT
-g1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIxMTIxNjAsMTkzNTcw
-ODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMywzMjgzODg2NzUsLT
-E1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIxODM5MTEsMTk4NTI1
-MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMiwtMjE5ODA5NTc4LC
-02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+eyJoaXN0b3J5IjpbNDY1Mjk5MzI5LDE1MTg3MTEwODYsLTIwMT
+I3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMTAyMTEy
+MTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMz
+I4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgz
+OTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLT
+IxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
 -->
