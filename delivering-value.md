@@ -119,9 +119,13 @@ For example, historically databases
 
 Ensuring an application is enabled to control their own destiny.
 
-For example,  if a web application will be made available at awesome.com, allow the pipeline for the application to manage the awesome.com configuration.  This is primarily enabled through cloud first api-driven automation and proper permissions to ensure the application pipeline could not accidently, or maliciliously, modify fun.com,
+For example,  if a web application will be made available at awesome.com, allow the pipeline for the application to manage the awesome.com configuration.  This is primarily enabled through cloud first api-driven automation and proper permissions to ensure the application pipeline could not accidentally, or maliciously, modify fun.com,
 
+Other examples, include enabling API's to self register in an API Gateway through their pipeline.  
 
+The key is ensuring when an application's pipeline is executed everything that needs to be configured for it to work is configured.  
+
+> *Everything is Connected:  This ties back to *
 
 ##### Methodologies
 
@@ -235,7 +239,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA3MDA2MTMsMTUxODcxMTA4NiwtMj
+eyJoaXN0b3J5IjpbLTEzMzE1Mjg5MTYsMTUxODcxMTA4NiwtMj
 AxMjc4NTAyNSwtMTg1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIx
 MTIxNjAsMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMy
 wzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIx
