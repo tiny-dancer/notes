@@ -111,10 +111,15 @@ This is the most important item for 2 primary reasons.
 
 #####  Team Enablement (Organizational)
 
-Ensuring the teams delivering the products are enabled to control their own destiny
+Ensuring the teams delivering the products are enabled to control their own destiny.
 
-#####  App Enablement (DevOps)
+For example, historically databases
 
+#####  App Enablement (Pipeline)
+
+Ensuring an application is enabled to control their own destiny.
+
+For example,  if a web application will be exposed 
 
 ##### Methodologies
 
@@ -228,10 +233,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1Mjk5MzI5LDE1MTg3MTEwODYsLTIwMT
-I3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMTAyMTEy
-MTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMz
-I4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgz
-OTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLT
-IxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbMTQ4MDEwMDUzNywxNTE4NzExMDg2LC0yMD
+EyNzg1MDI1LC0xODU1ODAxNTUwLDExNDk1NTczODYsMjEwMjEx
+MjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEzLD
+MyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMjE4
+MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAyLC
+0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
