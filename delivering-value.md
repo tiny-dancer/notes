@@ -119,7 +119,9 @@ For example, historically databases
 
 Ensuring an application is enabled to control their own destiny.
 
-For example,  if a web application will be exposed 
+For example,  if a web application will be made available at awesome.com, allow the pipeline for the application to manage the awesome.com configuration.  This is primarily enabled through cloud first api-driven automation and proper permissions to ensure the application pipeline could not accidently, or maliciliously, modify fun.com,
+
+
 
 ##### Methodologies
 
@@ -233,10 +235,11 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDEwMDUzNywxNTE4NzExMDg2LC0yMD
-EyNzg1MDI1LC0xODU1ODAxNTUwLDExNDk1NTczODYsMjEwMjEx
-MjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEzLD
-MyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMjE4
-MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAyLC
-0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
+eyJoaXN0b3J5IjpbLTE1OTA3MDA2MTMsMTUxODcxMTA4NiwtMj
+AxMjc4NTAyNSwtMTg1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIx
+MTIxNjAsMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMy
+wzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIx
+ODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMi
+wtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
+
 -->
