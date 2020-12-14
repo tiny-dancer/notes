@@ -125,7 +125,9 @@ Other examples, include enabling API's to self register in an API Gateway throug
 
 The key is ensuring when an application's pipeline is executed everything that needs to be configured for it to work is configured.  
 
-> *Everything is Connected:  This ties back to *
+##### Why It Matters
+
+> *Everything is Connected:  This enables `Ephemeral Environments`*
 
 ##### Methodologies
 
@@ -239,11 +241,10 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1Mjg5MTYsMTUxODcxMTA4NiwtMj
-AxMjc4NTAyNSwtMTg1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMDIx
-MTIxNjAsMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUxMy
-wzMjgzODg2NzUsLTE1MDc2MzAyMTYsMTQxNDk1MjYyMyw4MjIx
-ODM5MTEsMTk4NTI1MDk4LDcxMDA2NDI2NiwtMTIwMTg3NjEwMi
-wtMjE5ODA5NTc4LC02MzkxMzI5OTksLTE2ODgwNjY4MjZdfQ==
-
+eyJoaXN0b3J5IjpbMjA5NDc5Mjg2OCwxNTE4NzExMDg2LC0yMD
+EyNzg1MDI1LC0xODU1ODAxNTUwLDExNDk1NTczODYsMjEwMjEx
+MjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEzLD
+MyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMjE4
+MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAyLC
+0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2NjgyNl19
 -->
