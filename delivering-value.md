@@ -29,8 +29,8 @@
 
 High level keys:
 - Getting to a point where production deployments are so safe and repetitive they became boring daily events
-	- This foundation event is made poss
-- There is no single silver bullet process for rolling out changes safely on such a high cadence however it is common to develop a standardized set of approaches.  During planning/grooming each feature 
+	- This foundation event is made possible a lot of intricate delivery practices and planning
+- There is no single silver bullet process for rolling out changes safely on such a high cadence however it is common to develop a standardized set of approaches.  During planning/grooming each feature would be tagged to one of these approaches depending on risk size, data schema changes, mark
 
 There is one constant in digital & tech development: things will change. This is why agile exists, to embrace the change and move with it. This means the most important part of any digital system is the part no user sees: the ability for the system to support change. This is the flow of value going from idea to user: delivering enhancements to the digital portal, we’ll call it the “Delivery Pipeline”. Too often we see in consultancy engagements (or any technology project) the focus is placed on the digital portal seen by the end users with a lack of focus on the delivery pipeline. At the end of the engagement there is a working digital portal however every subsequent change or enhancement to the digital portal has a time to deliver multiplier hindering the business to respond to the market and users. With timelines multiplying and deadlines missed, it’s too common to then re-engage with the consultancy firm to add new features for end users, where again there is a lack of focus on improving the “Delivery Pipeline” and the issue circulates.
 
@@ -266,7 +266,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4ODk3MzQwLDU2ODY3MzUzNCwxNDY4Mj
+eyJoaXN0b3J5IjpbODA4NDkwNjY3LDU2ODY3MzUzNCwxNDY4Mj
 AwMzkyLDgyOTg5ODUxMiw2NDM3MDQ1MTEsMTUxODcxMTA4Niwt
 MjAxMjc4NTAyNSwtMTg1NTgwMTU1MCwxMTQ5NTU3Mzg2LDIxMD
 IxMTIxNjAsMTkzNTcwODMxNywyMTMyNTU4MjY3LDQ4MDM3NjUx
