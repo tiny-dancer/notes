@@ -9,6 +9,25 @@
 
 ### The 'how' of value delivery
 
+-   **Ephemeral Environments:** component changes are reflected in a safe, isolated environment mirroring a production deployment and integrated with existing environments for valuable testing and deployment validation
+    
+-    **Portable Execution:** the deployment logic is not dependent on being executed within a specifc pipeline; this enables valuable, quick-iterating local development and future ci/cd system changes
+    
+-   **Smart endpoints and dumb pipelines**: pipelines are workflow orchestrators only executing source controlled deployment logic that is not depedent being in the pipeline (terraform, arm, bash, etc)
+    
+-   **Feature Management (Toggles)**: Any new changes are wrapped in a feature toggle allowing the codebase to be safely deployed to production at any given time. This also allows for releasing features safely to a subset of users.
+    
+-    **Everything as Code:** Self explanatory, everything that can be configured as code eventually is. This greatly minimizes toil time and once implemented helps maximise developer day to day efficiency
+    
+-   **Culture and Habits**
+    
+    -   **Developers Shepherd Changes:** a developer owns the change they are working on and advocates for it's release to users. They incorporate others as part of the develoment cycle but it never "becomes someone elses problem" to ensure users experience the feature
+
+    -   **Team Enablement (Organizational/Human):** a team is empowered to own their application and control their destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code
+
+    -   **App Enablement (Pipeline/Machine):** an application/component deplyoment pipeline is empowered to control it's destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code and api-driven, programmatic interactions
+
+
 There is one constant in digital & tech development: things will change. This is why agile exists, to embrace the change and move with it. This means the most important part of any digital system is the part no user sees: the ability for the system to support change. This is the flow of value going from idea to user: delivering enhancements to the digital portal, we’ll call it the “Delivery Pipeline”. Too often we see in consultancy engagements (or any technology project) the focus is placed on the digital portal seen by the end users with a lack of focus on the delivery pipeline. At the end of the engagement there is a working digital portal however every subsequent change or enhancement to the digital portal has a time to deliver multiplier hindering the business to respond to the market and users. With timelines multiplying and deadlines missed, it’s too common to then re-engage with the consultancy firm to add new features for end users, where again there is a lack of focus on improving the “Delivery Pipeline” and the issue circulates.
 
 It's a similar experience with cars. We often purchase cars based on looks (the digital portal) however stay loyal based on what people don’t directly see: the engine and overall reliability. We want to help ensure your car’s engine is well prepped and ready for you to enjoy a long road ahead you, avoiding the headaches of breakdowns and tow trucks.
@@ -243,10 +262,11 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzA0NTExLDE1MTg3MTEwODYsLTIwMT
-I3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMTAyMTEy
-MTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1MTMsMz
-I4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsODIyMTgz
-OTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYxMDIsLT
-IxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbLTE4MTQ2OTU5NzgsNjQzNzA0NTExLDE1MT
+g3MTEwODYsLTIwMTI3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1
+NzM4NiwyMTAyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Ny
+w0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5
+NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLT
+EyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4
+MDY2ODI2XX0=
 -->
