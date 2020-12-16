@@ -21,7 +21,7 @@
     
 -   **Culture and Habits**
     
-    -   **Developers Shepherd Changes:** a developer owns the change they are working on and becomes its "release advocate". They incorporate others as part of the development cycle but it never "becomes someone else's problem" to ensure the change is safely released to production.  This valuable habit surfaces when a release to production can occur within days or hours after "dev complete" and helps drive home the paradigm that "value is not realized until users experience the change".
+    -   **Developers Shepherd Changes:** a developer owns the change they are working on and becomes its "release advocate". They incorporate others as part of the development cycle but it never "becomes someone else's problem" to ensure the change is safely released to production.  This habit surfaces when a release to production can occur within days or hours after "dev complete" and helps drive home the paradigm that "value is not realized until users experience the change".
 
     -   **Team Enablement (Organizational/Human):** a team is empowered to own their application and control their destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code
 
@@ -262,11 +262,11 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODIwMDM5Miw4Mjk4OTg1MTIsNjQzNz
-A0NTExLDE1MTg3MTEwODYsLTIwMTI3ODUwMjUsLTE4NTU4MDE1
-NTAsMTE0OTU1NzM4NiwyMTAyMTEyMTYwLDE5MzU3MDgzMTcsMj
-EzMjU1ODI2Nyw0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMw
-MjE2LDE0MTQ5NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MT
-AwNjQyNjYsLTEyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMy
-OTk5XX0=
+eyJoaXN0b3J5IjpbNTY4NjczNTM0LDE0NjgyMDAzOTIsODI5OD
+k4NTEyLDY0MzcwNDUxMSwxNTE4NzExMDg2LC0yMDEyNzg1MDI1
+LC0xODU1ODAxNTUwLDExNDk1NTczODYsMjEwMjExMjE2MCwxOT
+M1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3
+NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOT
+g1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1
+NzhdfQ==
 -->
