@@ -11,13 +11,13 @@
 
 -   **Ephemeral Environments:** component changes are reflected in a safe, isolated environment mirroring a production deployment and integrated with existing environments for valuable testing and deployment validation
     
--    **Portable Execution:** the deployment logic is not dependent on being executed within a specifc pipeline; this enables valuable, quick-iterating local development and future ci/cd system changes
+-    **Portable Execution:** the deployment logic is not dependent on being executed within a specific pipeline; this enables valuable, quick-iterating local development and future ci/cd system changes
     
 -   **Smart endpoints and dumb pipelines**: pipelines are workflow orchestrators only executing source controlled, portably executable deployment logic that is not dependent being in the pipeline (terraform, arm, bash, etc)
     
 -   **Feature Management (Toggles)**: Any new changes are wrapped in a feature toggle allowing the codebase to be safely deployed to production at any given time. This also allows for releasing features safely to a subset of users.
     
--    **Everything as Code:** Self explanatory, everything that can be configured as code eventually is. This greatly minimizes toil time and once implemented helps maximize developer day to day efficiency
+-    **Everything as Code:** Self explanatory, everything that can be configured as code eventually is. This greatly minimizes toil time and once implemented helps maximize developer day to day efficiency. Enables repeatable and consistent deployments with no configuration drift (ephemeral environments, high release/deployment rates)
     
 -   **Culture and Habits**
     
@@ -25,7 +25,7 @@
 
     -   **Team Enablement (Organizational/Human):** a team is empowered to own their application and control their destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code
 
-    -   **App Enablement (Pipeline/Machine):** an application/component deplyoment pipeline is empowered to control it's destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code and api-driven, programmatic interactions
+    -   **App Enablement (Pipeline/Machine):** an application/component deployment pipeline is empowered to control its own destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code and api-driven, programmatic interactions
 
 
 There is one constant in digital & tech development: things will change. This is why agile exists, to embrace the change and move with it. This means the most important part of any digital system is the part no user sees: the ability for the system to support change. This is the flow of value going from idea to user: delivering enhancements to the digital portal, we’ll call it the “Delivery Pipeline”. Too often we see in consultancy engagements (or any technology project) the focus is placed on the digital portal seen by the end users with a lack of focus on the delivery pipeline. At the end of the engagement there is a working digital portal however every subsequent change or enhancement to the digital portal has a time to deliver multiplier hindering the business to respond to the market and users. With timelines multiplying and deadlines missed, it’s too common to then re-engage with the consultancy firm to add new features for end users, where again there is a lack of focus on improving the “Delivery Pipeline” and the issue circulates.
@@ -262,7 +262,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwOTEwOTc2LDY0MzcwNDUxMSwxNTE4Nz
+eyJoaXN0b3J5IjpbODI5ODk4NTEyLDY0MzcwNDUxMSwxNTE4Nz
 ExMDg2LC0yMDEyNzg1MDI1LC0xODU1ODAxNTUwLDExNDk1NTcz
 ODYsMjEwMjExMjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsND
 gwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUy
