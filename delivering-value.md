@@ -13,15 +13,15 @@
     
 -    **Portable Execution:** the deployment logic is not dependent on being executed within a specifc pipeline; this enables valuable, quick-iterating local development and future ci/cd system changes
     
--   **Smart endpoints and dumb pipelines**: pipelines are workflow orchestrators only executing source controlled deployment logic that is not depedent being in the pipeline (terraform, arm, bash, etc)
+-   **Smart endpoints and dumb pipelines**: pipelines are workflow orchestrators only executing source controlled, portably executable deployment logic that is not dependent being in the pipeline (terraform, arm, bash, etc)
     
 -   **Feature Management (Toggles)**: Any new changes are wrapped in a feature toggle allowing the codebase to be safely deployed to production at any given time. This also allows for releasing features safely to a subset of users.
     
--    **Everything as Code:** Self explanatory, everything that can be configured as code eventually is. This greatly minimizes toil time and once implemented helps maximise developer day to day efficiency
+-    **Everything as Code:** Self explanatory, everything that can be configured as code eventually is. This greatly minimizes toil time and once implemented helps maximize developer day to day efficiency
     
 -   **Culture and Habits**
     
-    -   **Developers Shepherd Changes:** a developer owns the change they are working on and advocates for it's release to users. They incorporate others as part of the develoment cycle but it never "becomes someone elses problem" to ensure users experience the feature
+    -   **Developers Shepherd Changes:** a developer owns the change they are working on and advocates for its release to users. They incorporate others as part of the development cycle but it never "becomes someone else's problem" to ensure users experience the feature
 
     -   **Team Enablement (Organizational/Human):** a team is empowered to own their application and control their destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code
 
@@ -262,11 +262,11 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2OTU5NzgsNjQzNzA0NTExLDE1MT
-g3MTEwODYsLTIwMTI3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1
-NzM4NiwyMTAyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Ny
-w0ODAzNzY1MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5
-NTI2MjMsODIyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLT
-EyMDE4NzYxMDIsLTIxOTgwOTU3OCwtNjM5MTMyOTk5LC0xNjg4
-MDY2ODI2XX0=
+eyJoaXN0b3J5IjpbODQwOTEwOTc2LDY0MzcwNDUxMSwxNTE4Nz
+ExMDg2LC0yMDEyNzg1MDI1LC0xODU1ODAxNTUwLDExNDk1NTcz
+ODYsMjEwMjExMjE2MCwxOTM1NzA4MzE3LDIxMzI1NTgyNjcsND
+gwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYzMDIxNiwxNDE0OTUy
+NjIzLDgyMjE4MzkxMSwxOTg1MjUwOTgsNzEwMDY0MjY2LC0xMj
+AxODc2MTAyLC0yMTk4MDk1NzgsLTYzOTEzMjk5OSwtMTY4ODA2
+NjgyNl19
 -->
