@@ -21,7 +21,7 @@
     
 -   **Culture and Habits**
     
-    -   **Developers Shepherd Changes:** a developer owns the change they are working on and becomes its "release advocate". They incorporate others as part of the development cycle but it never "becomes someone else's problem" to ensure users experience the feature.  This valuable habit surfacesA release to production after "dev complete" should be within days or hours.
+    -   **Developers Shepherd Changes:** a developer owns the change they are working on and becomes its "release advocate". They incorporate others as part of the development cycle but it never "becomes someone else's problem" to ensure the change is safely released to production.  This valuable habit surfaces when a release to production can occur within days or hours after "dev complete".
 
     -   **Team Enablement (Organizational/Human):** a team is empowered to own their application and control their destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code
 
@@ -262,7 +262,7 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwMjEzNTMsODI5ODk4NTEyLDY0Mz
+eyJoaXN0b3J5IjpbLTEwNDExNzUwNTAsODI5ODk4NTEyLDY0Mz
 cwNDUxMSwxNTE4NzExMDg2LC0yMDEyNzg1MDI1LC0xODU1ODAx
 NTUwLDExNDk1NTczODYsMjEwMjExMjE2MCwxOTM1NzA4MzE3LD
 IxMzI1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3NSwtMTUwNzYz
