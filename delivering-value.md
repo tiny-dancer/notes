@@ -27,6 +27,10 @@
 
     -   **App Enablement (Pipeline/Machine):** an application/component deployment pipeline is empowered to control its own destiny. In cases where shared services and platforms exist, they must enable above paradigms such as everything as code and api-driven, programmatic interactions
 
+High level keys:
+- Getting to a point where production deployments are so safe and repetitive they became boring daily events
+	- This foundation event is made poss
+- There is no single silver bullet for 
 
 There is one constant in digital & tech development: things will change. This is why agile exists, to embrace the change and move with it. This means the most important part of any digital system is the part no user sees: the ability for the system to support change. This is the flow of value going from idea to user: delivering enhancements to the digital portal, we’ll call it the “Delivery Pipeline”. Too often we see in consultancy engagements (or any technology project) the focus is placed on the digital portal seen by the end users with a lack of focus on the delivery pipeline. At the end of the engagement there is a working digital portal however every subsequent change or enhancement to the digital portal has a time to deliver multiplier hindering the business to respond to the market and users. With timelines multiplying and deadlines missed, it’s too common to then re-engage with the consultancy firm to add new features for end users, where again there is a lack of focus on improving the “Delivery Pipeline” and the issue circulates.
 
@@ -262,11 +266,11 @@ TOREAD:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NjczNTM0LDE0NjgyMDAzOTIsODI5OD
-k4NTEyLDY0MzcwNDUxMSwxNTE4NzExMDg2LC0yMDEyNzg1MDI1
-LC0xODU1ODAxNTUwLDExNDk1NTczODYsMjEwMjExMjE2MCwxOT
-M1NzA4MzE3LDIxMzI1NTgyNjcsNDgwMzc2NTEzLDMyODM4ODY3
-NSwtMTUwNzYzMDIxNiwxNDE0OTUyNjIzLDgyMjE4MzkxMSwxOT
-g1MjUwOTgsNzEwMDY0MjY2LC0xMjAxODc2MTAyLC0yMTk4MDk1
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTkyMzYyODE4OCw1Njg2NzM1MzQsMTQ2OD
+IwMDM5Miw4Mjk4OTg1MTIsNjQzNzA0NTExLDE1MTg3MTEwODYs
+LTIwMTI3ODUwMjUsLTE4NTU4MDE1NTAsMTE0OTU1NzM4NiwyMT
+AyMTEyMTYwLDE5MzU3MDgzMTcsMjEzMjU1ODI2Nyw0ODAzNzY1
+MTMsMzI4Mzg4Njc1LC0xNTA3NjMwMjE2LDE0MTQ5NTI2MjMsOD
+IyMTgzOTExLDE5ODUyNTA5OCw3MTAwNjQyNjYsLTEyMDE4NzYx
+MDJdfQ==
 -->
