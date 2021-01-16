@@ -7,7 +7,10 @@ If you are as interested as I am in self improvement, I highly recommend grabbin
 
 From here we'll have some fun taking the most powerful messages of the book and applying them to the vast world of software engineering.
 
-> You do not rise to the level of your goals.  You fall to the level of your systems
+## You do not rise to the level of your goals.  You fall to the level of your systems
+
+**Atomic Habits**: 
+
 
 
 
@@ -15,6 +18,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAzMDkzOTksMTgyNzkzMDUxNSwtMT
+eyJoaXN0b3J5IjpbLTIxMjkxNjM1MzMsMTgyNzkzMDUxNSwtMT
 M4NzYwOTY2NiwtNDAzNzIzMjM0LDczMDk5ODExNl19
 -->
