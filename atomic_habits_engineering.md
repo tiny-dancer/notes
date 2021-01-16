@@ -29,12 +29,15 @@ In the development and engineering world, this applies to high levels of site re
 - "It may be better but we have more important issues"
 - "
 
-####
+## It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity
+
+This may be the most important one when applied in the technology world.  Until we are operating on 
+
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMzMTMzNTksLTYyNDg4OTc0MywxOT
-gwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcy
-MzIzNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjAwMzM1MjUsLTYyNDg4OTc0MywxOTgwOD
+IwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIz
+NCw3MzA5OTgxMTZdfQ==
 -->
