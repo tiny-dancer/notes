@@ -43,11 +43,22 @@ This is important lesson in scope creep and prioritization.  Before a product ad
 
 Culture is HUGE.  Focus on improving the culture.  It's hard to introduce positive change if you're the organization is not open to receiving it.
 
+## It is easy to get bogged down trying to find the optimal plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle.  We are so focused on figuring out the best approach that we never get around to taking action
+
+
+MVP, Agile: small iterative progress.  What we believe may be most valuable to the users may end up evolving to something completely different, slowly work your way there, adapting quickly so it looks like it is what you planned all along.
+
+
+## Standardize before you optimize.  You can’t improve a habit that doesn’t exist
+
+You C
+
+
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMDAzNDcsLTYyNDg4OTc0MywxOTgwOD
-IwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIz
-NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI4Njg0MzQxOCwtNjI0ODg5NzQzLDE5OD
+A4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2NiwtNDAzNzIz
+MjM0LDczMDk5ODExNl19
 -->
