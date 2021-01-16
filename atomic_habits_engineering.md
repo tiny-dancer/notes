@@ -55,13 +55,15 @@ In the technology world, optimize often means automation.  And you cannot automa
 
 ## The human brain evolved to prioritize immediate rewards over delayed rewards
 
-Be aware of the long term ramifications 
+Be aware of the long term ramifications of quick wins.  They may prove valuable for the right reasons but make sure you understand the pro's and con's before blindly plowing forward.
+
+## Your  outcomes are a lagging measure of your habits.
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NzczNDgzLC02MjQ4ODk3NDMsMTk4MD
-gyMDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMy
-MzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjEzNTc5NTQyNSwtNjI0ODg5NzQzLDE5OD
+A4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2NiwtNDAzNzIz
+MjM0LDczMDk5ODExNl19
 -->
