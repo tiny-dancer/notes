@@ -31,13 +31,16 @@ In the development and engineering world, this applies to high levels of site re
 
 ## It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity
 
-This may be the most important one when applied in the technology world.  The product will struggle to evolve and be successful if engineers are spending time fighting fires and struggling to release code consistently.  The foundations (CI/CD, DevOps, need to be put in place early and often to ensure  the fundamentals are in place 
+This may be the most important one when applied in the technology world.  The product will struggle to evolve and be successful if engineers are spending time fighting fires and struggling to release code consistently.  The foundations (CI/CD, DevOps, Site Reliability and team enablement) need to be put in place early and often to ensure the team can focus on free thinking and creativity to solve _human_ problems. 
+
+
+
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjYwNzAxMzMsLTYyNDg4OTc0MywxOT
+eyJoaXN0b3J5IjpbLTE2OTYxOTYwMDAsLTYyNDg4OTc0MywxOT
 gwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcy
 MzIzNCw3MzA5OTgxMTZdfQ==
 -->
