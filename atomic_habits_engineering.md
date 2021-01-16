@@ -9,7 +9,9 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 ## You do not rise to the level of your goals.  You fall to the level of your systems
 
-**Atomic Habits**: 
+**Atomic Habits**: This is highll
+
+**Why it matters**:
 
 
 
@@ -18,6 +20,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxNjM1MzMsMTgyNzkzMDUxNSwtMT
-M4NzYwOTY2NiwtNDAzNzIzMjM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTMwNjAzNzcyLDE4Mjc5MzA1MTUsLTEzOD
+c2MDk2NjYsLTQwMzcyMzIzNCw3MzA5OTgxMTZdfQ==
 -->
