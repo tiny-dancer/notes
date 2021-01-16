@@ -16,7 +16,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 **Software Engineering**: This can be applied in two ways
 
-1) 
+1) Your system is as strong as your weakest link.  Sales goals, marketing goals, product goals, engineering goals are all worthless to the here and now.
 
 
 
@@ -25,6 +25,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYwMTY2MDYsMTgyNzkzMDUxNSwtMT
+eyJoaXN0b3J5IjpbLTEwMjc2NTgzNzcsMTgyNzkzMDUxNSwtMT
 M4NzYwOTY2NiwtNDAzNzIzMjM0LDczMDk5ODExNl19
 -->
