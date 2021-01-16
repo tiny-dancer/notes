@@ -16,7 +16,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 **Software Engineering**: This can be applied in two ways
 
-1) Your system is as strong as your weakest link.  Sales goals, marketing goals, product goals, engineering goals, are all worthless to the here and now. Always ensure a strong foundation.  The goals of our system are the features), 
+1) Your system is as strong as your weakest link.  Sales goals, marketing goals, product goals, engineering goals, are all worthless to the here and now. Always ensure a strong foundation.  The goals of our technology product are the features.  This is an important message that our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (the defects and site reliability).
 
 
 
@@ -25,6 +25,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTI5MTY5MywxODI3OTMwNTE1LC0xMz
+eyJoaXN0b3J5IjpbMTc2Mjc0NjMxNSwxODI3OTMwNTE1LC0xMz
 g3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
 -->
