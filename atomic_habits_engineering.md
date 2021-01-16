@@ -11,7 +11,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 > In atomic habits, systems in the quote refers to our biologically developed *habitual systems*
 
-**Atomic Habits**:  As aspirational our goals and commitment are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The focus therefore should start with 
+**Atomic Habits**:  As aspirational our goals and commitment are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  You're goal may be 
 
 **Software Engineering**:
 
@@ -22,6 +22,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjk1NjY3OCwxODI3OTMwNTE1LC0xMz
-g3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NTQwODI5MzAsMTgyNzkzMDUxNSwtMT
+M4NzYwOTY2NiwtNDAzNzIzMjM0LDczMDk5ODExNl19
 -->
