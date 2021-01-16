@@ -24,6 +24,7 @@ In the development and engineering world, this applies to high levels of site re
 **Atomic Habits**:  
 
 **Tech Product**:  : 
+- Momentum, momentum, momentum.  Every little change matters and adds up to a growing snowball effect. This is true both in subtle enhancements to the user experience as well as internal processes.
 - Toil: https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles
 - "It may be better but we have more important issues"
 - "
@@ -33,6 +34,7 @@ In the development and engineering world, this applies to high levels of site re
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDgyMDExMiwxODI3OTMwNTE1LC0xMz
-g3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTYyNDg4OTc0MywxOTgwODIwMTEyLDE4Mj
+c5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNCw3MzA5OTgx
+MTZdfQ==
 -->
