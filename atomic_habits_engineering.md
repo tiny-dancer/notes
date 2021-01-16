@@ -33,14 +33,15 @@ In the development and engineering world, this applies to high levels of site re
 
 This may be the most important one when applied in the technology world.  The product will struggle to evolve and be successful if engineers are spending time fighting fires and struggling to release code consistently.  The foundations (CI/CD, DevOps, Site Reliability and team enablement) need to be put in place early and often to ensure the team can focus on free thinking and creativity to solve _human_ problems. 
 
+## Before we can effectively build new habits, we need to get a handle on our current ones
 
-
+This is important lesson in scope creep and prioritization.  Before a product adds new features we need to ensure the existing ones are working effectively.  If they are not, we could even consider r
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYxOTYwMDAsLTYyNDg4OTc0MywxOT
+eyJoaXN0b3J5IjpbLTE2NTU1NDIwNTAsLTYyNDg4OTc0MywxOT
 gwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcy
 MzIzNCw3MzA5OTgxMTZdfQ==
 -->
