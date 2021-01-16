@@ -25,13 +25,14 @@ In the development and engineering world, this applies to high levels of site re
 
 **Tech Product**:  : 
 - Toil: https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles
-- "We have more important issues".
+- "It may be better but we have more important issues"
+- "
 
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTQ4NzY5NywxODI3OTMwNTE1LC0xMz
+eyJoaXN0b3J5IjpbMTk4MDgyMDExMiwxODI3OTMwNTE1LC0xMz
 g3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
 -->
