@@ -51,14 +51,17 @@ MVP, Agile: small iterative progress.  What we believe may be most valuable to t
 
 ## Standardize before you optimize.  You can’t improve a habit that doesn’t exist
 
-You C
+In the technology world, optimize often means automation.  And you cannot automate without standardizing.
 
+## The human brain evolved to prioritize immediate rewards over delayed rewards
+
+Be aware of the long term ramifications 
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njg0MzQxOCwtNjI0ODg5NzQzLDE5OD
-A4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2NiwtNDAzNzIz
-MjM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTc1NzczNDgzLC02MjQ4ODk3NDMsMTk4MD
+gyMDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMy
+MzQsNzMwOTk4MTE2XX0=
 -->
