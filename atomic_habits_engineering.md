@@ -14,19 +14,24 @@ From here we'll have some fun taking the most powerful messages of the book and 
 **Atomic Habits**:  As aspirational our goals and commitment are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the moring before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
 
-**Tech Product**: 
-
-1) Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
+**Tech Product**:  Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
 
 In the user experience world, this applies to quality empty and error states.
 In the development and engineering world, this applies to high levels of site reliability engineering: resiliency, awareness and performance.
 
-###We often dismiss small changes because they don’t seem to matter very much in the moment
+## We often dismiss small changes because they don’t seem to matter very much in the moment
+
+**Atomic Habits**:  
+
+**Tech Product**:  : 
+- Toil: https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles
+- "We have more important issues".
+
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzMyNDA2MiwxODI3OTMwNTE1LC0xMz
+eyJoaXN0b3J5IjpbMTMwNTQ4NzY5NywxODI3OTMwNTE1LC0xMz
 g3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
 -->
