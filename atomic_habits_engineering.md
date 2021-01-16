@@ -29,12 +29,12 @@ In the development and engineering world, this applies to high levels of site re
 - "It may be better but we have more important issues"
 - "
 
-
+####
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDg4OTc0MywxOTgwODIwMTEyLDE4Mj
-c5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTMzMTMzNTksLTYyNDg4OTc0MywxOT
+gwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcy
+MzIzNCw3MzA5OTgxMTZdfQ==
 -->
