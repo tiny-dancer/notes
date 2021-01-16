@@ -35,13 +35,13 @@ This may be the most important one when applied in the technology world.  The pr
 
 ## Before we can effectively build new habits, we need to get a handle on our current ones
 
-This is important lesson in scope creep and prioritization.  Before a product adds new features we need to ensure the existing ones are working effectively.  If they are not, we could even consider r
+This is important lesson in scope creep and prioritization.  Before a product adds new features we need to ensure the existing ones are working effectively, this can include both user value/adoption and reliability .  If they are not being adopted, we could even consider removing them to lower the overall care and feeding "cost" prior to adding new features.  
 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU1NDIwNTAsLTYyNDg4OTc0MywxOT
+eyJoaXN0b3J5IjpbLTE5MDkyNzE3MDgsLTYyNDg4OTc0MywxOT
 gwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcy
 MzIzNCw3MzA5OTgxMTZdfQ==
 -->
