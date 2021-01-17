@@ -15,11 +15,12 @@ Goals are an end-result to changing our habits.  When we accomplish our goals wh
 **Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
 
-**Tech Product**:  
-Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
+**Tech Product**:  Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
 
 In the user experience world, this applies to quality empty and error states.
 In the development and engineering world, this applies to high levels of site reliability engineering: resiliency, awareness and performance.
+
+**You as a programmer**:  Applying this more personally, we all have aspirations as programmers: writing more tests, cleaner code, using more automation
 
 ## We often dismiss small changes because they don’t seem to matter very much in the moment
 
@@ -65,7 +66,7 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIzMTA4MzgsLTkzOTgxMTUyOCwtMj
+eyJoaXN0b3J5IjpbLTEyNjAzMjEyODQsLTkzOTgxMTUyOCwtMj
 E0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgy
 MDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMz
 QsNzMwOTk4MTE2XX0=
