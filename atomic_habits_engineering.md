@@ -10,7 +10,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 > In atomic habits, systems in the quote refers to our biologically developed *habitual systems*
 
-Goals, will-power, and aspiration are an end-result to changing our habits.  When we accomplish our goals what we have actually done is effectively changed our habits.  For example, if your goal is to lose 
+Goals are an end-result to changing our habits.  When we accomplish our goals what we have actually done is changed our habits for the better.  For example, if your goal is to lose 10 lbs.   
 
 **Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
@@ -64,7 +64,7 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzczMTMwMSwtMjE0Mzk2Nzk2MywyMT
+eyJoaXN0b3J5IjpbLTkzOTgxMTUyOCwtMjE0Mzk2Nzk2MywyMT
 M1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgyMDExMiwxODI3OTMw
 NTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX
 0=
