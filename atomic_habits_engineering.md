@@ -26,7 +26,7 @@ In the development and engineering world, this applies to high levels of site re
 - In using more automation for cloud resources, we can inject a habit to first review the code documentation (terraform or otherwise) before creating the resource. 
 - In writing cleaner code, inject a habit before every new work item spend 15 minutes consuming clean code and architecture content.  
 
-There absolutely is work to grow the skills required to perform these tasks and this does not belittle those efforts.  The important change here is the lens we use to approach the problem.   Analyze our own coding habits, how do we approach problems and what can we tweak to accomplish our goals?Alter _our habits_ to achieve the goals
+There absolutely is work to grow the skills required to perform these tasks and this does not belittle those efforts.  The important change here is the lens we use to approach the problem.   Analyze our own coding habits, how do we approach problems and what can we tweak that will reinforce behavior to accomplish our goals?  Alter _our habits_ to achieve the goals.
 
 ## We often dismiss small changes because they don’t seem to matter very much in the moment
 
@@ -72,8 +72,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjM0MjQxMiwtOTM5ODExNTI4LC0yMT
-QzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIw
-MTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNC
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzc1MDY5MDQsLTkzOTgxMTUyOCwtMj
+E0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgy
+MDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMz
+QsNzMwOTk4MTE2XX0=
 -->
