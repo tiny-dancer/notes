@@ -2,15 +2,15 @@
 
 Can you count how many layers there are now in software products?  3, 4, 10?  So many!   From our code, to third party libraries, to machine code, to cloud providers, to operating systems, to hardware there is no shortage of layers and complexities.  Us engineers maintaining production systems quickly appreciate diving into the layers identifying root causes for effective resolutions as opposed to playing whack a mole on symptom level issues.  James Clear brings this same attitude in Atomic Habits when it comes to hacking improvement patterns into our own biological systems by focusing on habit change.
 
-If you are as interested as I am in self improvement, I highly recommend grabbing the book and enjoying the ride.  Additionally Hidden Brain had a great episode on the topic (linked below. 
+> If you are as interested as I am in self improvement, I highly recommend grabbing the book and enjoying the ride.  Additionally Hidden Brain has a great episode on the topic (linked below). 
 
-From here we'll have some fun taking the most powerful messages of the book and applying them to the vast world of software engineering.
+From here we'll have some fun taking the most powerful messages of the book and applying them to the vast world of building software.
 
 ## You do not rise to the level of your goals.  You fall to the level of your systems
 
 > In atomic habits, systems in the quote refers to our biologically developed *habitual systems*
 
-**Atomic Habits**:  As aspirational our goals and commitment are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the moring before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
+**Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
 
 **Tech Product**:  Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
@@ -62,7 +62,7 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NzYwODgyLC0yMTQzOTY3OTYzLDIxMz
+eyJoaXN0b3J5IjpbNjU1MTI1MjAwLC0yMTQzOTY3OTYzLDIxMz
 U3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIwMTEyLDE4Mjc5MzA1
 MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNCw3MzA5OTgxMTZdfQ
 ==
