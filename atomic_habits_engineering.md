@@ -10,7 +10,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 > In atomic habits, systems in the quote refers to our biologically developed *habitual systems*
 
-This quote systems refers to our *habitual systems*.  Our habitual systems perform common tasks while we ourselves are often on auto-pilot.  For example, the abi while we Goals are an end-result to changing our habits.  When we accomplish our goals what we have actually done is changed our habits for the better.  For example, if your goal is to lose 10 lbs.   
+Have you ever found yourself driving only to realize you don't quite remember the last portion of the drive?   carried out a conversation with your co-pilot in the car while driving?  This quote systems refers to our *habitual systems*.  Our habitual systems perform common tasks while we ourselves are often on auto-pilot. while we Goals are an end-result to changing our habits.  When we accomplish our goals what we have actually done is changed our habits for the better.  For example, if your goal is to lose 10 lbs.   
 
 **Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
@@ -74,8 +74,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - "Hack" our own habitual system to introduce reinforcing behaviors to accomplish our goals
 -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxODY4NTAsLTM1Mzg2NTc1OCwtOTM5OD
-ExNTI4LC0yMTQzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4OTc0
-MywxOTgwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLT
-QwMzcyMzIzNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgzNzgzMDc2OCwtMzUzODY1NzU4LC05Mz
+k4MTE1MjgsLTIxNDM5Njc5NjMsMjEzNTc5NTQyNSwtNjI0ODg5
+NzQzLDE5ODA4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2Ni
+wtNDAzNzIzMjM0LDczMDk5ODExNl19
 -->
