@@ -1,6 +1,6 @@
 # Atomic Habits in Building Software
 
-Can you count how many layers there are now in software products?  3, 4, 10?  So many!   From our code, to open source code, to machine code, to cloud providers, to operating systems, to hardware there is no shortage of layers and complexities.  Us fearless engineers maintaining these production systems quickly , code divers quickly learn to appreciate identifying the root cause of an issue to effectively move forward, avoiding the swirl of symptom solving.  James Clear brings this same attitude in Atomic Habits when it comes to hacking biological systems, yourself.
+Can you count how many layers there are now in software products?  3, 4, 10?  So many!   From our code, to open source code, to machine code, to cloud providers, to operating systems, to hardware there is no shortage of layers and complexities.  Us engineers maintaining production software systems quickly appreciate identifying the root causes for effective resolutions, avoiding the swirl of symptom solving.  James Clear brings this same attitude in Atomic Habits when it comes to hacking biological systems, yourself.
 
 If you are as interested as I am in self improvement, I highly recommend grabbing the book and enjoying the ride.  Additionally Hidden Brain had a great episode on the topic (linked below. 
 
@@ -62,8 +62,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMzMTQ0NjgsLTIxNDM5Njc5NjMsMj
-EzNTc5NTQyNSwtNjI0ODg5NzQzLDE5ODA4MjAxMTIsMTgyNzkz
-MDUxNSwtMTM4NzYwOTY2NiwtNDAzNzIzMjM0LDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbMjU1NTU4NjQ4LC0yMTQzOTY3OTYzLDIxMz
+U3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIwMTEyLDE4Mjc5MzA1
+MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNCw3MzA5OTgxMTZdfQ
+==
 -->
