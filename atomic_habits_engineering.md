@@ -8,8 +8,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 ## You do not rise to the level of your goals.  You fall to the level of your systems
 
-> In atomic habits, systems in the quote refers to our biologically developed *habitual systems*
-
 Have you ever found yourself driving only to realize you don't quite remember the last portion of the drive?  This is our *habitual systems* in action, autonomously performing tasks that we have repeated and built up over the years.  When we accomplish our goals what we have actually done is changed our habits for the better.
 
 **Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
@@ -74,8 +72,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - "Hack" our own habitual system to introduce reinforcing behaviors to accomplish our goals
 -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNDEyNjYyLC0zNTM4NjU3NTgsLTkzOT
-gxMTUyOCwtMjE0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3
-NDMsMTk4MDgyMDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC
-00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1ODg4ODYwMjEsLTM1Mzg2NTc1OCwtOT
+M5ODExNTI4LC0yMTQzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4
+OTc0MywxOTgwODIwMTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2Nj
+YsLTQwMzcyMzIzNCw3MzA5OTgxMTZdfQ==
 -->
