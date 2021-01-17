@@ -4,7 +4,7 @@ Can you count how many layers there are now in software products?  3, 4, 10?  So
 
 > If you are as interested as I am in self improvement, I highly recommend grabbing the book and enjoying the ride.  Additionally Hidden Brain has a great episode on the topic (linked below). 
 
-From here we'll have some fun taking the most powerful messages of the book and applying them to the vast world of building software.
+From here we'll have some fun taking the most powerful messages of the book and applying them to the vast world of and software engineering and providing value through software.
 
 ## You do not rise to the level of your goals.  You fall to the level of your systems
 
@@ -13,7 +13,6 @@ From here we'll have some fun taking the most powerful messages of the book and 
 Goals are an end-result to changing our habits.  When we accomplish our goals what we have actually done is changed our habits for the better.  For example, if your goal is to lose 10 lbs.   
 
 **Atomic Habits**:  As aspirational as our goals and commitments are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
-
 
 **Tech Product**:  Your system is as strong as your weakest link.   Our product does not rise to the level of our incredible features (goals) but will fall to the level of our system (our defects and site reliability).  It is imperative that we maintain a high level quality.  Sales goals, marketing goals, product goals, engineering goals, and even our features are all irrelevant to the user experiencing an issue here and now. 
 
@@ -75,8 +74,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - "Hack" our own habitual system to introduce reinforcing behaviors to accomplish our goals
 -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU3MDU3NDYsLTkzOTgxMTUyOCwtMj
-E0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgy
-MDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMz
-QsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM1Mzg2NTc1OCwtOTM5ODExNTI4LC0yMT
+QzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIw
+MTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNC
+w3MzA5OTgxMTZdfQ==
 -->
