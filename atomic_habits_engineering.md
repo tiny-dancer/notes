@@ -71,9 +71,12 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Atomic Habits](https://www.amazon.com/gp/product/0735211299)
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
+
+- "Hack" our own habitual system to introduce reinforncing behaviors to accomplish our goals
+-   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc1MDY5MDQsLTkzOTgxMTUyOCwtMj
-E0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgy
-MDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMz
-QsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMDgxNjY4NSwtOTM5ODExNTI4LC0yMT
+QzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIw
+MTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNC
+w3MzA5OTgxMTZdfQ==
 -->
