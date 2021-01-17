@@ -8,7 +8,7 @@ From here we'll have some fun taking the most powerful messages of the book and 
 
 ## You do not rise to the level of your goals.  You fall to the level of your systems
 
-Have you ever found yourself driving only to realize you don't quite remember the last portion of the drive?  This is our *habitual systems* in action, autonomously performing tasks that we have repeated and built up over the years.  When we accomplish our goals what we have actually done is changed our habits for the better.  When we accomplish our goals with admirable will power what we have actually done is successfully and often unknowingly,  modified our habitual systems. Why not then focus our will-power directly on the habit
+Have you ever found yourself driving only to realize you don't quite remember the last portion of the drive?  This is our *habitual systems* in action, autonomously performing tasks that we have repeated and built up over the years.  When we accomplish our goals what we have actually done is changed our habits for the better.  <cut>When we accomplish our goals with admirable will power what we have actually done is successfully and often unknowingly,  modified our habitual systems.</cut> Why not then focus our will-power directly on the habit
 
 **Atomic Habits**:  As aspirational as our goals and will-power are,  research has shown what truly drives change is our habits.  Habits developed incrementally over time are performed on auto-pilot, therefore inevitably as our resolve deteriorates, our habits kicked in.  The optimized route for introducing effective change into our life therefore is to introduce change into our habitual system.  For example, focus your primary attention on exercising 15 minutes in the morning before coffee _instead_ of focusing on a goal to lose to "20 lbs".  Drive change in your habitual system to fulfill your goals. 
 
@@ -72,8 +72,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - "Hack" our own habitual system to introduce reinforcing behaviors to accomplish our goals
 -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE0ODA3NSwtMzUzODY1NzU4LC05Mz
-k4MTE1MjgsLTIxNDM5Njc5NjMsMjEzNTc5NTQyNSwtNjI0ODg5
-NzQzLDE5ODA4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2Ni
-wtNDAzNzIzMjM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM3MDk0Nzg2MCwxODMyMTQ4MDc1LC0zNT
+M4NjU3NTgsLTkzOTgxMTUyOCwtMjE0Mzk2Nzk2MywyMTM1Nzk1
+NDI1LC02MjQ4ODk3NDMsMTk4MDgyMDExMiwxODI3OTMwNTE1LC
+0xMzg3NjA5NjY2LC00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
 -->
