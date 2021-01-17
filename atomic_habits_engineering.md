@@ -1,6 +1,6 @@
 # Atomic Habits in Building Software
 
-Can you count how many layers there are now in software products?  3, 4, 10?  So many!   From our code, to third party libraries, to machine code, to cloud providers, to operating systems, to hardware there is no shortage of layers and complexities.  Us engineers maintaining production systems quickly appreciate diving into the layers identifying root causes for effective resolutions as opposed to playing whack a mole on symptom level issues.  This is why I love James Clear's Atomic Habits, he identifies the root cause when it comes to hacking improvement patterns into our own biological systems by focusing on habit change.
+Can you count how many layers there are now in software products?  3, 4, 10?  So many!   From our code, to third party libraries, to machine code, to cloud providers, to operating systems, to hardware there is no shortage of layers and complexities.  Us engineers maintaining production systems quickly appreciate diving into the layers identifying root causes for effective resolutions as opposed to playing whack a mole on symptom level issues.  This is why I love James Clear's Atomic Habits, he identifies the root cause when it comes to hacking improvement patterns into our own biological systems by focusing first on habit change.
 
 > If you are as interested as I am in self improvement, I highly recommend grabbing the book and enjoying the ride.  Additionally Hidden Brain has a great episode on the topic (linked below). 
 
@@ -74,8 +74,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - "Hack" our own habitual system to introduce reinforcing behaviors to accomplish our goals
 -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzYxMjIxMywtMzUzODY1NzU4LC05Mz
-k4MTE1MjgsLTIxNDM5Njc5NjMsMjEzNTc5NTQyNSwtNjI0ODg5
-NzQzLDE5ODA4MjAxMTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2Ni
-wtNDAzNzIzMjM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjMyMTg2NjYxLC0zNTM4NjU3NTgsLTkzOT
+gxMTUyOCwtMjE0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3
+NDMsMTk4MDgyMDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC
+00MDM3MjMyMzQsNzMwOTk4MTE2XX0=
 -->
