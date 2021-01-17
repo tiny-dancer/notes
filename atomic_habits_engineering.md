@@ -20,7 +20,7 @@ Goals are an end-result to changing our habits.  When we accomplish our goals wh
 In the user experience world, this applies to quality empty and error states.
 In the development and engineering world, this applies to high levels of site reliability engineering: resiliency, awareness and performance.
 
-**You as a programmer**:  Applying this more personally, we all have aspirations as programmers: writing more tests, cleaner code, using more automation and many more.  Approaching this from a habits perspective let's train our autonomous habitual system to help us.  In writing more tests, we can inject a habit of writing a test for ever defect we fix, the test is first failing and the passes after we modify the code, validating the bug fix.  In using more automation for cloud resources, we can inject a habit to first review the code documentation (terraform or otherwise) before creating the resource.  In writing cleaner code, before every new work item spend   
+**You as a programmer**:  Applying this more personally, we all have aspirations as programmers: writing more tests, cleaner code, using more automation and many more.  Approaching this from a habits perspective let's train our autonomous habitual system to help us.  In writing more tests, we can inject a habit of writing a test for ever defect we fix, the test is first failing and the passes after we modify the code, validating the bug fix.  In using more automation for cloud resources, we can inject a habit to first review the code documentation (terraform or otherwise) before creating the resource.  In writing cleaner code, inject a habit before every new work item spend 15 minutes consuming clean code and architecture content.  There absolutely is still work to grow the skills to do these tasks however the important change is the 
 
 ## We often dismiss small changes because they don’t seem to matter very much in the moment
 
@@ -66,8 +66,8 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxNjEyNjIsLTkzOTgxMTUyOCwtMj
-E0Mzk2Nzk2MywyMTM1Nzk1NDI1LC02MjQ4ODk3NDMsMTk4MDgy
-MDExMiwxODI3OTMwNTE1LC0xMzg3NjA5NjY2LC00MDM3MjMyMz
-QsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk2NzcwODA2LC05Mzk4MTE1MjgsLTIxND
+M5Njc5NjMsMjEzNTc5NTQyNSwtNjI0ODg5NzQzLDE5ODA4MjAx
+MTIsMTgyNzkzMDUxNSwtMTM4NzYwOTY2NiwtNDAzNzIzMjM0LD
+czMDk5ODExNl19
 -->
