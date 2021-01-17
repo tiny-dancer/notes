@@ -20,7 +20,7 @@ Goals are an end-result to changing our habits.  When we accomplish our goals wh
 In the user experience world, this applies to quality empty and error states.
 In the development and engineering world, this applies to high levels of site reliability engineering: resiliency, awareness and performance.
 
-**You as a programmer**:  Applying this more personally, we all have aspirations as programmers: writing more tests, cleaner code, using more automation and many more.  Approaching this from a habits perspective let's train our autonomous habitual system to 
+**You as a programmer**:  Applying this more personally, we all have aspirations as programmers: writing more tests, cleaner code, using more automation and many more.  Approaching this from a habits perspective let's train our autonomous habitual system to help us.  In writing more tests, we can inject a habit of writing a test reproudFor example in writing more tests,  
 
 ## We often dismiss small changes because they don’t seem to matter very much in the moment
 
@@ -66,7 +66,7 @@ Be aware of the long term ramifications of quick wins.  They may prove valuable 
 - [Hidden Brain: Creatures of Habit](https://hiddenbrain.org/podcast/creatures-of-habit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTEzODM4MCwtOTM5ODExNTI4LC0yMT
+eyJoaXN0b3J5IjpbLTM0NTIxOTQ5NSwtOTM5ODExNTI4LC0yMT
 QzOTY3OTYzLDIxMzU3OTU0MjUsLTYyNDg4OTc0MywxOTgwODIw
 MTEyLDE4Mjc5MzA1MTUsLTEzODc2MDk2NjYsLTQwMzcyMzIzNC
 w3MzA5OTgxMTZdfQ==
