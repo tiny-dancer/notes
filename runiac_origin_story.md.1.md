@@ -36,7 +36,11 @@ Runiac solves this in two ways.
 
 ### Changes are easily and reliably test changes from a local environment
 
-Between *runners* and *steps*, Runiac has solved the ability to easily and reliably test changes from a local environment.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in the knowing for certain the end result configuration will be the same.
+- **Containerized**: To ensure complete reliability between a local environment and any other potential execution environment, runiac executes the s
+
+Between *runners* and *steps*, Runiac has solved the ability to easily and reliably test changes from a local environment.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in their local flows.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc2NjMwMzAsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTA1NzMxMDI3NywtOTk5NTExNjc4XX0=
 -->
