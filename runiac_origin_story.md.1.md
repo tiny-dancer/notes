@@ -31,9 +31,9 @@ We like to think of it as what expo did for react native, runiac is doing for te
 
 Runiac solves this in two ways.
 
-1) **Runners**:  Runiac 
-2) **Steps**:  Runiac features folder convention to define 
+1) **Runners**:  Runiac executes the specific iac tool on behalf of the caller,  this enables every 
+2) **Steps**:  Runiac features a folder convention to declaratively define how iac is executed.   This includes the ability to have runiac execute across multiple regions or execute workflows.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxOTQxNDEwLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNjYyNTIxNzUsLTk5OTUxMTY3OF19
 -->
