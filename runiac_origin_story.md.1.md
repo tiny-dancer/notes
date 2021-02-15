@@ -40,7 +40,9 @@ Runiac solves this in two ways.
 
 Between *runners*, *steps* and being *containerized*.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in their local flows.
 
+## The Impact
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU2MDc3MDYsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
