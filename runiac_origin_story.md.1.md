@@ -9,7 +9,9 @@
 
 ## Starting fresh: Runiac
 
-Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence hTaking a fresh Starting fresh we realized we needed to eliminate 
+Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence that will last for many years to come.  We approached our delivery needs with a fresh look.  The resulting mission, create an environment where:
+
+- No pipeline changes are required Taking a fresh Starting fresh we realized we needed to eliminate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDczNTUwOF19
+eyJoaXN0b3J5IjpbMjcwNjc5MDI5XX0=
 -->
