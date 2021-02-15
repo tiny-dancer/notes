@@ -38,9 +38,9 @@ Runiac solves this in two ways.
 
 - **Containerized**: Runiac ensures reliability between between any environment the project is executed, including local, by executing the *steps* and *runners* in a container.  
 
-Between *runners* and *steps*, Runiac has solved the ability to easily and reliably test changes from a local environment.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in their local flows.
+Between *runners*, *steps* and being *containerized*.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in their local flows.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjQ3MzkxMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTE4MTU2MDc3MDYsLTk5OTUxMTY3OF19
 -->
