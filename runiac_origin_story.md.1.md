@@ -3,7 +3,7 @@
 TL/DR
 
 - We thought we were awesome and codified everything and ran it through jenkins with pipeline as code.
-- We were not awesome, making changes took forever as we had to use the pipeline to test each change.
+- We were not awesome, making changes and improving things took forever as we had to use the pipeline to test each change. 
 
 ## How it began (we're on the right path)
 
@@ -49,6 +49,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3Mzk4OTQsLTE4MDE3NTMwMDMsLTk5OT
-UxMTY3OF19
+eyJoaXN0b3J5IjpbLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOT
+k5NTExNjc4XX0=
 -->
