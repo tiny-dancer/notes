@@ -7,11 +7,12 @@
 ## What really happened (
 
 
-## Starting fresh: Runiac
+## A fres
 
 Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence that will last for many years to come.  We approached our delivery needs with a fresh look.  The resulting mission, create an environment where:
 
-- No pipeline changes are required Taking a fresh Starting fresh we realized we needed to eliminate 
+- No pipeline code needed [after initial creation]
+- An easy to use, meaningful local development environment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjc5MDI5XX0=
+eyJoaXN0b3J5IjpbLTE4NzA4MDg4MTldfQ==
 -->
