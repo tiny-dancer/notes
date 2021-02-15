@@ -29,8 +29,11 @@ We like to think of it as what expo did for react native, runiac is doing for te
 
 ### No pipeline code necessary
 
-Runiac solves this by using a declarative folder structure to define 
+Runiac solves this in two ways.
+
+1) **Runners**:  Runiac 
+2) **Steps**:  Runiac features folder convention to define 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA5MjkyMTcsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbNzMxOTQxNDEwLC05OTk1MTE2NzhdfQ==
 -->
