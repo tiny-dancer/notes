@@ -6,7 +6,9 @@
 
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature CI/CD team and put all our marbles in the delivery pipeline.  We had 100% fully automated deployments derived from a single artifact for each environment.  Changes were validated in a p
+We did all the things expected of a highly mature CI/CD team and put all our marbles in the delivery pipeline.  We had 100% fully automated deployments derived from a single artifact for each environment.  Changes were validated in a pull request pipeline in a live environment specific to the pull request.
+
+We could barely make progress.  We were drowning in pipeline wait times and changes.  Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) to add new features than terraform code.
 
 ## A Fresh Look
 
@@ -19,5 +21,5 @@ Appreciating we were building the foundation of a fortunate 6 healthcare company
 
 From this mission, runiac was born.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5OTQ0MjM5LC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbNzUxODA0ODE4LC05OTk1MTE2NzhdfQ==
 -->
