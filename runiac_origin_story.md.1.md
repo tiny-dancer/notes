@@ -7,12 +7,16 @@
 ## What really happened (
 
 
-## A fres
+## A Fresh Look
 
 Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence that will last for many years to come.  We approached our delivery needs with a fresh look.  The resulting mission, create an environment where:
 
 - No pipeline code needed [after initial creation]
 - An easy to use, meaningful local development environment
+
+## Runiac
+
+From this mission, runiac was born.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA4MDg4MTldfQ==
+eyJoaXN0b3J5IjpbLTk5OTUxMTY3OF19
 -->
