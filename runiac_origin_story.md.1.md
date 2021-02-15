@@ -31,9 +31,12 @@ We like to think of it as what expo did for react native, runiac is doing for te
 
 Runiac solves this in two ways.
 
-1) **Runners**:  Runiac executes the specific iac tool on behalf of the caller,  this enables every 
+1) **Runners**:  Runiac executes the specific iac tool on behalf of the caller,  this enables every execution of every project of every supported tool to use the same `runiac deploy` command. 
 2) **Steps**:  Runiac features a folder convention to declaratively define how iac is executed.   This includes the ability to have runiac execute across multiple regions or execute workflows.
 
+### Changes are easily and reliably tested from a local environment
+
+Between *runners* and *steps*, Runiac has solved the ability 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYyNTIxNzUsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTQxNTkzNjA5NCwtOTk5NTExNjc4XX0=
 -->
