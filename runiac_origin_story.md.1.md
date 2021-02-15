@@ -42,7 +42,8 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 ## The Impact
 
-
+Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTEzMjczOTY4MywtMTgwMTc1MzAwMywtOT
+k5NTExNjc4XX0=
 -->
