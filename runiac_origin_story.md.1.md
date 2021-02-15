@@ -16,14 +16,14 @@ We were drowning in our pipeline, the very thing meant to enable us to move fast
 
 ## A Fresh Look
 
-Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence that will last for many years to come.  We approached our delivery needs with a fresh look.  The resulting mission was to rewire our development practices to create an environment where:
+Appreciating we were building the foundation of a fortunate 6 healthcare company's public cloud presence that will last for many years to come.  We approached our delivery needs with a fresh look.  The resulting mission was to rewire our practices to create a development environment where:
 
-- No pipeline code needed [after initial creation]
-- An easy to use, meaningful local development environment
+- No pipeline code necessary to add new features
+- Changes can be easily and reliably tested from a local environment
 
 ## Runiac
 
-From this mission, runiac was born.  
+Enter runiac.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTYxNTE4NCwtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbMzUwNTU4OTYyLC05OTk1MTE2NzhdfQ==
 -->
