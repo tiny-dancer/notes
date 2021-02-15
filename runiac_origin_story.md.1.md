@@ -36,11 +36,11 @@ Runiac solves this in two ways.
 
 ### Changes are easily and reliably test changes from a local environment
 
-- **Containerized**: To ensure complete reliability between a local environment and any other potential execution environment, runiac executes the s
+- **Containerized**: Runiac ensures reliability between between any environment the project is executed, including local, by executing the *steps* and *runners* in a container.  
 
 Between *runners* and *steps*, Runiac has solved the ability to easily and reliably test changes from a local environment.  Developers can now use the same `runiac deploy` command as the pipeline to iterate on changes locally without worrying if they are missing any specific pipeline magic in their local flows.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzMxMDI3NywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTg0NjQ3MzkxMywtOTk5NTExNjc4XX0=
 -->
