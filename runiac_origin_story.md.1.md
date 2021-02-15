@@ -6,7 +6,7 @@
 
 ## What happened (we can see the road but can't find it)
 
-
+We did all the things expected of a highly mature CI/CD team and put all our marbles in the delivery pipeline.  We had 100% fully automated deployments derived from a single artifact for each environment.  Changes were validated in a p
 
 ## A Fresh Look
 
@@ -19,5 +19,5 @@ Appreciating we were building the foundation of a fortunate 6 healthcare company
 
 From this mission, runiac was born.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MDI0ODQ2LC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbMzg5OTQ0MjM5LC05OTk1MTE2NzhdfQ==
 -->
