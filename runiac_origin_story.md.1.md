@@ -23,7 +23,9 @@ Appreciating we were building the foundation of a fortunate 6 healthcare company
 
 ## Runiac
 
-Enter runiac.  
+Runiac was born to improve the experience developing and deploying infrastructure as code.
+
+We like to think of it as what ex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNTU4OTYyLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbNTE2MzEwMzI0LC05OTk1MTE2NzhdfQ==
 -->
