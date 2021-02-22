@@ -27,7 +27,7 @@ We did all the things expected of a highly mature platform engineering team. Eve
 
 We could barely make progress.  
 
-Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) adding new features than terraform code.  On top of that, testing a change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was not a popular option.
+Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Based on those numbers, a developer working on a work item during the would get no more than 5 chanDeploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was not a popular option.
 
 We were drowning in our delivery pipeline, the very thing meant to enable us to move fast and innovate.  
 
@@ -63,6 +63,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MD
-E3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE3ODI0NTkxOTIsNzMyODA5ODQyLC03Nz
+c3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
