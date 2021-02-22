@@ -5,7 +5,7 @@ TL/DR
 - We thought we were awesome and codified everything and ran it through jenkins with pipeline as code.
 - We were not awesome, making changes and improving things took forever as we had to use and add to the pipeline for each change. 
 - New mission to *Focus on value code* and *Faster feedback on changes*
-- Process changes to enable *No pipeline code* and _local development matching prod_
+- Process changes to enable *No pipeline code* and _developer (local) prod-like environments_
 - Runiac born
 - :rocket:
 
@@ -94,7 +94,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTg3Mzc3Miw0ODMyOTA2NDAsNjc2Nz
+eyJoaXN0b3J5IjpbLTg2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2Nz
 kxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAz
 LC05OTk1MTE2NzhdfQ==
 -->
