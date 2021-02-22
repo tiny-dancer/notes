@@ -5,6 +5,10 @@ TL/DR
 - We thought we were awesome and codified everything and ran it through jenkins with pipeline as code.
 - We were not awesome, making changes and improving things took forever as we had to use the pipeline to test each change. 
 
+## The Challenge
+
+Maintaining a secure public cloud while enabling developers 
+
 ## How it began (we're on the right path)
 
 - The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
@@ -55,6 +59,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjU1MDA4NCwtNzc3NzAzMjA5LC0xOD
+eyJoaXN0b3J5IjpbMTk3NjI0NjE2OSwtNzc3NzAzMjA5LC0xOD
 AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
