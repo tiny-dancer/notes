@@ -62,8 +62,9 @@ To solve the problem we decided to use two incredibly common tools:
 
 1) To avoid writing pipeline could, we would fully embrace the declarative spirit and declare order of options between terraform projects using folders.
 
-2) To ensure the local and pipeline deployments were always 100% in-sync using the same deployment logic, we would leverage a docker container to execute our terr
+2) To ensure the local and pipeline deployments were always 100% in-sync using the same deployment logic, we would leverage a docker container to execute our deployments and run terraform.
 
+Enter...
 
 ## Runiac
 
@@ -90,7 +91,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1ODAxMzkxLDY3Njc5MTM1Myw3MzI4MD
+eyJoaXN0b3J5IjpbNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MD
 k4NDIsLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4
 XX0=
 -->
