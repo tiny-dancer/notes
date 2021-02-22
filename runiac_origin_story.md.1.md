@@ -55,11 +55,12 @@ We were wary of developing any custom tools and were hopeful to leverage existin
 
 > Terragrunt is a fantastic tool by a fantastic organization but similar to terraform, still relied on implementing specific logic to run it
 
-To solve the problem we decided to use two incredibly common tools in the toolchest:
+To solve the problem we decided to use two incredibly common tools:
 
-1. Folders
-2. 
+1. Folders (yes, you read this wright)
+2. Containers
 
+To avoid writing pipeline could, we would fully embrace the declarative sprit define any order of options declaratively using a folders.
 ## Runiac
 
 Runiac was born to improve the experience developing and deploying infrastructure as code.
@@ -85,7 +86,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyODc0ODksNjc2NzkxMzUzLDczMjgwOT
-g0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2Nzhd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMDQxNjEyMjcsNjc2NzkxMzUzLDczMj
+gwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2
+NzhdfQ==
 -->
