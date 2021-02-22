@@ -15,7 +15,7 @@ We did all the things expected of a highly mature CI/CD team.  We had 100% fully
 
 We could barely make progress.  
 
-Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) to add new features than terraform code.  On top of that, testing a change would take ~30 minutes to wait for a pull request pipeline commit to finish its verification.  As our deployment logic was so heavily tied to our pipeline, it we leveraged the pull request pipeline to test in flight changes - each verification of a change took 30-45 minutes.
+Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) to add new features than terraform code.  On top of that, testing a change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Deploying the code from our local environments was not an easy task based on how heavily Our deployment logic was heavily tied to our pipeline,  we were  leveraged the pull request pipeline to test in flight changes - each verification of a change took 30-45 minutes.
 
 We were drowning in our pipeline, the very thing meant to enable us to move fast and innovate.  
 
@@ -51,6 +51,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTI0MjAyMSwtNzc3NzAzMjA5LC0xOD
+eyJoaXN0b3J5IjpbLTMwNjczMDY2NCwtNzc3NzAzMjA5LC0xOD
 AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
