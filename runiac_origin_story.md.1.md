@@ -68,7 +68,6 @@ Enter...
 
 ## Runiac
 
-Runiac was born to improve the experience developing and deploying infrastructure as code.
 
 We like to think of it as what expo did for react native and what webpack did for front end, runiac is doing for terraform, arm templates, and other iac.
 
@@ -91,7 +90,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MD
-k4NDIsLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4
-XX0=
+eyJoaXN0b3J5IjpbMjA3NjgyMzk3MSw0ODMyOTA2NDAsNjc2Nz
+kxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAz
+LC05OTk1MTE2NzhdfQ==
 -->
