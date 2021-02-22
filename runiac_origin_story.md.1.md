@@ -29,9 +29,11 @@ We could barely make progress.
 
 Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Based on those numbers, a developer working on a work item during the would get no more than 5 chances to verify what they were working on before hitting near to 3 hours of pipeline wait time.  3 hours of waiting each day.  Those who work with terraform know the power of guess and check, the faster we can validate changes the better.
 
-I assure you stating this so consincsely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than I would like to admit to determine o out more time was spent waiting during the day
-
 Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was not a popular option.
+
+I assure you stating this so consincsely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than I would like to admit to determine our "advanced" process was causing engineers to spend an eerily similar amount of time between developing and waiting.
+
+
 
 We were drowning in our delivery pipeline, the very thing meant to enable us to move fast and innovate.  
 
@@ -67,6 +69,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxNDE2OTcsNzMyODA5ODQyLC03Nz
-c3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTQ0NTI1OTYzNCw3MzI4MDk4NDIsLTc3Nz
+cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
