@@ -37,10 +37,10 @@ We were drowning in our delivery pipeline, the very thing meant to enable us to 
 
 ## A Fresh Look
 
-Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions in our development and delivery process:
+Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
 
-- No pipeline code necessary to add new features
-- Changes can be easily and reliably tested from a local environment
+- **_No pipeline code_** necessary to add new features
+- Changes can be easily and reliably tested from a **_local environment_**
 
 ## Runiac
 
@@ -67,6 +67,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzU3NjAyMyw3MzI4MDk4NDIsLTc3Nz
-cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbOTg3NDkyOTc5LDczMjgwOTg0MiwtNzc3Nz
+AzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
