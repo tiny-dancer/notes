@@ -53,8 +53,7 @@ This led to two focus points for our updated process:
 
 We were wary of developing any custom tools and were hopeful to leverage existing.  Surprisingly, we did not find a solution that targeted these two items specifically.
 
-> Terragrunt is a fantastic tool by a fantastic organization but it d 
-
+> Terragrunt is a fantastic tool by a fantastic organization but similar to terraform, still relied on implementing specific deployment logic 
 
 ## Runiac
 
@@ -81,7 +80,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDkyMjM3OCw2NzY3OTEzNTMsNzMyOD
-A5ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3
-OF19
+eyJoaXN0b3J5IjpbLTE3MTEzMTY0NzcsNjc2NzkxMzUzLDczMj
+gwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2
+NzhdfQ==
 -->
