@@ -11,7 +11,7 @@ TL/DR
 
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that progressed a single artifact through a continuous delivery pipeline deploying to each environment.  Changes were deployed and validated in a pull request pipeline in a live environment specific to that pull request.
+We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request for validating changes.  
 
 We could barely make progress.  
 
@@ -51,6 +51,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU0MzA3OTAsLTc3NzcwMzIwOSwtMT
-gwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbMTgzMTI0MjAyMSwtNzc3NzAzMjA5LC0xOD
+AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
