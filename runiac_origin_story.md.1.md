@@ -41,9 +41,11 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 
 - *Focus on value code*:   Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastructure platform team, is the infrastructure.    Our code base was roughly ~45% groovy,bash (jenkins) and 55% terraform (iac).  The churn between them was scaringly similar as well. Meaning we spent close to the same amount of time on the "means to end" pipeline as the valuable infrastructure code.  We needed to ensure we spent as much time as possible on infrastructure code.
 
-> To clarify, pipelines are **hugely** important to the success of a product.  The key is ensuring the pipeline works for you over time and you don't work for the pipeline.  We were spending too much time on pipeline code.
+> Pipelines are **hugely** important, if not the most important item, to the success of a product.  The key is ensuring the pipeline works for you over time and you don't work for the pipeline.  We were spending too much time on pipeline code, never receiving the time benefits of the pipeline doing the heavily lifting for us.
 
 - *Faster feedback on changes*:  The faster a developer receives feedback on there change, the more changes they can test, the more changes they can test the more they can develop and with a high quality.   Waiting 30-60 minutes for feedback on if your change worked or not was a huge inhibitor to developing quality products efficiently.  One would 
+
+> 
 
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
@@ -75,6 +77,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODQyMzYwMyw3MzI4MDk4NDIsLTc3Nz
-cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3Nz
+AzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
