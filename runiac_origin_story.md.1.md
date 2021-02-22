@@ -32,6 +32,8 @@ Runiac was born to improve the experience developing and deploying infrastructur
 
 We like to think of it as what expo did for react native and what webpack did for front end, runiac is doing for terraform, arm templates, and other iac.
 
+One command, one workflow, any tool.  Currently supporting Terraform and arm templates
+
 ### No pipeline code necessary
 
 Runiac solves this in two ways.
@@ -49,6 +51,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2NTY1MjUsLTc3NzcwMzIwOSwtMT
-gwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbMTEwNjE4MjgzNiwtNzc3NzAzMjA5LC0xOD
+AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
