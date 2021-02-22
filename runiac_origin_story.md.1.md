@@ -9,13 +9,15 @@ TL/DR
 
 - The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
+I and other 
+
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  Additionally as part of this pull request pipeline, we would pre-bake the PR environment to match production, therefore each merged pull request was proven 
+We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  Additionally as part of this pull request pipeline, we would pre-bake the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to a prod matching environment.
 
 We could barely make progress.  
 
-Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) to add new features than terraform code.  On top of that, testing a change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was not a popular option.
+Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) adding new features than terraform code.  On top of that, testing a change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was not a popular option.
 
 We were drowning in our delivery pipeline, the very thing meant to enable us to move fast and innovate.  
 
@@ -51,6 +53,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDM0MTQ1MiwtNzc3NzAzMjA5LC0xOD
-AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbMjk4MjQ5NTMyLC03Nzc3MDMyMDksLTE4MD
+E3NTMwMDMsLTk5OTUxMTY3OF19
 -->
