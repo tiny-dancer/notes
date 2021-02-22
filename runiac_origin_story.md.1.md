@@ -29,7 +29,7 @@ We could barely make progress.
 
 Our code was so intertwined with our pipeline that we were spending more time writing groovy code (jenkins pipeline) adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Based on those numbers, a developer working on a work item during the would get no more than 5 chances to verify what they were working on before hitting near to 3 hours of pipeline wait time.  3 hours of waiting each day.  Those who work with terraform know the power of guess and check, the faster we can validate changes the better.
 
-I assure you stating this so consincsely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than I would like to admit to determine our "advanced" process was causing engineers to spend an eerily similar amount of time between developing and waiting.
+I assure you stating this so concisely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than I would like to admit to determine our "advanced" process was causing engineers to spend an eerily similar amount of time between developing and waiting.
 
 Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was labeled as a 'nice to have' and not a popular option.
 
@@ -45,7 +45,7 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 
 - *Faster feedback on changes*:  The faster a developer receives feedback on there change, the more changes they can test, the more changes they can test the more they can develop and with a high quality.   Waiting 30-60 minutes for feedback on if your change worked or not was a huge inhibitor to developing quality products efficiently.  One would 
 
-> 
+> To clarify, A change in this context could be a simple as a single line change in the code.  Any individual code level change that is ready to be verified.   It is common 
 
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
@@ -77,6 +77,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3Nz
-AzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbLTY4NDY2ODg0OSw2NzY3OTEzNTMsNzMyOD
+A5ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3
+OF19
 -->
