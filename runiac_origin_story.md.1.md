@@ -45,12 +45,14 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 
 - *Faster feedback on changes*:  The faster a developer receives feedback on there change, the more changes they can test, the more changes they can test the more they can develop and with a high quality.   Waiting 30-60 minutes for feedback on if your change worked or not was a huge inhibitor to developing quality products efficiently.  One would 
 
-> To clarify, A change in this context could be a simple as a single line change in the code.  Any individual code level change that is ready to be verified.   It is common 
+> To clarify, A change in this context could be a simple as a single line change in the code.  Any individual code level change that is ready to be verified.   It is common to make hundreds of these micro change + test feedback loops a day when developing.
 
+This led to two focus points for our updated process:
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
 
-We knew we had to find a way to avoid writing pipeline code when adding new infrastructure, this would eli
+
+
 
 ## Runiac
 
@@ -77,7 +79,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDY2ODg0OSw2NzY3OTEzNTMsNzMyOD
+eyJoaXN0b3J5IjpbMTc2OTIyOTg0Niw2NzY3OTEzNTMsNzMyOD
 A5ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3
 OF19
 -->
