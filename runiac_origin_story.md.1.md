@@ -53,7 +53,12 @@ This led to two focus points for our updated process:
 
 We were wary of developing any custom tools and were hopeful to leverage existing.  Surprisingly, we did not find a solution that targeted these two items specifically.
 
-> Terragrunt is a fantastic tool by a fantastic organization but similar to terraform, still relied on implementing specific deployment logic 
+> Terragrunt is a fantastic tool by a fantastic organization but similar to terraform, still relied on implementing specific logic to run it
+
+To solve the problem we decided to use two incredibly common tools in the toolchest:
+
+1. Folders
+2. 
 
 ## Runiac
 
@@ -80,7 +85,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEzMTY0NzcsNjc2NzkxMzUzLDczMj
-gwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2
-NzhdfQ==
+eyJoaXN0b3J5IjpbMjcyODc0ODksNjc2NzkxMzUzLDczMjgwOT
+g0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2Nzhd
+fQ==
 -->
