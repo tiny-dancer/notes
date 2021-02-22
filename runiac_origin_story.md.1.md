@@ -7,7 +7,9 @@ TL/DR
 
 ## The Challenge
 
-Maintaining a secure public cloud while enabling developers 
+Maintaining a continuously secure public cloud while enabling developers to deliver value to users.
+
+UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud prescense of a company this size was an exciting, while daunting task.  We were also uniquely position as a product engineering organizatio
 
 ## How it began (we're on the right path)
 
@@ -59,6 +61,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjI0NjE2OSwtNzc3NzAzMjA5LC0xOD
-AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbLTEwODY2NTc4ODAsLTc3NzcwMzIwOSwtMT
+gwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
