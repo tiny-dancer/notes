@@ -9,11 +9,13 @@ TL/DR
 
 - The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
-I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is normal operating procedures. 
+I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
+
+We were confident and excited to bring this same culture to a public cloud infrastructure platform, blindly thinking the hardest was behind us.
 
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  Additionally as part of this pull request pipeline, we would pre-bake the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to a prod matching environment.
+We did all the things expected of a highly mature platform engineering team. Everything as code was the mantra and   Terraform was the toolWe had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  Additionally as part of this pull request pipeline, we would pre-bake the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to a prod matching environment.
 
 We could barely make progress.  
 
@@ -53,6 +55,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTExMjI0MDMsLTc3NzcwMzIwOSwtMT
-gwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTIwMTg1Mzk4NiwtNzc3NzAzMjA5LC0xOD
+AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
