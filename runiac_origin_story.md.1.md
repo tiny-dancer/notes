@@ -11,7 +11,7 @@ TL/DR
 
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request for validating changes.  
+We did all the things expected of a highly mature CI/CD team.  We had 100% fully automated deployments that derived from a single artifact progressing through a continuous delivery pipeline deploying to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  Additionally as part of this pull request pipeline, we would pre-bake the PR environment to match production, therefore each merged pull request was proven 
 
 We could barely make progress.  
 
@@ -51,6 +51,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTk3NDc0OCwtNzc3NzAzMjA5LC0xOD
+eyJoaXN0b3J5IjpbLTI3NDM0MTQ1MiwtNzc3NzAzMjA5LC0xOD
 AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
