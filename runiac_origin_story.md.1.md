@@ -9,7 +9,7 @@ TL/DR
 
 - The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
-I and other 
+I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is normal operating procedures. 
 
 ## What happened (we can see the road but can't find it)
 
@@ -53,6 +53,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MjQ5NTMyLC03Nzc3MDMyMDksLTE4MD
-E3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE5MTExMjI0MDMsLTc3NzcwMzIwOSwtMT
+gwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
