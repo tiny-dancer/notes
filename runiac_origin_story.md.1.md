@@ -96,10 +96,8 @@ Add impact notes here from last years review.
 
 ## Acknowledgements
 
-- Matthew Shilts - driving the everything as code mantra
-- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNDY3ODkxLC04NjM0ODEwMDcsNDgzMj
-kwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwt
-MTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0OD
+MyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5
+LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
