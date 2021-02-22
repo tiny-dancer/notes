@@ -39,7 +39,9 @@ We were drowning in our delivery pipeline, the very thing meant to enable us to 
 
 Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
 
-- *Focus on value code*:  Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline 
+- *Focus on value code*:  Our codeValuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastracture platform team, is the infrastrcture.  We needed to ensure we spent as much time as possible on infrastracture code.
+
+- *Faster feedback on changes*:  Waiting 
 
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
@@ -71,6 +73,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzA5MzEyNyw3MzI4MDk4NDIsLTc3Nz
+eyJoaXN0b3J5IjpbMTY5ODcwMTAxNyw3MzI4MDk4NDIsLTc3Nz
 cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
