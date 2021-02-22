@@ -51,7 +51,9 @@ This led to two focus points for our updated process:
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
 
+We were wary of developing any custom tools and were hopeful to leverage existing.  Surprisingly, we did not find a solution that targeted these two items specifically.
 
+> Terragrunt is a fantastic tool by a fantastic organization but it d 
 
 
 ## Runiac
@@ -79,7 +81,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTIyOTg0Niw2NzY3OTEzNTMsNzMyOD
+eyJoaXN0b3J5IjpbLTYzNDkyMjM3OCw2NzY3OTEzNTMsNzMyOD
 A5ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3
 OF19
 -->
