@@ -9,13 +9,13 @@ TL/DR
 
 Maintaining a continuously secure public cloud while enabling developers to deliver value to users.
 
-UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud prescense of a company this size was an exciting, while daunting task.  We were also uniquely position as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained 
+UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud prescense of a company this size was an exciting, while daunting task.  We were also uniquely position as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained the benefit of the teams adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
 
 We knew we would need to have a platform to secure and enable 1,000 cloud accounts, in each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
 ## How it began (we're on the right path)
 
-- The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
+The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
@@ -63,6 +63,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTU2NDI1MSwtNzc3NzAzMjA5LC0xOD
-AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MD
+E3NTMwMDMsLTk5OTUxMTY3OF19
 -->
