@@ -60,7 +60,11 @@ To solve the problem we decided to use two incredibly common tools:
 1. Folders (yes, you read this wright)
 2. Containers
 
-To avoid writing pipeline could, we would fully embrace the declarative sprit define any order of options declaratively using a folders.
+1) To avoid writing pipeline could, we would fully embrace the declarative spirit and declare order of options between terraform projects using folders.
+
+2) To ensure the local and pipeline deployments were always 100% in-sync using the same deployment logic, we would leverage a docker container to execute our terr
+
+
 ## Runiac
 
 Runiac was born to improve the experience developing and deploying infrastructure as code.
@@ -86,7 +90,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQxNjEyMjcsNjc2NzkxMzUzLDczMj
-gwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2
-NzhdfQ==
+eyJoaXN0b3J5IjpbNjU1ODAxMzkxLDY3Njc5MTM1Myw3MzI4MD
+k4NDIsLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4
+XX0=
 -->
