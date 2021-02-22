@@ -39,7 +39,9 @@ We were drowning in our delivery pipeline, the very thing meant to enable us to 
 
 Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
 
-- *Focus on value code*:   Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastracture platform team, is the infrastrcture.  We needed to ensure we spent as much time as possible on infrastracture code.
+- *Focus on value code*:   Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastructure platform team, is the infrastructure.    Our code base was roughly ~45% groovy,bash (jenkins) and 55% terraform (iac).  The churn between them was scaringly similar as well. Meaning we spent close to the same amount of time on the "means to end" pipeline as the valuable infrastructure code.  We needed to ensure we spent as much time as possible on infrastructure code.
+
+> Again, to clarify, pipelines are **hugely** important to the success of a product.  The key is 
 
 - *Faster feedback on changes*:  Waiting 
 
@@ -73,6 +75,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNjg2ODU4LDczMjgwOTg0MiwtNzc3Nz
-AzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbLTExMTczNDk4NTAsNzMyODA5ODQyLC03Nz
+c3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
