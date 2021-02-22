@@ -43,7 +43,7 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 
 > To clarify, pipelines are **hugely** important to the success of a product.  The key is ensuring the pipeline works for you over time and you don't work for the pipeline.  We were spending too much time on pipeline code.
 
-- *Faster feedback on changes*:  The faster a Waiting 30-60 minutes for feedback on if your change worked or not is highly 
+- *Faster feedback on changes*:  The faster a developer receives feedback on there change, the more changes they can test, the more changes they can test the more they can develop and with a high quality.   Waiting 30-60 minutes for feedback on if your change worked or not was a huge inhibitor to developing quality products efficiently.  One would 
 
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
@@ -75,6 +75,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDM5Mzg2Nyw3MzI4MDk4NDIsLTc3Nz
+eyJoaXN0b3J5IjpbLTg1ODQyMzYwMyw3MzI4MDk4NDIsLTc3Nz
 cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
