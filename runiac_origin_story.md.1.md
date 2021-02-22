@@ -9,7 +9,9 @@ TL/DR
 
 Maintaining a continuously secure public cloud while enabling developers to deliver value to users.
 
-UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud prescense of a company this size was an exciting, while daunting task.  We were also uniquely position as a product engineering organizatio
+UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud prescense of a company this size was an exciting, while daunting task.  We were also uniquely position as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained 
+
+We knew we would need to have a platform to secure and enable 1,000 cloud accounts, in each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
 ## How it began (we're on the right path)
 
@@ -61,6 +63,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY2NTc4ODAsLTc3NzcwMzIwOSwtMT
-gwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbMTUwOTU2NDI1MSwtNzc3NzAzMjA5LC0xOD
+AxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
