@@ -42,6 +42,8 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
 
+We knew we had to 
+
 ## Runiac
 
 Runiac was born to improve the experience developing and deploying infrastructure as code.
@@ -67,6 +69,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NDkyOTc5LDczMjgwOTg0MiwtNzc3Nz
+eyJoaXN0b3J5IjpbMTk1MDEyNzgyLDczMjgwOTg0MiwtNzc3Nz
 AzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
