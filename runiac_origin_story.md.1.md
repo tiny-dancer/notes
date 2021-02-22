@@ -41,9 +41,9 @@ Appreciating we were no longer deploying a typical application but uniquely deve
 
 - *Focus on value code*:   Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastructure platform team, is the infrastructure.    Our code base was roughly ~45% groovy,bash (jenkins) and 55% terraform (iac).  The churn between them was scaringly similar as well. Meaning we spent close to the same amount of time on the "means to end" pipeline as the valuable infrastructure code.  We needed to ensure we spent as much time as possible on infrastructure code.
 
-> Again, to clarify, pipelines are **hugely** important to the success of a product.  The key is 
+> To clarify, pipelines are **hugely** important to the success of a product.  The key is ensuring the pipeline works for you over time and you don't work for the pipeline.  We were spending too much time on pipeline code.
 
-- *Faster feedback on changes*:  Waiting 
+- *Faster feedback on changes*:  The faster a Waiting 30-60 minutes for feedback on if your change worked or not is highly 
 
 - **_No pipeline code_** necessary to add new features
 - Changes can be easily and reliably tested from a **_local environment_**
@@ -75,6 +75,6 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 Add impact notes here from last years review.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTczNDk4NTAsNzMyODA5ODQyLC03Nz
-c3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTU3NDM5Mzg2Nyw3MzI4MDk4NDIsLTc3Nz
+cwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
