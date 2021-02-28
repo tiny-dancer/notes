@@ -126,14 +126,14 @@ Runiac enabled a 220% productivity boost. A developer using runiac over the lega
 
 ## Overall Impact
 
-We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in delivered quality and system reliability.  This was an interesting observance that is likely an excellent example of a psychological phenomenon, if you know what that it would be please add a comment below!
+We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in overall quality and system reliability.  This was an interesting observance that is likely an excellent example of a psychological phenomenon, if you know what that it would be please add a comment below!
 
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mjc4NDI0MiwtNzcwNDk5NTAwLC0xOT
-AzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4MTAyMCwtMTk3MjYy
-MzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5MDY0MC
-w2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MDE3
-NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE4MzQ2ODcxNTksLTc3MDQ5OTUwMCwtMT
+kwMzYxOTc3NCw0NDk5NzE5NTUsLTE5Mzc0ODEwMjAsLTE5NzI2
+MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0ODMyOTA2ND
+AsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAx
+NzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
