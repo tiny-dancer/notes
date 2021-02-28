@@ -20,7 +20,9 @@ To accomplish this mission, we knew we would need to have a cloud platform capab
 
 ## How it began (we're on the right path)
 
-The year was 2018 and talk about public cloud as a entbeing a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
+The year was 2018 and talk about enterprise public cloud adoption shifted to being a reality.  At this start time we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  This led to the public cloud principals of everything as code, friction-less developer experience and 
+
+Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
@@ -127,8 +129,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzQ1NDIxMiwtMTkzNzQ4MTAyMCwtMT
-k3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5
-MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLT
-E4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTI1Nzc3OTMzLC0xOTM3NDgxMDIwLC0xOT
+cyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMDcsNDgzMjkw
+NjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwtMT
+gwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
