@@ -77,7 +77,6 @@ Enter...
 
 ## Runiac
 
-
 We like to think of it as what expo did for react native and what webpack did for front end, runiac is doing for terraform, arm templates, and other iac.
 
 One command, one workflow, any tool.  Currently supporting Terraform and arm templates
@@ -132,8 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOT
-M3NDgxMDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0
-ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLT
-c3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTc3MDQ5OTUwMCwtMTkwMzYxOTc3NCw0ND
+k5NzE5NTUsLTE5Mzc0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgz
+NzcxMzgsLTg2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLD
+czMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1
+MTE2NzhdfQ==
 -->
