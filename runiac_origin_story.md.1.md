@@ -106,21 +106,22 @@ Assuming a code change every 15 minutes, % time spent developing vs waiting on t
 * Runiac: 83% time spent writing valuable code  
 * Legacy: 30% time spent writing valuable code  
   
-Impact: A developer using Runiac will spend 3.7 more hours each day developing valuable Launchpad features (7 hour work day assumed)  
+Impact: A developer using Runiac will spend 3.7 more hours each day developing valuable features (7 hour work day assumed)  
   
-Time Investment  
-- With Gaia: 95% of the code is valuable cloud code .  
+### Value of Time (Focus on value code)
+  
+- Runiac: 95% of the code is valuable cloud code in repository.  
 - Legacy: 66% of the code is valuable cloud code. 33% is pipeline code.  
-- Roughly 33% of development time for _every feature_ is working on non-product value add code (pipeline)  
+	- Roughly 33% of development time for _every feature_ is working on non-product value add code (pipeline)  
   
-Impact: A developer using Gaia will spend 95% of coding time directly on value add Launchpad features, a productivity increase of 29% from legacy Launchpad  
+Impact: A developer using Runiac will spend 95% of coding time directly on value add Launchpad features, a productivity increase of 29% from legacy Launchpad  
   
 Overall Impact: 220% productivity boost. A developer using Gaia over the legacy pipeline will spend 4.7 more hours/day on value add product code. Meaning in a team six, 5 days developing with Gaia accomplishes the equivalent of 11 days using legacy, ~220%.
 
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5NDU5ODgsLTE3NDgzNzcxMzgsLT
+eyJoaXN0b3J5IjpbLTEzNjkzNDgwOTUsLTE3NDgzNzcxMzgsLT
 g2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0
 MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ
 ==
