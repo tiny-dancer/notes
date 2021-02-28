@@ -7,6 +7,7 @@ TL/DR
 - New mission to *Focus on value code* and *Faster feedback on changes*
 - Process changes to enable *No pipeline code* and _developer (local) prod-like environments_
 - Runiac born
+- 220% 
 - :rocket:
 
 ## The Challenge
@@ -126,8 +127,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLT
-g2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0
-MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ
-==
+eyJoaXN0b3J5IjpbODY2MTMyMTY5LC0xOTcyNjIzMTA1LC0xNz
+Q4Mzc3MTM4LC04NjM0ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1
+Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOT
+k5NTExNjc4XX0=
 -->
