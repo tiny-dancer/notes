@@ -16,11 +16,11 @@ TL/DR
 
 UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud presence for a company this size was an exciting, while daunting task.  We were also uniquely positioned as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained the team's benefit of adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
 
-We knew we would need to have a platform to secure and enable 3,000 cloud accounts across each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
+To accomplish this mission, we knew we would need to have a cloud platform capable of securing and enabling 3,000 cloud accounts across each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
 ## How it began (we're on the right path)
 
-The year was 2018, talk about public cloud being a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
+The year was 2018 and talk about public cloud as a entbeing a reality, we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  Starting off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated pipeline files with a custom YAML configuration layer.
 
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
@@ -127,7 +127,7 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODg5NjM2NiwtMTkzNzQ4MTAyMCwtMT
+eyJoaXN0b3J5IjpbMTY4NzQ1NDIxMiwtMTkzNzQ4MTAyMCwtMT
 k3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5
 MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLT
 E4MDE3NTMwMDMsLTk5OTUxMTY3OF19
