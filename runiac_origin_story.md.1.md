@@ -22,15 +22,17 @@ To accomplish this mission, we knew we would need to have a cloud platform capab
 
 The year was 2018 and talk about enterprise public cloud adoption shifted to being a reality.  At this start time we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  This led to the public cloud principals of everything as code, friction-less developer experience and no humans necessary in production.
 
-We  everything off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated groovy pipelines with a custom YAML configuration interface.
-
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
 We were confident and excited to bring this same culture to a public cloud infrastructure platform, ignorantly believing the hardest was behind us in true leroy jenkins fashion.
 
 ## What happened (we can see the road but can't find it)
 
-We did all the things expected of a highly mature platform engineering team. Everything as code was the mantra and terraform with jenkins would be our ticket to paradise.  We dove head first re-creating 100% fully automated deployments progressing through a single continuous delivery pipeline deploying to the same terraform code with different variables to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  As part of this pull request pipeline we would go as far as pre-baking the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to an environment matching prod.
+We did all the things expected of a highly mature platform engineering team.   Everything as code was the mantra and terraform with jenkins would be our ticket to paradise.  
+
+We kicked everything off 'right' with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated groovy pipelines with a custom YAML configuration interface.
+
+We dove head first re-creating 100% fully automated deployments progressing through a single continuous delivery pipeline deploying to the same terraform code with different variables to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  As part of this pull request pipeline we would go as far as pre-baking the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to an environment matching prod.
 
 We could barely make progress.  
 
@@ -129,8 +131,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU2MDI1MTgsLTE5Mzc0ODEwMjAsLT
-E5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0ODMy
-OTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC
-0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbNDQ5OTcxOTU1LC0xOTM3NDgxMDIwLC0xOT
+cyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMDcsNDgzMjkw
+NjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwtMT
+gwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
