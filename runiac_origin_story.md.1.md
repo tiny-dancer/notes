@@ -116,13 +116,17 @@ Impact: A developer using Runiac will spend 3.7 more hours each day developing v
   
 Impact: A developer using Runiac will spend 95% of coding time directly on value add Launchpad features, a productivity increase of 29% from legacy Launchpad  
   
-Overall Impact: 220% productivity boost. A developer using Gaia over the legacy pipeline will spend 4.7 more hours/day on value add product code. Meaning in a team six, 5 days developing with Gaia accomplishes the equivalent of 11 days using legacy, ~220%.
+ ### Overall Impact
+
+Runiac enabled a 220% productivity boost. A developer using runiac over the legacy pipeline will spend 4.7 more hours/day on value add product code. Meaning in a team six, 5 days developing with runiac accomplishes the equivalent of 11 days using legacy, ~220%.
+
+We hypoths
+
 
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkzNDgwOTUsLTE3NDgzNzcxMzgsLT
-g2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0
-MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ
-==
+eyJoaXN0b3J5IjpbNTE2ODU1NTc3LC0xNzQ4Mzc3MTM4LC04Nj
+M0ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIs
+LTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
