@@ -5,9 +5,9 @@ TL/DR
 - We thought we were awesome and codified everything and ran it through jenkins with pipeline as code.
 - We were not awesome, making changes and improving things took forever as we had to use and add to the pipeline for each change. 
 - New mission to *Focus on value code* and *Faster feedback on changes*
-- Process changes to enable *No pipeline code* and _developer (local) prod-like environments_
+- Adapt to enable *No pipeline code* and _developer (local) prod-like environments_
 - Runiac born
-- 220% 
+- 220% productivity boost
 - :rocket:
 
 ## The Challenge
@@ -127,8 +127,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MTMyMTY5LC0xOTcyNjIzMTA1LC0xNz
-Q4Mzc3MTM4LC04NjM0ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1
-Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwtMTgwMTc1MzAwMywtOT
-k5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTE5Mzc0ODEwMjAsLTE5NzI2MjMxMDUsLT
+E3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2Nzkx
+MzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC
+05OTk1MTE2NzhdfQ==
 -->
