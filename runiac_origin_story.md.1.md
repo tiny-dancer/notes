@@ -92,7 +92,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 ## The Impact
 
-Transitioning to runiac led to a 220% productivity boost in developer time for the first team to adopt it.  More detailed:  
+Transitioning to runiac led to a 220% productivity boost in developer time for the first team to adopt it. 
   
 ### Feedback Loop  
 
@@ -116,17 +116,17 @@ Impact: A developer using Runiac will spend 3.7 more hours each day developing v
   
 Impact: A developer using Runiac will spend 95% of coding time directly on value add Launchpad features, a productivity increase of 29% from legacy Launchpad  
   
- ### Overall Impact
+ ### Combining the two
 
 Runiac enabled a 220% productivity boost. A developer using runiac over the legacy pipeline will spend 4.7 more hours/day on value add product code. Meaning in a team six, 5 days developing with runiac accomplishes the equivalent of 11 days using legacy, ~220%.
 
-We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in delivered quality and system reliability.  This was an interesting observance that is likely an excellent example of a physcological phenonom, if you know what that it would please add a comment below!
+We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in delivered quality and system reliability.  This was an interesting observance that is likely an excellent example of a psychological phenomenon, if you know what that it would please add a comment below!
 
 
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkxMjIwODMsLTE3NDgzNzcxMzgsLT
+eyJoaXN0b3J5IjpbLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLT
 g2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0
 MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ
 ==
