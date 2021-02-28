@@ -66,10 +66,10 @@ We were wary of developing any custom tools and were hopeful to leverage existin
 
 To solve the problem we decided to use two incredibly common tools:
 
-1. Folders (yes, you read this wright)
-2. Containers
+1. Folders (yes, you read that correctly)
+2. Containers (docker)
 
-1) To avoid writing pipeline could, we would fully embrace the declarative spirit and declare order of options between terraform projects using folders.
+1) To avoid writing pipeline code, we would fully embrace the declarative spirit and declare order of options between terraform projects using folders.
 
 2) To ensure the local and pipeline deployments were always 100% in-sync using the same deployment logic, we would leverage a docker container to execute our deployments and run terraform.
 
@@ -131,8 +131,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc1Mjk4OTYsNDQ5OTcxOTU1LC0xOT
-M3NDgxMDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0
-ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLT
-c3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTc3MzQzNzY5Niw0NDk5NzE5NTUsLTE5Mz
+c0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4
+MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNz
+c3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
