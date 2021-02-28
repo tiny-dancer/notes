@@ -12,9 +12,9 @@ TL/DR
 
 ## The Challenge
 
+> Building out the public cloud platform for UnitedHealth Group to sustainably adopt the public cloud safely while enabling developers and products to innovate.
 
-
-UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud pres for a company this size was an exciting, and equally daunting task.  We were also uniquely positioned as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained the benefit of the teams adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
+UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud presence for a company this size was an exciting, while daunting task.  We were also uniquely positioned as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained the team's benefit of adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
 
 We knew we would need to have a platform to secure and enable 3,000 cloud accounts across each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
@@ -127,8 +127,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk0OTQ5NTIsLTE5Mzc0ODEwMjAsLT
-E5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0ODMy
-OTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC
-0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbMTExODg5NjM2NiwtMTkzNzQ4MTAyMCwtMT
+k3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5
+MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLT
+E4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
