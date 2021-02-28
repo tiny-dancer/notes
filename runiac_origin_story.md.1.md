@@ -120,13 +120,14 @@ Impact: A developer using Runiac will spend 95% of coding time directly on value
 
 Runiac enabled a 220% productivity boost. A developer using runiac over the legacy pipeline will spend 4.7 more hours/day on value add product code. Meaning in a team six, 5 days developing with runiac accomplishes the equivalent of 11 days using legacy, ~220%.
 
-We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in quality and r
+We hypothesized this productivity boost would translate to accomplishing road map items faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in delivered quality and system reliability.  This was an interesting observance that is likely an excellent example of a physcological phenonom, if you know what that it would please add a comment below!
 
 
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTYyNDc2NiwtMTc0ODM3NzEzOCwtOD
-YzNDgxMDA3LDQ4MzI5MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQy
-LC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE0MTkxMjIwODMsLTE3NDgzNzcxMzgsLT
+g2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0
+MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ
+==
 -->
