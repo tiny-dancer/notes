@@ -2,10 +2,10 @@
 
 TL/DR
 
-- We thought we were awesome and codified everything and ran it through jenkins with pipeline as code.
+- We thought we were awesome codifying everything with terraform and ran it through jenkins with pipeline as code.
 - We were not awesome, making changes and improving things took forever as we had to use and add to the pipeline for each change. 
 - New mission to *Focus on value code* and *Faster feedback on changes*
-- Adapt to enable *No pipeline code* and _developer (local) prod-like environments_
+- Adapt to enable *No pipeline code* and _local development with prod-like environments_
 - Runiac born
 - 220% productivity boost
 - :rocket:
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDQ5OTUwMCwtMTkwMzYxOTc3NCw0ND
-k5NzE5NTUsLTE5Mzc0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgz
-NzcxMzgsLTg2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLD
-czMjgwOTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1
-MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbMjA5Mjc4NDI0MiwtNzcwNDk5NTAwLC0xOT
+AzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4MTAyMCwtMTk3MjYy
+MzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5MDY0MC
+w2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MDE3
+NTMwMDMsLTk5OTUxMTY3OF19
 -->
