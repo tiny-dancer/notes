@@ -62,7 +62,7 @@ This led to two focus points for our updated process:
 
 We were wary of developing any custom tools and were hopeful to leverage existing.  Surprisingly, we did not find a solution that targeted these two items specifically.
 
-> Terragrunt is a fantastic tool by a fantastic organization but similar to terraform, still relied on implementing specific logic to run it
+> Terragrunt is a fantastic tool by a fantastic organization easing the use of terraform, however it does specifically solve these higher level developer experience items and similar to terraform, still relied on implementing specific logic to run it
 
 To solve the problem we decided to use two incredibly common tools:
 
@@ -131,8 +131,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5OTcxOTU1LC0xOTM3NDgxMDIwLC0xOT
-cyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMDcsNDgzMjkw
-NjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3NzcwMzIwOSwtMT
-gwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTQ3MjUxODUyNiw0NDk5NzE5NTUsLTE5Mz
+c0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4
+MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNz
+c3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
