@@ -97,7 +97,7 @@ Between *runners*, *steps* and being *containerized*.  Developers can now use th
 
 ## The Impact
 
-Transitioning to runiac led to a 220% productivity boost in developer time for our public cloud platform team adopting it. 
+Transitioning to runiac led to a 220% productivity boost in developer time for our public cloud platform engineering team adopting it. 
   
 ### Feedback Loop  
 
@@ -131,8 +131,8 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQxMzQyOTcsNDQ5OTcxOTU1LC0xOT
-M3NDgxMDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0
-ODEwMDcsNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLT
-c3NzcwMzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbLTExMjgyNDgwNiw0NDk5NzE5NTUsLTE5Mz
+c0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4
+MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNz
+c3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
