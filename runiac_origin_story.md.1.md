@@ -22,11 +22,11 @@ To accomplish this mission, we knew we would need to have a cloud platform capab
 
 The year was 2018 and talk about enterprise public cloud adoption shifted to being a reality.  At this start time we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  This led to the public cloud principals of everything as code, friction-less developer experience and no humans necessary in production.
 
-We kicked everything off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated groovy pipelines with a custom YAML configuration interface.
+We  everything off right with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated groovy pipelines with a custom YAML configuration interface.
 
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
-We were confident and excited to bring this same culture to a public cloud infrastructure platform, blindly thinking the hardest was behind us.
+We were confident and excited to bring this same culture to a public cloud infrastructure platform, ignorantly believing the hardest was behind us in true leroy jenkins fashion.
 
 ## What happened (we can see the road but can't find it)
 
@@ -129,7 +129,7 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 ## Acknowledgements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMxMzc2NTEsLTE5Mzc0ODEwMjAsLT
+eyJoaXN0b3J5IjpbLTE0NTU2MDI1MTgsLTE5Mzc0ODEwMjAsLT
 E5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNyw0ODMy
 OTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAzMjA5LC
 0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
