@@ -18,7 +18,7 @@ UnitedHealth Group is a fortune 6 company with over 30,000 technologists.  Looki
 
 To accomplish this mission, we knew we would need to have a cloud platform capable of securing and enabling 3,000 cloud accounts across each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
-## How it began: we're on the right path
+## The Beginning: On the right path
 
 The year was 2018 and talk about enterprise public cloud adoption was shifting to a reality.  Starting at this time we had the benefit of learning from the prior 10 years of other fortune 500 company's cloud journeys.  This led to public cloud principals of everything as code, friction-less developer experience and no human changes in production.
 
@@ -26,7 +26,7 @@ I and others starting the new public cloud platform engineering team had recentl
 
 We were confident and excited to bring this same culture to a public cloud infrastructure platform, ignorantly believing the hardest was behind us in true leroy jenkins fashion.
 
-## What happened: we see the road but can't find it
+## What Happened: See the road but can't find it
 
 We did all the things expected of a highly mature platform engineering team.   Everything as code was the mantra and terraform with jenkins would be our ticket to paradise.  
 
@@ -44,7 +44,7 @@ Deploying the code from our local environments was not an easy task based on how
 
 We were drowning in our delivery pipeline, the very thing meant to enable us to move fast and innovate.  
 
-## A Fresh Look
+## A Fresh Look: Paving a new road
 
 Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
 
@@ -131,7 +131,7 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDcyNjE5MywxMzQ5MDg3MzEyLC03Nz
+eyJoaXN0b3J5IjpbMjA2NzEwODM2OSwxMzQ5MDg3MzEyLC03Nz
 A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
 MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
 csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
