@@ -46,7 +46,7 @@ We were drowning in our delivery pipeline, the very thing meant to enable us to 
 
 ## A Fresh Look: Paving a new road
 
-Appreciating we were no longer deploying a typical application but uniquely developing with iac as a primary language around the clock, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
+Appreciating we were no longer deploying a typical application but uniquely developing a cloud platform with terraform as our primary language, we took a big step back and approached our development and delivery with a fresh perspective.    This fresh perspective led to two driving missions:
 
 - *Focus on value code*:   Valuable developing time on this team was infrastructure code, _not pipeline code_.  A pipeline is a hugely important means to an end.  The pipeline itself is not the product, the product for an infrastructure platform team, is the infrastructure.    Our code base was roughly ~45% groovy,bash (jenkins) and 55% terraform (iac).  The churn between them was scaringly similar as well. Meaning we spent close to the same amount of time on the "means to end" pipeline as the valuable infrastructure code.  We needed to ensure we spent as much time as possible on infrastructure code.
 
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczODkwNTY0LDEzNDkwODczMTIsLTc3MD
-Q5OTUwMCwtMTkwMzYxOTc3NCw0NDk5NzE5NTUsLTE5Mzc0ODEw
-MjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNy
-w0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAz
-MjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3OTAyODkxMTksMTM0OTA4NzMxMiwtNz
+cwNDk5NTAwLC0xOTAzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4
+MTAyMCwtMTk3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMD
+A3LDQ4MzI5MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3
+MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
