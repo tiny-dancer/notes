@@ -128,13 +128,13 @@ Runiac enabled a 220% productivity boost. A developer using runiac over the lega
 
 We hypothesized this productivity boost would translate to accomplishing road map items faster, more efficiency in completing work meaning work being completed faster.  Interestingly, the rate of features being completed remained the same.  We instead saw a 220% boost in overall quality and system reliability.  This was an interesting observation and is likely an excellent example of a psychological phenomenon, if you know what that would be please add a comment!
 
-The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
+The end result: the successful creation of a world-class global cloud platform with sustainable adoption across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTM4ODM0MywtNDIxNDc3Nzg3LDEzND
-kwODczMTIsLTc3MDQ5OTUwMCwtMTkwMzYxOTc3NCw0NDk5NzE5
-NTUsLTE5Mzc0ODEwMjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMz
-gsLTg2MzQ4MTAwNyw0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgw
-OTg0MiwtNzc3NzAzMjA5LC0xODAxNzUzMDAzLC05OTk1MTE2Nz
-hdfQ==
+eyJoaXN0b3J5IjpbODk1NjgyNDY4LC00MjE0Nzc3ODcsMTM0OT
+A4NzMxMiwtNzcwNDk5NTAwLC0xOTAzNjE5Nzc0LDQ0OTk3MTk1
+NSwtMTkzNzQ4MTAyMCwtMTk3MjYyMzEwNSwtMTc0ODM3NzEzOC
+wtODYzNDgxMDA3LDQ4MzI5MDY0MCw2NzY3OTEzNTMsNzMyODA5
+ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF
+19
 -->
