@@ -5,7 +5,7 @@ TL/DR
 - Building out public cloud platform for fortune 6 health care company.
 - We thought we were awesome codifying everything with terraform and running it through jenkins with pipeline as code.
 - We were not awesome, making changes and improving things took forever as we had to use and add to the pipeline for each change. 
-- New mission to *Focus on value code* and *Faster feedback on changes*
+- New mission to *Focus on value code [not pipeline code]* and *Faster feedback on changes*
 - Adapt to enable *No pipeline code* and _local development with prod-like environments_
 - Runiac born
 - 220% productivity boost
@@ -132,10 +132,10 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation of a world-class global cloud platform with sustainable adoption across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1MTEwOTQsODk1NjgyNDY4LC00Mj
-E0Nzc3ODcsMTM0OTA4NzMxMiwtNzcwNDk5NTAwLC0xOTAzNjE5
-Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4MTAyMCwtMTk3MjYyMzEwNS
-wtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5MDY0MCw2NzY3
-OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MDE3NTMwMD
-MsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTE4NTcwNzMwMDgsLTE1MDE1MTEwOTQsOD
+k1NjgyNDY4LC00MjE0Nzc3ODcsMTM0OTA4NzMxMiwtNzcwNDk5
+NTAwLC0xOTAzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4MTAyMC
+wtMTk3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4
+MzI5MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMD
+ksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
 -->
