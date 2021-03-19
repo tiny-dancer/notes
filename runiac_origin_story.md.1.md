@@ -20,7 +20,7 @@ To accomplish this mission, we knew we would need to have a cloud platform capab
 
 ## How it began (we're on the right path)
 
-The year was 2018 and talk about enterprise public cloud adoption shifted to being a reality.  At this start time we had the benefit of learning from the prior 10 years and other fortune 500 adopters.  This led to the public cloud principals of everything as code, friction-less developer experience and no humans necessary in production.
+The year was 2018 and talk about enterprise public cloud adoption was shifting to a reality.  Starting at this time we had the benefit of learning from the prior 10 years of other fortune 500 company's cloud journeys.  This led to public cloud principals of everything as code, friction-less developer experience and no human changes in production.
 
 I and others starting the new public cloud platform engineering team had recently come from building a highly performant developer platform.  We knew how to deploy and run software fast, safe and at scale where one or more production deployments a day is part of the normal operating procedures. 
 
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTcwODEyMywxMzQ5MDg3MzEyLC03Nz
-A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
-MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
-csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
-MzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbNDc1OTAxOTgxLDEzNDkwODczMTIsLTc3MD
+Q5OTUwMCwtMTkwMzYxOTc3NCw0NDk5NzE5NTUsLTE5Mzc0ODEw
+MjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNy
+w0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAz
+MjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
