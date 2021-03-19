@@ -32,7 +32,7 @@ We did all the things expected of a highly mature platform engineering team.   E
 
 We kicked everything off 'right' with highly mature CI/CD practices with everything configured as code.  Following the success of doing this in another team, we went all in on Jenkins with highly sophisticated groovy pipelines with a custom YAML configuration interface.
 
-We dove head first re-creating 100% fully automated deployments progressing through a single continuous delivery pipeline deploying to the same terraform code with different variables to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  As part of this pull request pipeline we would go as far as pre-baking the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to an environment matching prod.
+In short time we had fully automated deployments progressing through a single continuous delivery pipeline deploying the same terraform code with different variables to each environment.  Pull requests were deploying changes to an ephemeral environment specific to the pull request ensuring every merged pull request had a functioning deployment and living environment.  As part of this pull request pipeline we would go as far as pre-baking the PR environment to match production, therefore each merged pull request was proven to be successful in deploying to an environment matching prod.
 
 We could barely make progress.  
 
@@ -131,7 +131,7 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzEwODM2OSwxMzQ5MDg3MzEyLC03Nz
+eyJoaXN0b3J5IjpbMTk2NjI0MzM5OCwxMzQ5MDg3MzEyLC03Nz
 A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
 MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
 csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
