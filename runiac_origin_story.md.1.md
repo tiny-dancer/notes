@@ -36,7 +36,7 @@ In short time we had fully automated deployments progressing through a single co
 
 We could barely make progress.  
 
-Our code was so intertwined with our pipeline that we were spending more time writing jenkins pipeline groovy code when adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request pipeline commit to finish its verification.   Based on those numbers, a developer working on a work item during the would get no more than 5 chances to verify what they were working on before hitting near to 3 hours of pipeline wait time.  3 hours of waiting each day.  Those who work with terraform know the power of guess and check, the faster we can validate changes the better.
+Our code was so intertwined with our pipeline that we were spending more time writing jenkins pipeline groovy code when adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request commit to finish its pipeline verification.   Based on those numbers a developer working on a task would get no more than 5 chances to verify their work before hitting near to 3 hours of pipeline wait time.  3 hours of waiting each day.  Those who work with clouds and Terraform know the power of guess and check, the faster we can validate changes the better.
 
 I assure you stating this so concisely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than I would like to admit to determine our "advanced" process was causing engineers to spend an eerily similar amount of time between developing and waiting.
 
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjMyNTAzOSwxMzQ5MDg3MzEyLC03Nz
-A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
-MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
-csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
-MzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
+eyJoaXN0b3J5IjpbMjMwODA2MDM3LDEzNDkwODczMTIsLTc3MD
+Q5OTUwMCwtMTkwMzYxOTc3NCw0NDk5NzE5NTUsLTE5Mzc0ODEw
+MjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNy
+w0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAz
+MjA5LC0xODAxNzUzMDAzLC05OTk1MTE2NzhdfQ==
 -->
