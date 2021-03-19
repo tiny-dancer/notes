@@ -103,22 +103,22 @@ Transitioning to runiac led to a 220% productivity boost in developer time for o
 Time spent waiting on testing/validating a change made to the iac.
   
 * Runiac: 3 minutes  
-* Legacy: ~35 minutes  
+* Previous: ~35 minutes  
 
 Assuming a code change every 15 minutes, % time spent developing vs waiting on tooling/process:  
 
 * Runiac: 83% time spent writing valuable code  
-* Legacy: 30% time spent writing valuable code  
+* Previous: 30% time spent writing valuable code  
   
 Impact: A developer using Runiac will spend 3.7 more hours each day developing valuable features (7 hour work day assumed)  
   
 ### Value of Time (Focus on value code)
   
 - Runiac: 95% of the code is valuable cloud code in repository.  
-- Legacy: 66% of the code is valuable cloud code. 33% is pipeline code.  
-	- Roughly 33% of development time for _every feature_ is working on non-product value add code (pipeline)  
+- Previous: 66% of the code is valuable cloud code. 33% is pipeline code.  
+	- Roughly 33% of development time for _every feature_ is working on non-product value add code (pipeline code)  
   
-Impact: A developer using Runiac will spend 95% of coding time directly on value add Launchpad features, a productivity increase of 29% from legacy Launchpad  
+Impact: A developer using Runiac will spend 95% of coding time directly on valuable terraform code, a productivity increase of 29% from previous processes
   
  ### Combining the two
 
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAyODkxMTksMTM0OTA4NzMxMiwtNz
-cwNDk5NTAwLC0xOTAzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4
-MTAyMCwtMTk3MjYyMzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMD
-A3LDQ4MzI5MDY0MCw2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3
-MDMyMDksLTE4MDE3NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbLTQyMTQ3Nzc4NywxMzQ5MDg3MzEyLC03Nz
+A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
+MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
+csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
+MzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
