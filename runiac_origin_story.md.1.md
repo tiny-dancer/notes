@@ -14,7 +14,7 @@ TL/DR
 
 > Building out the public cloud platform for UnitedHealth Group to sustainably adopt the public cloud safely while enabling developers and products to innovate.
 
-UnitedHealth Group is a fortune 6 company with 40,000 technologists.  Looking at the future public cloud presence for a company this size was an exciting, while daunting task.  We were also uniquely positioned as a product engineering organization where customer value and friction-less users experiences are of the utmost importance.  We wanted to ensure the public cloud maintained the team's benefit of adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
+UnitedHealth Group is a fortune 6 company with over 30,000 technologists.  Looking at the future public cloud presence for a company of this size was an exciting and daunting task.  We were uniquely positioned as a product engineering organization where customer value and friction-less user experiences are of the utmost importance.  We wanted to ensure public cloud maintained the team's benefit of adopting it to control their own destiny, while at the same time having a paved path of secure, expedited cloud growth.
 
 To accomplish this mission, we knew we would need to have a cloud platform capable of securing and enabling 3,000 cloud accounts across each major cloud provider.  1,000 gcp projects, 1,000 aws accounts, and 1,000 azure subscriptions.
 
@@ -131,9 +131,9 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTA4NzMxMiwtNzcwNDk5NTAwLC0xOT
-AzNjE5Nzc0LDQ0OTk3MTk1NSwtMTkzNzQ4MTAyMCwtMTk3MjYy
-MzEwNSwtMTc0ODM3NzEzOCwtODYzNDgxMDA3LDQ4MzI5MDY0MC
-w2NzY3OTEzNTMsNzMyODA5ODQyLC03Nzc3MDMyMDksLTE4MDE3
-NTMwMDMsLTk5OTUxMTY3OF19
+eyJoaXN0b3J5IjpbMTEyOTcwODEyMywxMzQ5MDg3MzEyLC03Nz
+A0OTk1MDAsLTE5MDM2MTk3NzQsNDQ5OTcxOTU1LC0xOTM3NDgx
+MDIwLC0xOTcyNjIzMTA1LC0xNzQ4Mzc3MTM4LC04NjM0ODEwMD
+csNDgzMjkwNjQwLDY3Njc5MTM1Myw3MzI4MDk4NDIsLTc3Nzcw
+MzIwOSwtMTgwMTc1MzAwMywtOTk5NTExNjc4XX0=
 -->
