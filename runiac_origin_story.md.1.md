@@ -38,7 +38,7 @@ We could barely make progress.
 
 Our code was so intertwined with our pipeline that we were spending more time writing jenkins pipeline groovy code when adding new features than terraform code.  On top of that, testing a single change would take ~30-60 minutes to wait for a pull request commit to finish its pipeline verification.   Based on those numbers a developer working on a task would get no more than 5 chances to verify their work before hitting near to 3 hours of pipeline wait time.  3 hours of waiting each day.  Those who work with clouds and Terraform appreciate the power of guess and checking quick configuration changes, the faster we can validate changes the better.
 
-I assure you stating this so concisely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than one would like to admit in determining our "advanced" process was causing engineers to spend an eerily similar amount of time between developing and waiting.
+I assure you stating this so concisely is a benefit of captain hindsight.  At the time there was a lot of effort swirling around improving the pipeline, delivering  features, learning the in's and out's of each cloud and many other things.  It took longer than one would like to admit in determining our "advanced" process was causing engineers to spend an just about the same amount of time developing as waiting.
 
 Deploying the code from our local environments was not an easy task based on how heavily tied our deployment logic was to our pipeline, therefore it was labeled as a 'nice to have' and not a popular option.
 
@@ -131,7 +131,7 @@ We hypothesized this productivity boost would translate to accomplishing road ma
 The end result: the successful creation and sustainable adoption of a world-class global cloud platform across 3 major clouds for a fortunate 6 health care company with 5 engineers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mjc5MzM0LDEzNDkwODczMTIsLTc3MD
+eyJoaXN0b3J5IjpbNjczODkwNTY0LDEzNDkwODczMTIsLTc3MD
 Q5OTUwMCwtMTkwMzYxOTc3NCw0NDk5NzE5NTUsLTE5Mzc0ODEw
 MjAsLTE5NzI2MjMxMDUsLTE3NDgzNzcxMzgsLTg2MzQ4MTAwNy
 w0ODMyOTA2NDAsNjc2NzkxMzUzLDczMjgwOTg0MiwtNzc3NzAz
