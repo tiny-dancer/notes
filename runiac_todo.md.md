@@ -5,26 +5,16 @@ RunIaC
 -   if error response includes “to be managed via Terraform this resource needs to be imported into the State”
 -   better document the containers (e.g. terraform being used, etc)
 -   document how to resolve “how can i tear down an earlier step when a later step fails?”
-
--   —> run the explicit step
+  -   —> run the explicit step
 
 -   better document learned lessons from steps
-
--   terraform runner: prefer a single step where possible
-
--   reasons to expand:
-
--   When it doesn’t make sense
-
--   eliminate runiac_environment being required
-
--   cli and terraform runner
-
--   configurable delay between the retries
+  -   terraform runner: prefer a single step where possible
+  -   reasons to expand:
+  -   When it doesn’t make sense
+-  configurable delay between the retries
 -   ability to run it outside of runiac
-
--   backend.tf interpolation
--   step to step variable naming convention
+  -   backend.tf interpolation
+ -   step to step variable naming convention
 
 -   runiac short cut to break lease on azure storage account
 -   ability to remove state locking locally
@@ -67,5 +57,5 @@ Blog
 
 -   you can move all the terraform configurations to regional. runiac requires terraform to be present in the primary but it does not require any resources to be defined
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjYxMzk0Ml19
+eyJoaXN0b3J5IjpbLTEzNTMxOTA5MDldfQ==
 -->
