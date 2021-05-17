@@ -30,24 +30,15 @@ Blog
 		-   use cases:
 			-   a single step becoming unwieldily large
 			-  separating provider configurations
-
 -   Running terraform state commands
 -   Is there value in testing infrastructure as code?
 -   Design paradigm:
-
--   all configuration variables can be derived from a common set of contextual inputs
-
--   this enables portability of deployments patterns by avoiding coupling adding additional pipeline or external execution logic to pass in variables.
-
--   Multi-region deployments
-
+	-   all configuration variables can be derived from a common set of contextual inputs
+		-   this enables portability of deployments patterns by avoiding coupling adding additional pipeline or external execution logic to pass in variables.
 -   how can i define different regions for different environments?
-
--   use the cli to override defaults in automated pipelines
-
+	-   use the cli to override defaults in automated pipelines
 -   how can i prevent duplicating code between primary and regional steps?
-
--   you can move all the terraform configurations to regional. runiac requires terraform to be present in the primary but it does not require any resources to be defined
+	-   you can move all the terraform configurations to regional. runiac requires terraform to be present in the primary but it does not require any resources to be defined
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgwNjU4NTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDUxMzk5MjhdfQ==
 -->
