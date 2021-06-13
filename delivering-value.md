@@ -9,6 +9,10 @@
 
 ### The 'how' of value delivery
 
+-    **Synergy:** - Creates conventions to build in consistency.  Consistency enables cohesion where a system can automatically leverage other parts so that the sum is greater than the whole.  For example, creating an api where then a pagerduty service, oauth2 client, and baseline alerting is automatically created to reflect it's existence.
+
+-   **Think large, start small (agile)** - Optimize for reacting to learnings over predicting the future.  Define a true north and evolve towards it with flexibility based on evidence.
+
 -   **Ephemeral Environments:** component changes are reflected in a safe, isolated environment mirroring a production deployment and integrated with existing environments for valuable testing and deployment validation
     
 -    **Portable Execution:** the deployment logic is not dependent on being executed within a specific pipeline; this enables valuable, quick-iterating local development and future ci/cd system changes
