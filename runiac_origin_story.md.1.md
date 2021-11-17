@@ -63,7 +63,7 @@ This led to two focus points for our updated process:
 
 We were wary of developing any custom tools and were hopeful to leverage existing.  Surprisingly, we did not find a solution that targeted these two items specifically.
 
-> For example, Terragrunt is a fantastic open source tool easing the use of terraform, however it does specifically solve these higher level developer experience items and similar to terraform relies on implementing specific terragrunt deployment logic to run it
+> For example, Terragrunt is a popular open source tool easing the use of terraform, however terragrunt is more focused on code-level developer experience and not the higher execution level developer experience.  Runiac could execute terragrunt to get the best of both worlds.
 
 To solve the problem we decided to use two incredibly common tools:
 
