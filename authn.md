@@ -24,7 +24,7 @@ This is a very valuable architectural implementation because it enables the IdP 
 
 For example, let's say application "awesome" has decided to utilize Okta.  Once completing a one-time integration with Okta, user facing logins can be configured without requiring code changes.  
 
-- "Awesome" app decides to first go-live only supporting Optum ID, this configuration can occur in Okta with no code changes.
+- "Awesome" app decides to first go-live only supporting google, this configuration can occur in Okta with no code changes.
 - 6 months later, users demand the ability to login with GovID, this configuration can occur in Okta with no code changes.  
 - Months later, a new customer would like to use their own enterprise login, this configuration can occur in Okta with no code changes.  
 
@@ -50,8 +50,3 @@ OpenID Connect *(OIDC)* was later released as a super-set of OAuth 2.0 focused o
 
 A constant option in all applications is to implement your own authentication from the ground up.  This is generally faciliated by framework-level libraries and can be straight forward to start with.  However, as stated earlier this approach is not recommended.  Authentication is not a business differentiator for most applications, be mindful of the added legal and scope risk when deciding this approach.
 
-## How This Applies in Optum
-
-Most applications use one of three IdP's for their application: HealthSafe ID, Optum ID, or Enterprise ID (MS).  Each one of these IdP's support OpenID Connect while Enterprise ID also supports SAML 2.0.  No UHG IdP supports _Identity Brokering_.
-
-Cloud applications often utilize Azure AD B2C, AWS Cognito, or Okta to receive the benefits of _identity brokering_ when integrating with a UHG IdP.
